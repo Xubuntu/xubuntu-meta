@@ -1,0 +1,579 @@
+xubuntu-meta (1.4) breezy; urgency=low
+  
+  * Remove minimal- and standard- package lists as they are not specfic
+    to xubuntu
+  * Refreshed dependencies
+  * Added ubuntu-docs to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Jani Monoses <jani@ubuntu.com>  Wed, 12 Oct 2005 22:18:59 +0300
+
+xubuntu-meta (1.3) breezy; urgency=low
+  * Start using a local branch of the ubuntu seeds as a base for
+    package selection.
+  * Refreshed dependencies
+  * Added cdparanoia to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added cupsys-driver-gimpprint to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added less to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa
+  * Added laptop-detect to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Added acpid to desktop-i386, desktop-amd64, desktop-ia64
+  * Added usplash to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-sparc
+  * Added iproute to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added pppconfig to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added passwd to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added findutils to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added screen to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added readahead to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added reiserfsprogs to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added hal to desktop-i386, desktop-amd64, desktop-powerpc, desktop-
+    ia64, desktop-sparc, desktop-hppa
+  * Added grepmap to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added coreutils to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added evms-ncurses to standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc, standard-hppa
+  * Added wget to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added lvm2 to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added jfsutils to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added iptables to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added locales to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added makedev to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added xfce4-iconbox to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added language-pack-es to live-powerpc
+  * Added ethtool to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added lftp to desktop-i386, desktop-amd64, desktop-powerpc, desktop-
+    ia64, desktop-sparc, desktop-hppa
+  * Added unzip to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added language-pack-hi to live-powerpc
+  * Added ttf-kochi-mincho to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added x-ttcidfont-conf to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added python to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added mkisofs to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added telnet to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added pnm2ppa to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added dc to desktop-i386, desktop-amd64, desktop-powerpc, desktop-
+    ia64, desktop-sparc, desktop-hppa
+  * Added xfce4-wavelan-plugin to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added ttf-arphic-gbsn00lp to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added libfribidi0 to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added ttf-indic-fonts to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added ivman to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added ifrename to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added hfsutils to minimal-powerpc
+  * Added foomatic-filters-ppds to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added apmd to desktop-i386
+  * Added synaptic to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added foomatic-db-gimp-print to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xfce4-systray to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added sysvinit to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added powermanagement-interface to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64
+  * Added dmsetup to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added xfcalendar to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added psmisc to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added xfce4-appfinder to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xfce4-xkb-plugin to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xfmedia to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added dselect to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added hplip-base to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added x-window-system-core to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added debconf to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added cupsys-bsd to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xterm to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added language-support-en to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added grub to live-i386, live-amd64
+  * Added adduser to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added ttf-arphic-bkai00mp to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added ed to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added dosfstools to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added fetchmail to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xubuntu-artwork-usplash to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added udev to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa
+  * Added cron to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added libreiserfs0.3-0 to minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc, minimal-hppa
+  * Added sed to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa
+  * Added acpi-support to desktop-i386, desktop-amd64, desktop-ia64
+  * Added alsa-base to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added libc6-i686 to minimal-i386
+  * Added mdadm to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added evms to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added sysklogd to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added ftp to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added rsync to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added openssh-client to standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc, standard-hppa
+  * Added sylpheed to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added pbbuttonsd to desktop-powerpc
+  * Added language-pack-en to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Added lsb-release to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added dvd+rw-tools to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added ncurses-bin to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added xfce4-weather-plugin to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added hotkey-setup to desktop-i386
+  * Added console-tools to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added acpi to desktop-i386, desktop-amd64, desktop-ia64
+  * Added language-pack-bn to live-powerpc, live-ia64
+  * Added irssi-text to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added net-tools to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added bc to desktop-i386, desktop-amd64, desktop-powerpc, desktop-
+    ia64, desktop-sparc, desktop-hppa
+  * Added ubuntu-minimal to minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc, minimal-hppa
+  * Added smbclient to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added iputils-tracepath to standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc, standard-hppa
+  * Added procmail to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added foomatic-db to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xfce4-taskmanager to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added dmidecode to standard-i386, standard-amd64, standard-ia64
+  * Added gettext-base to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added dbus-1-utils to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added libesd-alsa0 to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added mime-support to standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc, standard-hppa
+  * Added bogofilter to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added pcmcia-cs to live-i386, live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Added bash to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa
+  * Added xchat to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added dhcp3-client to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added xfce4-trigger-launcher to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added scrollkeeper to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added foomatic-db-engine to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added alsa-utils to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added language-pack-fr to live-powerpc, live-ia64
+  * Added cdrecord to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added language-pack-gnome-en to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added slocate to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added discover1 to live-i386, live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Added login to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added lsof to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added foomatic-db-hpijs to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added ltrace to standard-i386, standard-amd64, standard-powerpc
+  * Added libglib2.0-data to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added firefox to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xscreensaver to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added foomatic-filters to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added language-pack-ru to live-powerpc
+  * Added parted to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added apt to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa
+  * Added vim to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa
+  * Added xkeyboard-config to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added ttf-bitstream-vera to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added lshw to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added hplip-ppds to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added aptitude to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added graveman to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xfce4-sensors-plugin to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added diff to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa
+  * Added popularity-contest to standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc, standard-hppa
+  * Added xfce4-panel-menu-plugin to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added doc-debian to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added libgl1-mesa to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added ifupdown to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added zip to desktop-i386, desktop-amd64, desktop-powerpc, desktop-
+    ia64, desktop-sparc, desktop-hppa
+  * Added ttf-kochi-gothic to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added abiword to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added ttf-arphic-bsmi00lp to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added w3m to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added language-pack-ca to live-powerpc
+  * Added dnsutils to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added netbase to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added man-db to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added ttf-arabeyes to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added tcpdump to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added ubuntu-standard to standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc, standard-hppa
+  * Added mtr-tiny to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added mawk to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa
+  * Added netcat to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added esound to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xfprint4 to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added yaboot to live-powerpc
+  * Added ttf-malayalam-fonts to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xfce4-genmon-plugin to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added fdutils to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added pppoeconf to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added hdparm to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added debianutils to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added gaim to desktop-i386, desktop-amd64, desktop-powerpc, desktop-
+    ia64, desktop-sparc, desktop-hppa
+  * Added cupsys to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added ncurses-base to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added nano to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added dpkg to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa
+  * Added iputils-ping to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added info to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added xfce4-windowlist-plugin to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added grep to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa
+  * Added mount to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added language-pack-de to live-powerpc, live-ia64
+  * Added libxp6 to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added initscripts to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added gnupg to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added ppp to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added reportbug to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added ttf-freefont to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xfce4-goodies to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added procps to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added language-pack-ar to live-powerpc
+  * Added ttf-mgopen to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xfsprogs to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added powernowd to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added gs-esp to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added util-linux to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added hfsplus to minimal-powerpc
+  * Added sudo to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa
+  * Added hotplug to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added usbutils to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added apt-utils to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added language-pack-pt to live-powerpc
+  * Added logrotate to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added ttf-arphic-gkai00mp to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added at to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added file to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added base-files to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added mii-diag to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added mousepad to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added tar to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa
+  * Added initramfs-tools to minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc, minimal-hppa
+  * Added xorg-driver-synaptics to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xresprobe to live-i386, live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Added bzip2 to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added hostname to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added xfce4-toys to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xfce4-taskbar-plugin to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added libsasl2-modules to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added ttf-baekmuk to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added ntfsprogs to live-i386, live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Added module-init-tools to minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc, minimal-hppa
+  * Added xfce4 to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added wireless-tools to minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc, minimal-hppa
+  * Added xfce4-mixer to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added language-pack-ja to live-powerpc
+  * Added xfce4-fsguard-plugin to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added cupsys-client to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added time to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added anacron to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added cpio to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added manpages to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Added memtest86+ to minimal-i386, minimal-amd64
+  * Added libglut3 to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added iputils-arping to standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc, standard-hppa
+  * Added base-config to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added powerpc-utils to minimal-powerpc
+  * Added gqview to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added ubuntu-keyring to minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc, minimal-hppa
+  * Added xfce4-terminal to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added eject to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added strace to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added ntpdate to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added e2fsprogs to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added rox-filer to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added perl-base to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added bsdutils to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added pciutils to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added gzip to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa
+  * Added pmac-fdisk to minimal-powerpc
+  * Added language-pack-zh to live-powerpc, live-ia64
+  * Added ubuntu-express to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Added base-passwd to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added mac-fdisk to minimal-powerpc
+  * Added reiser4progs to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+
+ -- Jani Monoses <jani@ubuntu.com>  Wed, 12 Oct 2005 18:48:25 +0300
+
+xubuntu-meta (1.2) breezy; urgency=low
+
+  * Add xfce4-taskmanager and xubuntu-artwork
+  * Explicitely add libesd-alsa0 so libesd0 is not picked instead. 
+
+ -- Jani Monoses <jani@ubuntu.com>  Mon, 10 Oct 2005 19:41:46 +0300
+
+xubuntu-meta (1.1) breezy; urgency=low
+
+  * Add the rest of the plugin packages:
+    xfce4-fsguard-plugin
+    xfce4-genmon-plugin
+    xfce4-panel-menu-plugin
+    xfce4-sensors-plugin
+    xfce4-taskbar-plugin
+    xfce4-windowlist-plugin
+    xfce4-xkb-plugin 
+
+ -- Jani Monoses <jani@ubuntu.com>  Fri,  7 Oct 2005 17:17:28 +0300
+
+xubuntu-meta (1.0) breezy; urgency=low
+
+  * Fix clean: target to remove files that shouldn't be there.
+
+  * Special case sparc to remove powermanagement-interface.
+
+ -- Fabio M. Di Nitto <fabbione@ubuntu.com>  Fri, 07 Oct 2005 07:44:19 +0200
+
+xubuntu-meta (0.9) breezy; urgency=low
+
+  * Add powermanagement-interface, usplash and esound
+
+ -- Jani Monoses <jani@ubuntu.com>  Sun,  2 Oct 2005 23:31:52 +0300
+
+xubuntu-meta (0.8) breezy; urgency=low
+
+  * Add xchat, graveman, abiword, sylpheed
+
+ -- Jani Monoses <jani@email.ro>  Sat,  1 Oct 2005 22:37:19 +0300
+
+xubuntu-meta (0.7) breezy; urgency=low
+
+  * Add firefox, gaim and synaptic
+
+ -- Jani Monoses <jani@email.ro>  Sat,  1 Oct 2005 00:35:53 +0300
+
+xubuntu-meta (0.6) breezy; urgency=low
+
+  * Add rox-filer as alternate file manager
+
+ -- Jani Monoses <jani@email.ro>  Fri, 30 Sep 2005 13:08:01 +0300
+
+xubuntu-meta (0.5) breezy; urgency=low
+
+  * Add xfce4-weather-plugin, xfce4-wavelan-plugin and xfce4-appfinder
+
+ -- Jani Monoses <jani@email.ro>  Thu, 29 Sep 2005 00:26:15 +0300
+
+xubuntu-meta (0.4) breezy; urgency=low
+
+  * Add mousepad (lightweight editor) to the package list
+
+ -- Jani Monoses <jani@email.ro>  Tue, 27 Sep 2005 23:57:00 +0300
+
+xubuntu-meta (0.3) breezy; urgency=low
+
+  * Remove live-i386 and desktop-i386 from the source package as they 
+    are generated at package build time
+
+ --  Jani Monoses <jani@email.ro>  Mon, 26 Sep 2005 21:28:19 +0300
+
+xubuntu-meta (0.2) breezy; urgency=low
+
+  * Provide minimal xubuntu-desktop metapackage depending on X and Xfce
+
+ -- Jani Monoses <jani@email.ro>  Mon, 26 Sep 2005 08:42:25 +0300
+
+xubuntu-meta (0.1) breezy; urgency=low
+
+  * Initial release
+
+ -- Jani Monoses <jani@email.ro>  Tue,  9 Aug 2005 20:52:37 +0300
