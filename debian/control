@@ -1,9 +1,9 @@
 Source: xubuntu-meta
 Section: base
 Priority: optional
-Maintainer: Jani Monoses <jani@email.ro> 
+Maintainer: Jani Monoses <jani@ubuntu.com> 
 Standards-Version: 3.6.2
-Build-Depends: debhelper (>= 4)
+Build-Depends: debhelper (>= 4), germinate (>= 0.6)
 
 Package: xubuntu-desktop
 Architecture: any

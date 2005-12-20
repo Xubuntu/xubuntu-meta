@@ -1,7 +1,6 @@
 abiword
 anacron
 bc
-bogofilter
 cdparanoia
 cdrecord
 cupsys
@@ -13,8 +12,8 @@ dc
 doc-debian
 dvd+rw-tools
 esound
-fetchmail
 firefox
+foo2zjs
 foomatic-db
 foomatic-db-engine
 foomatic-db-gimp-print
@@ -26,7 +25,7 @@ gqview
 graveman
 gs-esp
 hal
-hplip-base
+hplip
 hplip-ppds
 irssi-text
 ivman
@@ -37,13 +36,13 @@ libglib2.0-data
 libglut3
 libsasl2-modules
 libxp6
+min12xxw
 mkisofs
 mousepad
 pbbuttonsd
 pnm2ppa
 powermanagement-interface
 powernowd
-procmail
 readahead
 rox-filer
 screen
@@ -59,6 +58,7 @@ ttf-arphic-gbsn00lp
 ttf-arphic-gkai00mp
 ttf-baekmuk
 ttf-bitstream-vera
+ttf-dejavu
 ttf-freefont
 ttf-indic-fonts
 ttf-kochi-gothic
@@ -68,6 +68,7 @@ ttf-mgopen
 ubuntu-docs
 unzip
 usplash
+wvdial
 x-ttcidfont-conf
 x-window-system-core
 xchat
@@ -98,4 +99,5 @@ xorg-driver-synaptics
 xscreensaver
 xterm
 xubuntu-artwork-usplash
+xubuntu-default-settings
 zip
