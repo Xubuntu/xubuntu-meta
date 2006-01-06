@@ -46,7 +46,6 @@ pnm2ppa
 powermanagement-interface
 powernowd
 readahead
-rox-filer
 screen
 scrollkeeper
 slocate
@@ -67,13 +66,11 @@ ttf-kochi-gothic
 ttf-kochi-mincho
 ttf-malayalam-fonts
 ttf-mgopen
-ubuntu-docs
 unzip
 wvdial
 x-ttcidfont-conf
 x-window-system-core
 xchat
-xfcalendar
 xfce4
 xfce4-appfinder
 xfce4-fsguard-plugin
@@ -96,9 +93,10 @@ xfce4-xkb-plugin
 xfmedia
 xfprint4
 xkeyboard-config
-xorg-driver-synaptics
 xscreensaver
+xserver-xorg-input-synaptics
 xterm
 xubuntu-artwork-usplash
 xubuntu-default-settings
+xubuntu-docs
 zip
