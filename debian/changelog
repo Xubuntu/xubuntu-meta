@@ -1,3 +1,25 @@
+xubuntu-meta (1.11) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added cupsys-driver-gutenprint to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-sparc, desktop-hppa
+  * Added foomatic-db-gutenprint to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added thunar to desktop-sparc
+  * Added xserver-xorg-input-synaptics to desktop-amd64, desktop-hppa
+  * Added casper to live-sparc
+  * Added orage to desktop-sparc
+  * Removed foomatic-db-gimp-print from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed ubuntu-express from live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Removed xfce4-toys from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed cupsys-driver-gimpprint from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Jani Monoses <jani@ubuntu.com>  Fri, 13 Jan 2006 10:03:09 +0200
+
 xubuntu-meta (1.10) dapper; urgency=low
 
   * Refreshed dependencies

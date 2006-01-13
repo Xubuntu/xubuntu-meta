@@ -10,7 +10,7 @@ cdrecord
 cupsys
 cupsys-bsd
 cupsys-client
-cupsys-driver-gimpprint
+cupsys-driver-gutenprint
 dbus-1-utils
 dc
 doc-debian
@@ -20,7 +20,7 @@ firefox
 foo2zjs
 foomatic-db
 foomatic-db-engine
-foomatic-db-gimp-print
+foomatic-db-gutenprint
 foomatic-db-hpijs
 foomatic-filters
 foomatic-filters-ppds
@@ -89,7 +89,6 @@ xfce4-systray
 xfce4-taskbar-plugin
 xfce4-taskmanager
 xfce4-terminal
-xfce4-toys
 xfce4-trigger-launcher
 xfce4-wavelan-plugin
 xfce4-weather-plugin
