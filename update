@@ -29,7 +29,7 @@ archive_base = { 'i386' : archive_base_default,
                  'sparc' : archive_base_ports,
                 }
 dist = 'dapper'
-seed_base = 'http://localhost/seeds/xubuntu-%s/' % dist
+seed_base = 'http://startx.ro/jani/ubuntu/xubuntu-%s/' % dist
 seed_entry = re.compile(' *\* *(?P<package>\S+) *(\[(?P<arches>[^]]*)\])? *(#.*)?')
 components = ['main', 'restricted', 'universe']
 debootstrap_version_file = 'debootstrap-version'

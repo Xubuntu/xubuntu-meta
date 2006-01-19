@@ -11,7 +11,6 @@ dbus-1-utils
 dc
 doc-debian
 dvd+rw-tools
-esound
 firefox
 foo2zjs
 foomatic-db
@@ -21,8 +20,6 @@ foomatic-db-hpijs
 foomatic-filters
 foomatic-filters-ppds
 gaim
-gqview
-graveman
 gs-esp
 hal
 hplip
@@ -47,7 +44,6 @@ screen
 scrollkeeper
 slocate
 smbclient
-sylpheed
 synaptic
 thunar
 ttf-arabeyes
@@ -71,21 +67,13 @@ x-window-system-core
 xchat
 xfce4
 xfce4-appfinder
-xfce4-fsguard-plugin
-xfce4-genmon-plugin
-xfce4-goodies
+xfce4-battery-plugin
 xfce4-iconbox
 xfce4-mixer
-xfce4-panel-menu-plugin
-xfce4-sensors-plugin
 xfce4-systray
-xfce4-taskbar-plugin
 xfce4-taskmanager
 xfce4-terminal
-xfce4-trigger-launcher
-xfce4-wavelan-plugin
 xfce4-weather-plugin
-xfce4-windowlist-plugin
 xfce4-xkb-plugin
 xfmedia
 xfprint4
