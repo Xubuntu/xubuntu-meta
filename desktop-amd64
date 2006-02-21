@@ -80,6 +80,7 @@ wvdial
 x-ttcidfont-conf
 x-window-system-core
 xfce4-appfinder
+xfce4-mcs-plugins
 xfce4-panel
 xfce4-session
 xfce4-taskmanager
