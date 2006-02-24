@@ -7,6 +7,7 @@ espresso-ubuntu-doc
 language-pack-en
 language-support-en
 laptop-detect
+network-manager
 ntfsprogs
 pcmcia-cs
 xresprobe

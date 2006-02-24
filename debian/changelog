@@ -1,3 +1,13 @@
+xubuntu-meta (1.16) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added xfce4-mixer-alsa to desktop-i386, desktop-amd64, desktop-
+    powerpc
+  * Added network-manager to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+
+ -- Jani Monoses <jani@ubuntu.com>  Fri, 24 Feb 2006 11:55:04 +0200
+
 xubuntu-meta (1.15) dapper; urgency=low
 
   * Refreshed dependencies

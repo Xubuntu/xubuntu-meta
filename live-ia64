@@ -11,6 +11,7 @@ language-pack-fr
 language-pack-zh
 language-support-en
 laptop-detect
+network-manager
 ntfsprogs
 pcmcia-cs
 xresprobe
