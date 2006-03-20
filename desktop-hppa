@@ -21,6 +21,7 @@ foomatic-db-hpijs
 foomatic-filters
 foomatic-filters-ppds
 gaim
+gdebi
 gdm
 gimp
 gqview
@@ -33,7 +34,8 @@ gtk2-engines-xfce
 hal
 hplip
 hplip-ppds
-irssi-text
+irssi
+language-selector
 lftp
 libgl1-mesa
 libglib2.0-data
@@ -49,6 +51,8 @@ pnm2ppa
 powernowd
 readahead
 rss-glx
+scim
+scim-gtk2-immodule
 screen
 scrollkeeper
 slocate
@@ -56,10 +60,8 @@ smbclient
 synaptic
 thunar
 ttf-arabeyes
-ttf-arphic-bkai00mp
-ttf-arphic-bsmi00lp
-ttf-arphic-gbsn00lp
-ttf-arphic-gkai00mp
+ttf-arphic-ukai
+ttf-arphic-uming
 ttf-baekmuk
 ttf-bitstream-vera
 ttf-dejavu
@@ -74,6 +76,9 @@ wvdial
 x-ttcidfont-conf
 x-window-system-core
 xfce4-appfinder
+xfce4-battery-plugin
+xfce4-clipman-plugin
+xfce4-fsguard-plugin
 xfce4-mcs-plugins
 xfce4-panel
 xfce4-session

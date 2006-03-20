@@ -1,3 +1,53 @@
+xubuntu-meta (1.17) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added inputattach to standard-sparc, standard-hppa
+  * Added ltrace to standard-sparc
+  * Added xfce4-verve-plugin to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+  * Added grub to live-i386, live-amd64
+  * Added xfce4-fsguard-plugin to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added yaboot to live-powerpc
+  * Added xfce4-mount-plugin to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+  * Added ttf-arphic-ukai to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xfce4-mailwatch-plugin to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc
+  * Added gdebi to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added irssi to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xfce4-battery-plugin to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xfce4-clipman-plugin to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xfce4-mixer-alsa to desktop-ia64, desktop-sparc
+  * Added xfce4-quicklauncher-plugin to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc
+  * Added language-selector to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added ttf-arphic-uming to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added scim-gtk2-immodule to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added usplash to desktop-ia64
+  * Added scim to desktop-i386, desktop-amd64, desktop-powerpc, desktop-
+    ia64, desktop-sparc, desktop-hppa
+  * Removed ttf-arphic-bkai00mp from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed ttf-arphic-gbsn00lp from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed irssi-text from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed ttf-arphic-gkai00mp from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed ttf-arphic-bsmi00lp from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Jani Monoses <jani@ubuntu.com>  Mon, 20 Mar 2006 16:22:54 +0200
+
 xubuntu-meta (1.16) dapper; urgency=low
 
   * Refreshed dependencies
