@@ -4,7 +4,11 @@ espresso
 espresso-frontend-gtk
 espresso-ubuntu-artwork
 espresso-ubuntu-doc
+language-pack-bn
+language-pack-de
 language-pack-en
+language-pack-fr
+language-pack-zh
 language-support-en
 laptop-detect
 network-manager
