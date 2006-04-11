@@ -1,4 +1,5 @@
 abiword
+abiword-plugins
 acpi
 acpi-support
 acpid
@@ -27,6 +28,7 @@ gaim
 gdebi
 gdm
 gimp
+gimp-print
 gqview
 gs-esp
 gtk2-engines-clearlooks
