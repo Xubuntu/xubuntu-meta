@@ -1,3 +1,37 @@
+xubuntu-meta (1.25) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added ubiquity-ubuntu-doc to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added ttf-lao to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added ubiquity-ubuntu-artwork to live-i386, live-amd64, live-
+    powerpc, live-ia64, live-sparc, live-hppa
+  * Added libjpeg-progs to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xfce4-verve-plugin to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xfce4-battery-plugin to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xfce4-quicklauncher-plugin to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xfce4-weather-plugin to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xfce4-xkb-plugin to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added ubiquity-frontend-gtk to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added xcursor-themes to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed espresso-ubuntu-doc from live-i386, live-amd64, live-
+    powerpc, live-ia64, live-sparc, live-hppa
+  * Removed espresso-frontend-gtk from live-i386, live-amd64, live-
+    powerpc, live-ia64, live-sparc, live-hppa
+  * Removed espresso-ubuntu-artwork from live-i386, live-amd64, live-
+    powerpc, live-ia64, live-sparc, live-hppa
+
+ -- Jani Monoses <jani@ubuntu.com>  Wed, 26 Apr 2006 10:42:32 +0300
+
 xubuntu-meta (1.24) dapper; urgency=low
 
   * Refreshed dependencies
