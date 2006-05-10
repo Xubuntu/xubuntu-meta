@@ -17,6 +17,7 @@ dc
 doc-base
 doc-debian
 dvd+rw-tools
+example-content
 firefox
 foo2zjs
 foomatic-db
@@ -36,6 +37,7 @@ gtk2-engines-clearlooks
 gtk2-engines-industrial
 gtk2-engines-mist
 gtk2-engines-smooth
+gtk2-engines-ubuntulooks
 gtk2-engines-xfce
 hal
 hotkey-setup
@@ -47,6 +49,7 @@ lftp
 libgl1-mesa
 libglib2.0-data
 libglut3
+libgoffice-gtk-1-2
 libjpeg-progs
 libpam-foreground
 libsasl2-modules
@@ -81,6 +84,7 @@ ttf-baekmuk
 ttf-bitstream-vera
 ttf-dejavu
 ttf-freefont
+ttf-gentium
 ttf-indic-fonts
 ttf-kochi-gothic
 ttf-kochi-mincho
