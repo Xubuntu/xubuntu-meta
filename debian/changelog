@@ -1,3 +1,74 @@
+xubuntu-meta (1.28) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added language-pack-ar to live-i386, live-amd64, live-ia64, live-
+    sparc, live-hppa
+  * Added language-pack-ru to live-i386, live-amd64, live-ia64, live-
+    sparc, live-hppa
+  * Added language-support-ro to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added usplash to desktop-hppa
+  * Added language-pack-ro to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Added language-pack-pt to live-i386, live-amd64, live-ia64, live-
+    sparc, live-hppa
+  * Added language-pack-af to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Added language-support-pt to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added language-support-xh to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added language-support-es to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added language-support-zh to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added language-pack-ca to live-i386, live-amd64, live-ia64, live-
+    sparc, live-hppa
+  * Added language-pack-es to live-i386, live-amd64, live-ia64, live-
+    sparc, live-hppa
+  * Added language-support-de to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added language-support-zu to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added language-support-bn to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added language-pack-hi to live-i386, live-amd64, live-ia64, live-
+    sparc, live-hppa
+  * Added language-pack-ja to live-i386, live-amd64, live-ia64, live-
+    sparc, live-hppa
+  * Added language-support-hi to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added language-support-hu to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added language-pack-hu to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Added language-support-fr to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added language-support-ja to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added language-pack-zu to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Added gnumeric-gtk to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added language-support-ru to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added language-support-ar to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added tango-icon-theme-common to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added language-pack-xh to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Added language-support-ca to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added language-support-af to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Removed ubiquity-ubuntu-doc from live-i386, live-amd64, live-
+    powerpc, live-ia64, live-sparc, live-hppa
+  * Removed cdebconf from live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+
+ -- Jani Monoses <jani@ubuntu.com>  Mon, 15 May 2006 12:30:14 +0300
+
 xubuntu-meta (1.27) dapper; urgency=low
 
   * Refreshed dependencies

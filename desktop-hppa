@@ -27,6 +27,7 @@ gdebi
 gdm
 gimp
 gimp-print
+gnumeric-gtk
 gqview
 gs-esp
 gtk2-engines-clearlooks
@@ -69,6 +70,7 @@ slocate
 smbclient
 synaptic
 tango-icon-theme
+tango-icon-theme-common
 thunar
 ttf-arabeyes
 ttf-arphic-ukai
@@ -87,6 +89,7 @@ ttf-mgopen
 ttf-thai-tlwg
 unzip
 update-manager
+usplash
 wvdial
 x-ttcidfont-conf
 x-window-system-core

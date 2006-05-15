@@ -30,6 +30,7 @@ gdebi
 gdm
 gimp
 gimp-print
+gnumeric-gtk
 gqview
 gs-esp
 gtk2-engines-clearlooks
@@ -74,6 +75,7 @@ slocate
 smbclient
 synaptic
 tango-icon-theme
+tango-icon-theme-common
 thunar
 ttf-arabeyes
 ttf-arphic-ukai
