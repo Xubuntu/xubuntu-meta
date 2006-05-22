@@ -1,3 +1,13 @@
+xubuntu-meta (1.30) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added evince-gtk to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xubuntu-system-tools to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Jani Monoses <jani@ubuntu.com>  Mon, 22 May 2006 15:49:11 +0300
+
 xubuntu-meta (1.29) dapper; urgency=low
 
   * Refreshed dependencies

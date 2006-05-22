@@ -13,6 +13,7 @@ dc
 doc-base
 doc-debian
 dvd+rw-tools
+evince-gtk
 example-content
 firefox
 foo2zjs
@@ -134,4 +135,5 @@ xterm
 xubuntu-artwork-usplash
 xubuntu-default-settings
 xubuntu-docs
+xubuntu-system-tools
 zip
