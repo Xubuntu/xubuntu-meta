@@ -1,3 +1,16 @@
+xubuntu-meta (2.0) edgy; urgency=low
+
+  * Add update.cfg for new germinate-update-metapackage (Build-Depends:
+    germinate (>= 0.16)). Replace update with a trivial wrapper. We now pull
+    seeds directly from bzr over sftp by default, so update will only work
+    if you're in the ubuntu-core-dev team; run germinate-update-metapackage
+    without options or temporarily replace "sftp" with "http" in update.cfg
+    to update without authentication.
+  * Switch to edgy seeds.
+  * Bump to 2.0.
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Fri,  9 Jun 2006 13:15:49 +0100
+
 xubuntu-meta (1.32) dapper; urgency=low
 
   * Refreshed dependencies
