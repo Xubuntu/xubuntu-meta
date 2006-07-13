@@ -1,3 +1,10 @@
+xubuntu-meta (2.3) edgy; urgency=low
+
+  * Refreshed dependencies
+  * Removed pbbuttonsd from desktop-i386
+
+ -- Jani Monoses <jani@ubuntu.com>  Thu, 13 Jul 2006 18:23:41 +0300
+
 xubuntu-meta (2.2) edgy; urgency=low
 
   * Refreshed dependencies
