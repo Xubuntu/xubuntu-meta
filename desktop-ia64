@@ -14,7 +14,6 @@ cupsys-driver-gutenprint
 dbus-1-utils
 dc
 doc-base
-doc-debian
 dvd+rw-tools
 evince-gtk
 example-content
@@ -31,6 +30,7 @@ gdebi
 gdm
 gimp
 gimp-print
+gnome-accessibility-themes
 gnumeric-gtk
 gqview
 gs-esp
@@ -41,9 +41,8 @@ gtk2-engines-smooth
 gtk2-engines-ubuntulooks
 gtk2-engines-xfce
 hal
+hpijs-ppds
 hplip
-hplip-ppds
-irssi
 landscape-client
 language-selector
 lftp
@@ -100,7 +99,6 @@ update-manager
 usplash
 wvdial
 x-ttcidfont-conf
-x-window-system-core
 xarchiver
 xcursor-themes
 xfburn
@@ -131,6 +129,7 @@ xfprint4
 xfwm4
 xfwm4-themes
 xkeyboard-config
+xorg
 xscreensaver
 xscreensaver-data
 xscreensaver-gl

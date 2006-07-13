@@ -35,8 +35,6 @@ language-support-zh
 language-support-zu
 laptop-detect
 ntfsprogs
-pcmcia-cs
 ubiquity-frontend-gtk
 ubiquity-ubuntu-artwork
 xresprobe
-yaboot

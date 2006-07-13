@@ -11,11 +11,11 @@ bsdutils
 bzip2
 console-tools
 coreutils
+dash
 debconf
 debianutils
 dhcp3-client
 diff
-dosfstools
 dpkg
 e2fsprogs
 eject
@@ -24,7 +24,6 @@ findutils
 gettext-base
 gnupg
 grep
-grepmap
 gzip
 hostname
 ifupdown
@@ -32,7 +31,6 @@ initramfs-tools
 initscripts
 iproute
 iputils-ping
-jfsutils
 less
 libfribidi0
 locales
@@ -55,14 +53,12 @@ pcmciautils
 perl-base
 procps
 python
-reiser4progs
-reiserfsprogs
 sed
-strace
 sudo
 sysklogd
 sysvinit
 tar
+tzdata
 ubuntu-keyring
 ubuntu-minimal
 udev
@@ -71,4 +67,3 @@ util-linux
 vim
 wireless-tools
 wpasupplicant
-xfsprogs

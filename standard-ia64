@@ -2,12 +2,10 @@ at
 cpio
 cron
 dmidecode
-dmsetup
 dnsutils
+dosfstools
 dselect
 ed
-evms
-evms-ncurses
 fdutils
 file
 ftp
@@ -20,10 +18,9 @@ iputils-tracepath
 logrotate
 lshw
 lsof
-lvm2
+ltrace
 man-db
 manpages
-mdadm
 mime-support
 mtr-tiny
 nano
@@ -34,8 +31,9 @@ ppp
 pppconfig
 pppoeconf
 psmisc
-reportbug
+reiserfsprogs
 rsync
+strace
 tcpdump
 telnet
 time
