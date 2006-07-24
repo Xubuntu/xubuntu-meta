@@ -1,3 +1,13 @@
+xubuntu-meta (2.5) edgy; urgency=low
+
+  * Refreshed dependencies
+  * Added libgoffice-gtk-0-3 to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+  * Removed libgoffice-gtk-1-2 from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Jani Monoses <jani@ubuntu.com>  Mon, 24 Jul 2006 12:40:10 +0300
+
 xubuntu-meta (2.4) edgy; urgency=low
 
   * Refreshed dependencies

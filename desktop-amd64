@@ -50,7 +50,7 @@ lftp
 libgl1-mesa
 libglib2.0-data
 libglut3
-libgoffice-gtk-1-2
+libgoffice-gtk-0-3
 libjpeg-progs
 libpam-foreground
 libsasl2-modules
