@@ -1,3 +1,29 @@
+xubuntu-meta (2.6) edgy; urgency=low
+
+  * Refreshed dependencies
+  * Removed language-pack-zu from live-powerpc, live-ia64, live-sparc,
+    live-hppa
+  * Removed language-support-ro from live-i386, live-amd64, live-
+    powerpc, live-ia64, live-sparc, live-hppa
+  * Removed language-pack-ca from live-powerpc, live-ia64, live-sparc,
+    live-hppa
+  * Removed language-pack-ro from live-powerpc, live-ia64, live-sparc,
+    live-hppa
+  * Removed language-support-hu from live-i386, live-amd64, live-
+    powerpc, live-ia64, live-sparc, live-hppa
+  * Removed language-pack-af from live-powerpc, live-ia64, live-sparc,
+    live-hppa
+  * Removed language-support-ca from live-i386, live-amd64, live-
+    powerpc, live-ia64, live-sparc, live-hppa
+  * Removed language-pack-hu from live-powerpc, live-ia64, live-sparc,
+    live-hppa
+  * Removed language-support-zu from live-i386, live-amd64, live-
+    powerpc, live-ia64, live-sparc, live-hppa
+  * Removed language-support-af from live-i386, live-amd64, live-
+    powerpc, live-ia64, live-sparc, live-hppa
+
+ -- Jani Monoses <jani@ubuntu.com>  Wed, 26 Jul 2006 13:22:11 +0300
+
 xubuntu-meta (2.5) edgy; urgency=low
 
   * Refreshed dependencies
