@@ -1,3 +1,34 @@
+xubuntu-meta (2.7) edgy; urgency=low
+
+  * Refreshed dependencies
+  * Added linux-headers-mckinley-smp to desktop-ia64
+  * Added gcc to desktop-i386, desktop-amd64, desktop-powerpc, desktop-
+    ia64, desktop-sparc, desktop-hppa
+  * Added linux-headers-powerpc to desktop-powerpc
+  * Added linux-headers-hppa32 to desktop-hppa
+  * Added make to desktop-i386, desktop-amd64, desktop-powerpc, desktop-
+    ia64, desktop-sparc, desktop-hppa
+  * Added linux-headers-amd64-generic to desktop-amd64
+  * Added tasksel to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added linux-headers-itanium-smp to desktop-ia64
+  * Added linux-headers-sparc64 to desktop-sparc
+  * Added linux-headers-686 to desktop-i386
+  * Added linux-headers-hppa64 to desktop-hppa
+  * Added linux-headers-powerpc64-smp to desktop-powerpc
+  * Removed gtk2-engines-smooth from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed gtk2-engines-industrial from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed gtk2-engines-clearlooks from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed gtk2-engines-mist from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed libgl1-mesa from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Jani Monoses <jani@ubuntu.com>  Sun, 30 Jul 2006 11:58:07 +0300
+
 xubuntu-meta (2.6) edgy; urgency=low
 
   * Refreshed dependencies

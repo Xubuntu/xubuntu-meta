@@ -26,6 +26,7 @@ foomatic-db-hpijs
 foomatic-filters
 foomatic-filters-ppds
 gaim
+gcc
 gdebi
 gdm
 gimp
@@ -34,10 +35,6 @@ gnome-accessibility-themes
 gnumeric-gtk
 gqview
 gs-esp
-gtk2-engines-clearlooks
-gtk2-engines-industrial
-gtk2-engines-mist
-gtk2-engines-smooth
 gtk2-engines-ubuntulooks
 gtk2-engines-xfce
 hal
@@ -46,7 +43,6 @@ hplip
 landscape-client
 language-selector
 lftp
-libgl1-mesa
 libglib2.0-data
 libglut3
 libgoffice-gtk-0-3
@@ -54,6 +50,9 @@ libjpeg-progs
 libpam-foreground
 libsasl2-modules
 libxp6
+linux-headers-itanium-smp
+linux-headers-mckinley-smp
+make
 min12xxw
 mkisofs
 mousepad
