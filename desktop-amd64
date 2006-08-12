@@ -4,6 +4,7 @@ acpi
 acpi-support
 acpid
 anacron
+apport-gtk
 bc
 cdparanoia
 cdrecord
