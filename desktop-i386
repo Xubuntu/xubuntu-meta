@@ -64,6 +64,7 @@ orage
 pnm2ppa
 powermanagement-interface
 powernowd
+python-exo
 readahead
 scim
 scim-anthy
@@ -127,7 +128,6 @@ xfce4-verve-plugin
 xfce4-weather-plugin
 xfce4-xkb-plugin
 xfdesktop4
-xfmedia
 xfprint4
 xfwm4
 xfwm4-themes

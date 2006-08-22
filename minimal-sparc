@@ -67,6 +67,7 @@ tar
 tasksel
 tzdata
 ubuntu-keyring
+ubuntu-minimal
 udev
 usbutils
 util-linux
