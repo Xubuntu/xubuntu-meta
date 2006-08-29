@@ -21,7 +21,6 @@ foomatic-db
 foomatic-db-engine
 foomatic-db-hpijs
 foomatic-filters
-foomatic-filters-ppds
 gaim
 gcc
 gdebi
@@ -35,7 +34,6 @@ gs-esp
 gtk2-engines-ubuntulooks
 gtk2-engines-xfce
 hal
-hpijs-ppds
 hplip
 landscape-client
 language-selector
@@ -107,12 +105,10 @@ xfce4-mcs-plugins
 xfce4-mixer-alsa
 xfce4-mount-plugin
 xfce4-netload-plugin
-xfce4-notes-plugin
 xfce4-panel
 xfce4-quicklauncher-plugin
 xfce4-screenshooter-plugin
 xfce4-session
-xfce4-smartbookmark-plugin
 xfce4-systemload-plugin
 xfce4-taskmanager
 xfce4-terminal

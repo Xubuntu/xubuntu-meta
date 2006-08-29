@@ -24,7 +24,6 @@ foomatic-db
 foomatic-db-engine
 foomatic-db-hpijs
 foomatic-filters
-foomatic-filters-ppds
 gaim
 gcc
 gdebi
@@ -39,7 +38,6 @@ gtk2-engines-ubuntulooks
 gtk2-engines-xfce
 hal
 hotkey-setup
-hpijs-ppds
 hplip
 landscape-client
 language-selector
