@@ -1,3 +1,9 @@
+xubuntu-meta (2.12) edgy; urgency=low
+
+  * prepared for recommends usage
+
+ -- Michael Vogt <michael.vogt@ubuntu.com>  Mon, 11 Sep 2006 17:51:08 +0200
+
 xubuntu-meta (2.11) edgy; urgency=low
 
   * Refreshed dependencies

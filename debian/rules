@@ -18,6 +18,8 @@ build-stamp:	desktop-$(DEB_BUILD_ARCH) live-$(DEB_BUILD_ARCH)
 		package=xubuntu-$$seed; \
 		(printf "$$package:Depends="; perl -pe 's/\n/, /g'  $$seed-$(DEB_BUILD_ARCH); echo) \
 			>> debian/$$package.substvars; \
+		(printf "$$package:Recommends="; perl -pe 's/\n/, /g'  $$seed-recommends-$(DEB_BUILD_ARCH); echo) \
+			>> debian/$$package.substvars; \
 	done
 	#add alternate depends for xubuntu-system-tools and evince-gtk to be installable along ubuntu-desktop
 	sed -i 's/evince-gtk/evince-gtk | evince/; s/xubuntu-system-tools/xubuntu-system-tools | gnome-system-tools/' debian/xubuntu-desktop.substvars
