@@ -1,3 +1,92 @@
+xubuntu-meta (2.13) edgy; urgency=low
+
+  * Refreshed dependencies
+  * Added console-setup to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added libgl1-mesa-glx to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+  * Added startup-tasks to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Added system-services to minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc
+  * Added upstart to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Added upstart-compat-sysv to minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc
+  * Added upstart-logd to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Added vim-tiny to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Removed example-content from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed gcc from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed gnome-accessibility-themes from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed hplip from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed linux-headers-686 from desktop-i386
+  * Removed linux-headers-amd64-generic from desktop-amd64
+  * Removed linux-headers-hppa32 from desktop-hppa
+  * Removed linux-headers-hppa64 from desktop-hppa
+  * Removed linux-headers-itanium-smp from desktop-ia64
+  * Removed linux-headers-mckinley-smp from desktop-ia64
+  * Removed linux-headers-powerpc from desktop-powerpc
+  * Removed linux-headers-powerpc64-smp from desktop-powerpc
+  * Removed linux-headers-sparc64 from desktop-sparc
+  * Removed make from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed mtr-tiny from standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc, standard-hppa
+  * Removed openssh-client from standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc, standard-hppa
+  * Removed powernowd from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed scim from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed scim-anthy from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed scim-chewing from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed scim-gtk2-immodule from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed scim-hangul from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed scim-pinyin from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed sysvinit from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Removed ttf-arabeyes from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed ttf-arphic-ukai from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed ttf-arphic-uming from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed ttf-baekmuk from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed ttf-gentium from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed ttf-indic-fonts from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed ttf-kochi-gothic from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed ttf-kochi-mincho from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed ttf-lao from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed ttf-malayalam-fonts from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed ttf-mgopen from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed ttf-thai-tlwg from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed vim from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Removed xcursor-themes from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Jani Monoses <jani@ubuntu.com>  Fri, 22 Sep 2006 15:14:38 +0300
+
 xubuntu-meta (2.12) edgy; urgency=low
 
   * prepared for recommends usage
