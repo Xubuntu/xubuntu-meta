@@ -34,6 +34,7 @@ gqview
 gs-esp
 gtk2-engines-ubuntulooks
 gtk2-engines-xfce
+gxine
 hal
 hotkey-setup
 landscape-client
@@ -52,6 +53,7 @@ min12xxw
 mkisofs
 mousepad
 mozilla-thunderbird
+onboard
 orage
 pnm2ppa
 powermanagement-interface
@@ -82,6 +84,7 @@ xfce4-appfinder
 xfce4-battery-plugin
 xfce4-clipman-plugin
 xfce4-cpugraph-plugin
+xfce4-dict-plugin
 xfce4-fsguard-plugin
 xfce4-mailwatch-plugin
 xfce4-mcs-plugins

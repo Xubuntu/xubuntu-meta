@@ -30,6 +30,7 @@ gqview
 gs-esp
 gtk2-engines-ubuntulooks
 gtk2-engines-xfce
+gxine
 hal
 landscape-client
 language-selector
@@ -44,6 +45,7 @@ min12xxw
 mkisofs
 mousepad
 mozilla-thunderbird
+onboard
 orage
 pnm2ppa
 readahead
