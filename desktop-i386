@@ -6,6 +6,7 @@ acpid
 anacron
 apmd
 apport-gtk
+avahi-daemon
 bc
 cdparanoia
 cdrecord
@@ -49,6 +50,7 @@ libpam-foreground
 libsasl2-modules
 libstdc++5
 libxp6
+linuxprinting.org-ppds
 min12xxw
 mkisofs
 mousepad

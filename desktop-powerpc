@@ -2,6 +2,7 @@ abiword
 abiword-plugins
 anacron
 apport-gtk
+avahi-daemon
 bc
 cdparanoia
 cdrecord
@@ -43,6 +44,7 @@ libjpeg-progs
 libpam-foreground
 libsasl2-modules
 libxp6
+linuxprinting.org-ppds
 min12xxw
 mkisofs
 mousepad
