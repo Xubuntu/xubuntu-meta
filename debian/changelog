@@ -1,3 +1,12 @@
+xubuntu-meta (2.18) edgy; urgency=low
+
+  * debian/rules: Replace gcalctool-gtk with gcalctool-gtk | gcalctool and
+    gnumeric-gtk with gnumeric-gtk | gnumeric in the substvars file to avoid
+    conflicting with ubuntu-desktop. (LP #65530)
+  * debian/copyright: Use new FSF address
+
+ -- Jani Monoses <jani@ubuntu.com>  Wed, 11 Oct 2006 21:12:15 +0300
+
 xubuntu-meta (2.17) edgy; urgency=low
 
   * Refreshed dependencies
