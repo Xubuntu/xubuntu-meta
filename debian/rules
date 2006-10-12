@@ -11,10 +11,10 @@ clean:
 DEB_BUILD_ARCH:=$(shell dpkg-architecture -qDEB_BUILD_ARCH)
 
 build: build-stamp
-build-stamp:	desktop-$(DEB_BUILD_ARCH) live-$(DEB_BUILD_ARCH)
+build-stamp:	desktop-$(DEB_BUILD_ARCH)
 	dh_clean
 
-	for seed in desktop live; do \
+	for seed in desktop; do \
 		package=xubuntu-$$seed; \
 		(printf "$$package:Depends="; perl -pe 's/\n/, /g'  $$seed-$(DEB_BUILD_ARCH); echo) \
 			>> debian/$$package.substvars; \
