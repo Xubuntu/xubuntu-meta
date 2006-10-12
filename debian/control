@@ -3,7 +3,7 @@ Section: base
 Priority: optional
 Maintainer: Jani Monoses <jani@ubuntu.com> 
 Standards-Version: 3.7.2
-Build-Depends: debhelper (>= 4), germinate (>= 0.16)
+Build-Depends: debhelper (>= 4), germinate (>= 0.21ubuntu1)
 
 Package: xubuntu-desktop
 Architecture: any

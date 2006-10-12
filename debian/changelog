@@ -1,3 +1,11 @@
+xubuntu-meta (2.19) edgy; urgency=low
+
+  * Remove xubuntu-live metapackage; this is done using tasks now.
+  * Set output_seeds appropriately and remove some extraneous files.
+  * Bump versioned build dependency on germinate to handle recommends.
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 12 Oct 2006 04:02:28 +0100
+
 xubuntu-meta (2.18) edgy; urgency=low
 
   * debian/rules: Replace gcalctool-gtk with gcalctool-gtk | gcalctool and
