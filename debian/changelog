@@ -1,3 +1,9 @@
+xubuntu-meta (2.21) edgy; urgency=low
+
+  * Really remove xubuntu-live metapackage.
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Sun, 15 Oct 2006 08:43:28 +0100
+
 xubuntu-meta (2.20) edgy; urgency=low
 
   * Fix build failure due to removal of xubuntu-live.
