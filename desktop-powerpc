@@ -27,6 +27,7 @@ gdebi
 gdm
 gimp
 gimp-print
+gnome-app-install
 gnumeric-gtk
 gqview
 gs-esp
@@ -45,7 +46,6 @@ libjpeg-progs
 libpam-foreground
 libsasl2-modules
 libxp6
-linuxprinting.org-ppds
 min12xxw
 mkisofs
 mousepad
@@ -75,6 +75,7 @@ ubuntu-artwork
 unzip
 update-manager
 usplash
+vim-runtime
 wvdial
 x-ttcidfont-conf
 xarchiver
