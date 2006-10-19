@@ -2,7 +2,7 @@ example-content
 gcc
 gnome-accessibility-themes
 hplip
-linux-headers-386
+linux-headers-generic
 make
 powernowd
 scim

@@ -1,3 +1,12 @@
+xubuntu-meta (2.23) edgy; urgency=low
+
+  * Refreshed dependencies
+  * Added linux-headers-generic to desktop-recommends-i386
+  * Removed linux-headers-386 from desktop-recommends-i386
+  * Robustify the update script.
+
+ -- Matthias Klose <doko@ubuntu.com>  Thu, 19 Oct 2006 21:20:40 +0200
+
 xubuntu-meta (2.22) edgy; urgency=low
 
   * Refreshed dependencies
