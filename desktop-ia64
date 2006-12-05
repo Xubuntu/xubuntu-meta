@@ -46,9 +46,11 @@ libglib2.0-data
 libglut3
 libgoffice-gtk-0-3
 libjpeg-progs
+libnss-mdns
 libpam-foreground
 libsasl2-modules
 libxp6
+linuxprinting.org-ppds
 min12xxw
 mkisofs
 mousepad
@@ -120,4 +122,5 @@ xubuntu-artwork-usplash
 xubuntu-default-settings
 xubuntu-docs
 xubuntu-system-tools
+zenity
 zip
