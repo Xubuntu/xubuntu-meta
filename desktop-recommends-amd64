@@ -4,6 +4,7 @@ gnome-accessibility-themes
 hplip
 linux-headers-generic
 make
+notification-daemon
 powernowd
 scim
 scim-anthy
@@ -11,6 +12,7 @@ scim-chewing
 scim-gtk2-immodule
 scim-hangul
 scim-pinyin
+thunar-doc
 ttf-arabeyes
 ttf-arphic-ukai
 ttf-arphic-uming

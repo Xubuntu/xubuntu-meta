@@ -2,6 +2,7 @@ abiword
 abiword-plugins
 anacron
 apport-gtk
+avahi-autoipd
 avahi-daemon
 bc
 cdparanoia
@@ -30,7 +31,7 @@ gimp-print
 gnome-app-install
 gnumeric-gtk
 gqview
-gs-esp
+gs-esp-x
 gtk2-engines-ubuntulooks
 gtk2-engines-xfce
 gxine
@@ -47,12 +48,12 @@ libnss-mdns
 libpam-foreground
 libsasl2-modules
 libxp6
-linuxprinting.org-ppds
 min12xxw
 mkisofs
 mousepad
 mozilla-thunderbird
 onboard
+openprinting-ppds
 orage
 pnm2ppa
 python-exo
@@ -108,7 +109,7 @@ xfdesktop4
 xfprint4
 xfwm4
 xfwm4-themes
-xkeyboard-config
+xkb-data
 xorg
 xscreensaver
 xscreensaver-data
@@ -118,5 +119,6 @@ xubuntu-artwork-usplash
 xubuntu-default-settings
 xubuntu-docs
 xubuntu-system-tools
+xvncviewer
 zenity
 zip
