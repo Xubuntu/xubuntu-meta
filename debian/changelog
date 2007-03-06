@@ -1,3 +1,12 @@
+xubuntu-meta (2.26) feisty; urgency=low
+
+  * update.cfg: use http to retrieve the bzr branch, not sftp
+  * Refreshed dependencies
+  * Added thunar-volman-plugin to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+
+ -- Gauvain Pocentek <gauvainpocentek@ubuntu.com>  Tue,  6 Mar 2007 18:16:34 +0100
+
 xubuntu-meta (2.25) feisty; urgency=low
 
   * Refreshed dependencies
