@@ -1,12 +1,9 @@
-abiword
-abiword-plugins
 anacron
 apport-gtk
 avahi-autoipd
 avahi-daemon
 bc
 cdparanoia
-cdrecord
 cupsys
 cupsys-bsd
 cupsys-client
@@ -16,18 +13,15 @@ dc
 doc-base
 dvd+rw-tools
 evince-gtk
-firefox
 foo2zjs
 foomatic-db
 foomatic-db-engine
 foomatic-db-hpijs
 foomatic-filters
-gaim
 gcalctool-gtk
 gdebi
 gdm
-gimp
-gimp-print
+genisoimage
 gnome-app-install
 gnumeric-gtk
 gqview
@@ -36,7 +30,6 @@ gtk2-engines-ubuntulooks
 gtk2-engines-xfce
 gxine
 hal
-landscape-client
 language-selector
 lftp
 libgl1-mesa-glx
@@ -49,9 +42,7 @@ libpam-foreground
 libsasl2-modules
 libxp6
 min12xxw
-mkisofs
 mousepad
-mozilla-thunderbird
 onboard
 openprinting-ppds
 orage
@@ -78,6 +69,7 @@ unzip
 update-manager
 usplash
 vim-runtime
+wodim
 wvdial
 x-ttcidfont-conf
 xarchiver
@@ -118,7 +110,6 @@ xscreensaver-gl
 xterm
 xubuntu-artwork-usplash
 xubuntu-default-settings
-xubuntu-docs
 xubuntu-system-tools
 xvncviewer
 zenity

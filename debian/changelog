@@ -1,3 +1,66 @@
+xubuntu-meta (2.27) feisty; urgency=low
+
+  * Refreshed dependencies
+  * Added abiword to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added abiword-plugins to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa
+  * Added firefox to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added gaim to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added genisoimage to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc
+  * Added gimp to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added gimp-print to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added landscape-client to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa
+  * Added mozilla-thunderbird to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa
+  * Added restricted-manager to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa
+  * Added scim-tables-additional to desktop-recommends-i386
+  * Added wodim to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc
+  * Added xubuntu-docs to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Removed abiword from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed abiword-plugins from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed cdrecord from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed firefox from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed gaim from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed gimp from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed gimp-print from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed landscape-client from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed mkisofs from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed mozilla-thunderbird from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed xubuntu-docs from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Jani Monoses <jani@ubuntu.com>  Wed, 21 Mar 2007 17:13:54 +0200
+
 xubuntu-meta (2.26) feisty; urgency=low
 
   * update.cfg: use http to retrieve the bzr branch, not sftp

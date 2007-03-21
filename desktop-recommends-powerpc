@@ -1,12 +1,21 @@
+abiword
+abiword-plugins
 example-content
+firefox
+gaim
 gcc
+gimp
+gimp-print
 gnome-accessibility-themes
 hplip
+landscape-client
 linux-headers-powerpc
 linux-headers-powerpc64-smp
 make
+mozilla-thunderbird
 notification-daemon
 powernowd
+restricted-manager
 scim
 scim-anthy
 scim-chewing
@@ -27,3 +36,4 @@ ttf-malayalam-fonts
 ttf-mgopen
 ttf-thai-tlwg
 xcursor-themes
+xubuntu-docs
