@@ -1,3 +1,9 @@
+xubuntu-meta (2.28) feisty; urgency=low
+
+  * changed Section to metapackages (LP#82876)
+
+ -- Michael Vogt <michael.vogt@ubuntu.com>  Tue,  3 Apr 2007 13:26:26 +0200
+
 xubuntu-meta (2.27) feisty; urgency=low
 
   * Refreshed dependencies

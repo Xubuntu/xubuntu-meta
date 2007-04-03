@@ -1,5 +1,5 @@
 Source: xubuntu-meta
-Section: base
+Section: metapackages
 Priority: optional
 Maintainer: Jani Monoses <jani@ubuntu.com> 
 Standards-Version: 3.7.2
