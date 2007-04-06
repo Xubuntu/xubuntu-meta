@@ -12,7 +12,6 @@ dbus-1-utils
 dc
 doc-base
 dvd+rw-tools
-evince-gtk
 foo2zjs
 foomatic-db
 foomatic-db-engine
@@ -23,19 +22,17 @@ gdebi
 gdm
 genisoimage
 gnome-app-install
-gnumeric-gtk
 gqview
 gs-esp-x
+gtk2-engines-pixbuf
 gtk2-engines-ubuntulooks
 gtk2-engines-xfce
-gxine
 hal
 language-selector
 lftp
 libgl1-mesa-glx
 libglib2.0-data
 libglut3
-libgoffice-gtk-0-3
 libjpeg-progs
 libnss-mdns
 libpam-foreground
@@ -43,7 +40,6 @@ libsasl2-modules
 libxp6
 min12xxw
 mousepad
-onboard
 openprinting-ppds
 orage
 pnm2ppa
@@ -54,7 +50,6 @@ scrollkeeper
 slocate
 smbclient
 synaptic
-system-config-printer
 tango-icon-theme
 tango-icon-theme-common
 thunar
@@ -72,8 +67,6 @@ vim-runtime
 wodim
 wvdial
 x-ttcidfont-conf
-xarchiver
-xfburn
 xfce4-appfinder
 xfce4-battery-plugin
 xfce4-clipman-plugin
