@@ -25,9 +25,9 @@ gcalctool-gtk
 gdebi
 gdm
 genisoimage
+ghostscript-x
 gnome-app-install
 gqview
-gs-esp-x
 gtk2-engines-pixbuf
 gtk2-engines-ubuntulooks
 gtk2-engines-xfce
@@ -42,7 +42,6 @@ libjpeg-progs
 libnss-mdns
 libpam-foreground
 libsasl2-modules
-libstdc++5
 libxp6
 min12xxw
 mousepad
@@ -111,6 +110,6 @@ xterm
 xubuntu-artwork-usplash
 xubuntu-default-settings
 xubuntu-system-tools
-xvncviewer
+xvnc4viewer
 zenity
 zip

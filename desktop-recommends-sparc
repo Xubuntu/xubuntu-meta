@@ -1,9 +1,9 @@
 abiword
 abiword-plugins
+discover1
 evince-gtk
 example-content
 firefox
-gaim
 gcc
 gimp
 gimp-print
@@ -13,12 +13,14 @@ gxine
 hal-cups-utils
 hplip
 landscape-client
+laptop-detect
 libgoffice-gtk-0-3
 linux-headers-sparc64
 make
 mozilla-thunderbird
 notification-daemon
 onboard
+pidgin
 powernowd
 restricted-manager
 scim
@@ -44,4 +46,5 @@ ttf-thai-tlwg
 xarchiver
 xcursor-themes
 xfburn
+xresprobe
 xubuntu-docs

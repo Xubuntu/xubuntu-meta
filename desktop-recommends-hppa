@@ -1,9 +1,9 @@
 abiword
 abiword-plugins
+discover1
 evince-gtk
 example-content
 firefox
-gaim
 gcc
 gimp
 gimp-print
@@ -12,6 +12,7 @@ gnumeric-gtk
 gxine
 hplip
 landscape-client
+laptop-detect
 linux-headers-hppa32
 linux-headers-hppa64
 mozilla-thunderbird
@@ -42,4 +43,5 @@ ttf-thai-tlwg
 xarchiver
 xcursor-themes
 xfburn
+xresprobe
 xubuntu-docs

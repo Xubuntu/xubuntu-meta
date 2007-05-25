@@ -21,9 +21,9 @@ gcalctool-gtk
 gdebi
 gdm
 genisoimage
+ghostscript-x
 gnome-app-install
 gqview
-gs-esp-x
 gtk2-engines-pixbuf
 gtk2-engines-ubuntulooks
 gtk2-engines-xfce
@@ -104,6 +104,6 @@ xterm
 xubuntu-artwork-usplash
 xubuntu-default-settings
 xubuntu-system-tools
-xvncviewer
+xvnc4viewer
 zenity
 zip
