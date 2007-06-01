@@ -12,14 +12,13 @@ cupsys
 cupsys-bsd
 cupsys-client
 cupsys-driver-gutenprint
-dbus-1-utils
+dbus
 dc
 doc-base
 dvd+rw-tools
 foo2zjs
 foomatic-db
 foomatic-db-engine
-foomatic-db-hpijs
 foomatic-filters
 gcalctool-gtk
 gdebi
