@@ -23,6 +23,8 @@ genisoimage
 ghostscript-x
 gnome-app-install
 gqview
+gtk2-engines
+gtk2-engines-murrine
 gtk2-engines-pixbuf
 gtk2-engines-ubuntulooks
 gtk2-engines-xfce
@@ -52,7 +54,6 @@ synaptic
 tango-icon-theme
 tango-icon-theme-common
 thunar
-thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-volman-plugin
 ttf-bitstream-vera

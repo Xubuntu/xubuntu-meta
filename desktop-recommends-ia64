@@ -32,6 +32,7 @@ scim-gtk2-immodule
 scim-hangul
 scim-pinyin
 system-config-printer
+thunar-archive-plugin
 thunar-doc
 ttf-arabeyes
 ttf-arphic-ukai
@@ -47,6 +48,7 @@ ttf-mgopen
 ttf-thai-tlwg
 xarchiver
 xcursor-themes
+xdg-utils
 xfburn
 xresprobe
 xubuntu-docs
