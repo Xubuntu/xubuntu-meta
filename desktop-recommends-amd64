@@ -15,7 +15,6 @@ hal-cups-utils
 hplip
 landscape-client
 laptop-detect
-libgoffice-gtk-0-3
 linux-headers-generic
 make
 mozilla-thunderbird
@@ -32,7 +31,6 @@ scim-hangul
 scim-pinyin
 system-config-printer
 thunar-archive-plugin
-thunar-doc
 ttf-arabeyes
 ttf-arphic-ukai
 ttf-arphic-uming
@@ -45,6 +43,7 @@ ttf-lao
 ttf-malayalam-fonts
 ttf-mgopen
 ttf-thai-tlwg
+ubufox
 xarchiver
 xcursor-themes
 xdg-utils

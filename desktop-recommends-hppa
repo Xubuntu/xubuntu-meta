@@ -28,7 +28,6 @@ scim-hangul
 scim-pinyin
 system-config-printer
 thunar-archive-plugin
-thunar-doc
 ttf-arabeyes
 ttf-arphic-ukai
 ttf-arphic-uming
@@ -41,6 +40,7 @@ ttf-lao
 ttf-malayalam-fonts
 ttf-mgopen
 ttf-thai-tlwg
+ubufox
 xarchiver
 xcursor-themes
 xdg-utils
