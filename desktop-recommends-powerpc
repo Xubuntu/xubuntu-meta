@@ -15,6 +15,7 @@ hal-cups-utils
 hplip
 landscape-client
 laptop-detect
+libgoffice-gtk-0-4
 linux-headers-powerpc
 linux-headers-powerpc64-smp
 make
