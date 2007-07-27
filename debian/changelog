@@ -1,3 +1,11 @@
+xubuntu-meta (2.36) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added xfce4-places-plugin to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Sat, 28 Jul 2007 00:50:32 +0200
+
 xubuntu-meta (2.35) gutsy; urgency=low
 
   * Refreshed dependencies
