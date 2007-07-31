@@ -4,7 +4,6 @@ acpid
 anacron
 apmd
 apport-gtk
-avahi-autoipd
 avahi-daemon
 bc
 cdparanoia
@@ -40,7 +39,6 @@ libgl1-mesa-glx
 libglib2.0-data
 libglut3
 libjpeg-progs
-libnss-mdns
 libpam-foreground
 libsasl2-modules
 libxp6

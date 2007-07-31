@@ -28,7 +28,6 @@ lftp
 libglib2.0-data
 libglut3
 libjpeg-progs
-libnss-mdns
 libpam-foreground
 libsasl2-modules
 libxp6

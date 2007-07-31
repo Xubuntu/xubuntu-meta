@@ -1,5 +1,6 @@
 abiword
 abiword-plugins
+avahi-autoipd
 discover1
 evince-gtk
 example-content
@@ -16,6 +17,7 @@ hplip
 landscape-client
 laptop-detect
 libgoffice-gtk-0-4
+libnss-mdns
 linux-headers-sparc64
 make
 mozilla-thunderbird

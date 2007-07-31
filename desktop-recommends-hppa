@@ -13,6 +13,7 @@ gxine
 hplip
 landscape-client
 laptop-detect
+libnss-mdns
 linux-headers-hppa32
 linux-headers-hppa64
 mozilla-thunderbird
