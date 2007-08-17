@@ -15,7 +15,6 @@ dbus
 dc
 doc-base
 dvd+rw-tools
-foo2zjs
 foomatic-db
 foomatic-db-engine
 foomatic-filters
@@ -42,7 +41,6 @@ libjpeg-progs
 libpam-foreground
 libsasl2-modules
 libxp6
-min12xxw
 mousepad
 openprinting-ppds
 orage
