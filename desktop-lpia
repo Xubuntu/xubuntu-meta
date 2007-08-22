@@ -1,3 +1,6 @@
+acpi
+acpi-support
+acpid
 anacron
 avahi-daemon
 bc
@@ -26,6 +29,7 @@ gtk2-engines-pixbuf
 gtk2-engines-ubuntulooks
 gtk2-engines-xfce
 hal
+hotkey-setup
 language-selector
 lftp
 libgl1-mesa-glx
@@ -37,9 +41,7 @@ libxp6
 mousepad
 openprinting-ppds
 orage
-pbbuttonsd
 pnm2ppa
-powermanagement-interface
 python-exo
 readahead
 screen
@@ -69,7 +71,6 @@ xfce4-cpugraph-plugin
 xfce4-dict-plugin
 xfce4-fsguard-plugin
 xfce4-mailwatch-plugin
-xfce4-mcs-plugins
 xfce4-mixer
 xfce4-mount-plugin
 xfce4-netload-plugin
@@ -78,7 +79,6 @@ xfce4-panel
 xfce4-places-plugin
 xfce4-quicklauncher-plugin
 xfce4-screenshooter-plugin
-xfce4-session
 xfce4-smartbookmark-plugin
 xfce4-systemload-plugin
 xfce4-taskmanager
@@ -88,18 +88,13 @@ xfce4-verve-plugin
 xfce4-weather-plugin
 xfce4-xkb-plugin
 xfdesktop4
-xfprint4
 xfwm4
 xfwm4-themes
 xkb-data
 xorg
-xscreensaver
-xscreensaver-data
-xscreensaver-gl
 xterm
 xubuntu-artwork-usplash
 xubuntu-default-settings
 xubuntu-system-tools
-xvnc4viewer
 zenity
 zip

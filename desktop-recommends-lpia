@@ -1,5 +1,3 @@
-abiword
-abiword-plugins
 apport-gtk
 avahi-autoipd
 cups-pdf
@@ -23,7 +21,6 @@ laptop-detect
 libgoffice-gtk-0-4
 libjpeg-progs
 libnss-mdns
-linux-headers-generic
 make
 min12xxw
 mozilla-thunderbird
@@ -35,7 +32,6 @@ pxljr
 restricted-manager
 scim
 scim-gtk2-immodule
-splix
 system-config-printer
 thunar-archive-plugin
 ttf-arabeyes

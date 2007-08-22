@@ -1,5 +1,4 @@
 anacron
-apport-gtk
 avahi-daemon
 bc
 cdparanoia
@@ -12,12 +11,12 @@ doc-base
 dvd+rw-tools
 foomatic-db
 foomatic-db-engine
+foomatic-db-hpijs
 foomatic-filters
 gcalctool
 gdebi
 gdm
 gnome-app-install
-gqview
 gtk2-engines-pixbuf
 gtk2-engines-ubuntulooks
 gtk2-engines-xfce
@@ -26,7 +25,6 @@ language-selector
 lftp
 libglib2.0-data
 libglut3
-libjpeg-progs
 libpam-foreground
 libsasl2-modules
 libxp6

@@ -2,7 +2,6 @@ acpi
 acpi-support
 acpid
 anacron
-apport-gtk
 avahi-daemon
 bc
 cdparanoia
@@ -16,6 +15,7 @@ doc-base
 dvd+rw-tools
 foomatic-db
 foomatic-db-engine
+foomatic-db-hpijs
 foomatic-filters
 gcalctool
 gdebi
@@ -23,7 +23,6 @@ gdm
 genisoimage
 ghostscript-x
 gnome-app-install
-gqview
 gtk2-engines
 gtk2-engines-murrine
 gtk2-engines-pixbuf
@@ -35,7 +34,6 @@ lftp
 libgl1-mesa-glx
 libglib2.0-data
 libglut3
-libjpeg-progs
 libpam-foreground
 libsasl2-modules
 libxp6
