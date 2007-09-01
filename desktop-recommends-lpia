@@ -11,6 +11,7 @@ gcc
 gimp
 gimp-print
 gnome-accessibility-themes
+gnome-screensaver
 gnome-system-monitor
 gnumeric-gtk
 gqview
@@ -34,6 +35,7 @@ pxljr
 restricted-manager
 scim
 scim-gtk2-immodule
+splix
 system-config-printer
 thunar-archive-plugin
 ttf-arabeyes
@@ -52,7 +54,6 @@ wvdial
 xarchiver
 xcursor-themes
 xdg-utils
-xfburn
 xfce4-appfinder
 xfce4-battery-plugin
 xfce4-clipman-plugin

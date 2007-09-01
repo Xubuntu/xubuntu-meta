@@ -41,6 +41,7 @@ pnm2ppa
 python-exo
 readahead
 screen
+screensaver-default-images
 scrollkeeper
 slocate
 smbclient
@@ -71,7 +72,6 @@ xfwm4
 xfwm4-themes
 xkb-data
 xorg
-xscreensaver
 xscreensaver-data
 xscreensaver-gl
 xterm
