@@ -17,6 +17,7 @@ gcalctool
 gdebi
 gdm
 gnome-app-install
+gnome-system-tools
 gtk2-engines-pixbuf
 gtk2-engines-ubuntulooks
 gtk2-engines-xfce
@@ -67,6 +68,5 @@ xscreensaver-gl
 xterm
 xubuntu-artwork-usplash
 xubuntu-default-settings
-xubuntu-system-tools
 zenity
 zip

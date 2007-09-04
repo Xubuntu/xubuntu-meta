@@ -21,6 +21,7 @@ genisoimage
 ghostscript-x
 gnome-app-install
 gnome-mount
+gnome-system-tools
 gtk2-engines
 gtk2-engines-murrine
 gtk2-engines-pixbuf
@@ -77,6 +78,5 @@ xscreensaver-gl
 xterm
 xubuntu-artwork-usplash
 xubuntu-default-settings
-xubuntu-system-tools
 zenity
 zip
