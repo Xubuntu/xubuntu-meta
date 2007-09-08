@@ -30,7 +30,6 @@ libpam-foreground
 libsasl2-modules
 libxp6
 openprinting-ppds
-orage
 pnm2ppa
 readahead
 screen
@@ -42,7 +41,6 @@ synaptic
 tango-icon-theme
 tango-icon-theme-common
 thunar
-thunar-media-tags-plugin
 ttf-bitstream-vera
 ttf-dejavu
 ttf-freefont

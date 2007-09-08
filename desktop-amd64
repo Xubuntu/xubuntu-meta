@@ -41,10 +41,8 @@ libpam-foreground
 libsasl2-modules
 libxp6
 openprinting-ppds
-orage
 pnm2ppa
 powermanagement-interface
-python-exo
 readahead
 screen
 screensaver-default-images
@@ -55,7 +53,6 @@ synaptic
 tango-icon-theme
 tango-icon-theme-common
 thunar
-thunar-media-tags-plugin
 thunar-volman-plugin
 ttf-bitstream-vera
 ttf-dejavu

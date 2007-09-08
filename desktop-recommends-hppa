@@ -4,6 +4,7 @@ apport-gtk
 discover1
 displayconfig-gtk
 example-content
+file-roller
 firefox
 foo2zjs
 gcc
@@ -27,12 +28,14 @@ mousepad
 mozilla-thunderbird
 notification-daemon
 onboard
+orage
 powernowd
 restricted-manager
 scim
 scim-gtk2-immodule
 system-config-printer
 thunar-archive-plugin
+thunar-media-tags-plugin
 ttf-arabeyes
 ttf-arphic-uming
 ttf-baekmuk
@@ -46,7 +49,6 @@ ttf-mgopen
 ttf-thai-tlwg
 ubufox
 wvdial
-xarchiver
 xcursor-themes
 xdg-utils
 xfce4-appfinder

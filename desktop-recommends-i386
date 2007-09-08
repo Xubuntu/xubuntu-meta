@@ -7,6 +7,7 @@ discover1
 displayconfig-gtk
 evince-gtk
 example-content
+file-roller
 firefox
 foo2zjs
 gcc
@@ -32,9 +33,11 @@ mousepad
 mozilla-thunderbird
 notification-daemon
 onboard
+orage
 pidgin
 powernowd
 pxljr
+python-exo
 restricted-manager
 scim
 scim-gtk2-immodule
@@ -42,6 +45,7 @@ scim-tables-additional
 splix
 system-config-printer
 thunar-archive-plugin
+thunar-media-tags-plugin
 ttf-arabeyes
 ttf-arphic-uming
 ttf-baekmuk
@@ -55,7 +59,6 @@ ttf-mgopen
 ttf-thai-tlwg
 ubufox
 wvdial
-xarchiver
 xcursor-themes
 xdg-utils
 xfce4-appfinder
