@@ -1,3 +1,15 @@
+xubuntu-meta (2.46) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added thunar-volman to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-lpia
+  * Removed thunar-volman-plugin from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-lpia
+  * debian/rules: drop auto-replace regexp for xubuntu-system-tools and 
+    gcalctool.
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Fri, 14 Sep 2007 23:59:26 +0200
+
 xubuntu-meta (2.45) gutsy; urgency=low
 
   * Refreshed dependencies

@@ -21,8 +21,8 @@ build-stamp:	desktop-$(DEB_BUILD_ARCH)
 		(printf "$$package:Recommends="; perl -pe 's/\n/, /g'  $$seed-recommends-$(DEB_BUILD_ARCH); echo) \
 			>> debian/$$package.substvars; \
 	done
-	#add alternate depends for xubuntu-system-tools and evince-gtk to be installable along ubuntu-desktop
-	sed -i 's/evince-gtk/evince-gtk | evince/; s/xubuntu-system-tools/xubuntu-system-tools | gnome-system-tools/; s/gnumeric-gtk/gnumeric-gtk | gnumeric/; s/gcalctool-gtk/gcalctool-gtk | gcalctool/' debian/xubuntu-desktop.substvars
+	#add alternate depends for gnumeric-gtk and evince-gtk to be installable along ubuntu-desktop
+	sed -i 's/evince-gtk/evince-gtk | evince/; s/gnumeric-gtk/gnumeric-gtk | gnumeric/' debian/xubuntu-desktop.substvars
 	touch $@
 
 install: build-stamp
