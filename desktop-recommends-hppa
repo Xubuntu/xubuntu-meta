@@ -15,7 +15,6 @@ gnome-screensaver
 gnome-system-monitor
 gnumeric-gtk
 gqview
-gxine
 hplip
 landscape-client
 laptop-detect
@@ -23,6 +22,7 @@ libjpeg-progs
 libnss-mdns
 linux-headers-hppa32
 linux-headers-hppa64
+make
 min12xxw
 mousepad
 mozilla-thunderbird
@@ -30,12 +30,14 @@ notification-daemon
 onboard
 orage
 powernowd
+pxljr
 restricted-manager
 scim
 scim-gtk2-immodule
 system-config-printer
 thunar-archive-plugin
 thunar-media-tags-plugin
+totem
 ttf-arabeyes
 ttf-arphic-uming
 ttf-baekmuk
@@ -55,6 +57,7 @@ xfce4-appfinder
 xfce4-battery-plugin
 xfce4-clipman-plugin
 xfce4-cpugraph-plugin
+xfce4-dict-plugin
 xfce4-fsguard-plugin
 xfce4-mailwatch-plugin
 xfce4-mount-plugin

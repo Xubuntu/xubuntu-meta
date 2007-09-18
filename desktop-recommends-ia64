@@ -18,7 +18,6 @@ gnome-screensaver
 gnome-system-monitor
 gnumeric-gtk
 gqview
-gxine
 hal-cups-utils
 hplip
 landscape-client
@@ -46,6 +45,7 @@ splix
 system-config-printer
 thunar-archive-plugin
 thunar-media-tags-plugin
+totem
 ttf-arabeyes
 ttf-arphic-uming
 ttf-baekmuk

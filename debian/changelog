@@ -1,3 +1,18 @@
+xubuntu-meta (2.47) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added make to desktop-recommends-hppa
+  * Added pxljr to desktop-recommends-hppa
+  * Added totem to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Added xfce4-dict-plugin to desktop-recommends-hppa
+  * Removed gxine from desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+
+ -- Jani Monoses <jani@ubuntu.com>  Tue, 18 Sep 2007 13:18:18 +0200
+
 xubuntu-meta (2.46) gutsy; urgency=low
 
   * Refreshed dependencies
