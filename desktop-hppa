@@ -19,8 +19,10 @@ gdm
 genisoimage
 ghostscript-x
 gnome-app-install
+gnome-mount
 gnome-system-tools
 gtk2-engines
+gtk2-engines-murrine
 gtk2-engines-pixbuf
 gtk2-engines-ubuntulooks
 gtk2-engines-xfce

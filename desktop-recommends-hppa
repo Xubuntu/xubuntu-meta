@@ -1,8 +1,10 @@
 abiword
 abiword-plugins
 apport-gtk
+brasero
 discover1
 displayconfig-gtk
+evince-gtk
 example-content
 file-roller
 firefox
@@ -11,6 +13,7 @@ gcc
 gimp
 gimp-print
 gnome-accessibility-themes
+gnome-games
 gnome-screensaver
 gnome-system-monitor
 gnumeric-gtk
@@ -19,6 +22,7 @@ hal-cups-utils
 hplip
 landscape-client
 laptop-detect
+libgnome2-perl
 libjpeg-progs
 libnss-mdns
 linux-headers-hppa32
@@ -27,9 +31,11 @@ make
 min12xxw
 mousepad
 mozilla-thunderbird
+network-manager-gnome
 notification-daemon
 onboard
 orage
+pidgin
 powernowd
 pxljr
 python-exo
@@ -54,6 +60,7 @@ ttf-mgopen
 ttf-thai-tlwg
 ttf-unfonts-core
 ubufox
+update-notifier
 wvdial
 xcursor-themes
 xdg-utils

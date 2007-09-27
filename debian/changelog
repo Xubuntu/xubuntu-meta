@@ -1,3 +1,28 @@
+xubuntu-meta (2.49) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added brasero to desktop-recommends-hppa
+  * Added evince-gtk to desktop-recommends-hppa
+  * Added gnome-games to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Added gnome-mount to desktop-hppa
+  * Added gtk2-engines-murrine to desktop-hppa
+  * Added libgnome2-perl to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Added network-manager-gnome to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Added pidgin to desktop-recommends-hppa
+  * Added update-notifier to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+
+ -- Jani Monoses <jani@ubuntu.com>  Thu, 27 Sep 2007 20:01:47 +0200
+
 xubuntu-meta (2.48) gutsy; urgency=low
 
   * Refreshed dependencies

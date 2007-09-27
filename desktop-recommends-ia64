@@ -15,6 +15,7 @@ gcc
 gimp
 gimp-print
 gnome-accessibility-themes
+gnome-games
 gnome-screensaver
 gnome-system-monitor
 gnumeric-gtk
@@ -23,6 +24,7 @@ hal-cups-utils
 hplip
 landscape-client
 laptop-detect
+libgnome2-perl
 libgoffice-gtk-0-4
 libjpeg-progs
 libnss-mdns
@@ -32,6 +34,7 @@ make
 min12xxw
 mousepad
 mozilla-thunderbird
+network-manager-gnome
 notification-daemon
 onboard
 orage
@@ -60,6 +63,7 @@ ttf-mgopen
 ttf-thai-tlwg
 ttf-unfonts-core
 ubufox
+update-notifier
 wvdial
 xcursor-themes
 xdg-utils
