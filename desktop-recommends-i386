@@ -1,5 +1,6 @@
 abiword
 abiword-plugins
+app-install-data-commercial
 apport-gtk
 avahi-autoipd
 brasero
@@ -20,6 +21,7 @@ gnome-screensaver
 gnome-system-monitor
 gnumeric-gtk
 gqview
+gucharmap
 hal-cups-utils
 hplip
 landscape-client

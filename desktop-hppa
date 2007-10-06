@@ -6,6 +6,7 @@ cupsys
 cupsys-bsd
 cupsys-client
 cupsys-driver-gutenprint
+dbus
 dc
 doc-base
 dvd+rw-tools
@@ -29,6 +30,7 @@ gtk2-engines-xfce
 hal
 language-selector
 lftp
+libgl1-mesa-glx
 libglib2.0-data
 libglut3
 libpam-foreground

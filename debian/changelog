@@ -1,3 +1,19 @@
+xubuntu-meta (2.50) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added app-install-data-commercial to desktop-recommends-i386,
+    desktop-recommends-amd64, desktop-recommends-powerpc, desktop-
+    recommends-ia64, desktop-recommends-sparc, desktop-recommends-hppa,
+    desktop-recommends-lpia
+  * Added avahi-autoipd to desktop-recommends-hppa
+  * Added dbus to desktop-hppa
+  * Added gucharmap to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Added libgl1-mesa-glx to desktop-hppa
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Sat, 06 Oct 2007 13:03:19 +0200
+
 xubuntu-meta (2.49) gutsy; urgency=low
 
   * Refreshed dependencies
