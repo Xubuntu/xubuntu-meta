@@ -12,7 +12,6 @@ doc-base
 dvd+rw-tools
 foomatic-db
 foomatic-db-engine
-foomatic-db-hpijs
 foomatic-filters
 gcalctool
 gdebi
@@ -33,7 +32,6 @@ lftp
 libgl1-mesa-glx
 libglib2.0-data
 libglut3
-libpam-foreground
 libsasl2-modules
 libxp6
 openprinting-ppds
