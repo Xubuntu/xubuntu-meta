@@ -14,7 +14,6 @@ foo2zjs
 foomatic-db-hpijs
 gcc
 gimp
-gimp-print
 gnome-accessibility-themes
 gnome-games
 gnome-screensaver
@@ -27,7 +26,6 @@ hplip
 landscape-client
 laptop-detect
 libgnome2-perl
-libgoffice-gtk-0-4
 libjpeg-progs
 libnss-mdns
 linux-headers-hppa32
