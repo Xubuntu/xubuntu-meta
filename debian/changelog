@@ -1,3 +1,13 @@
+xubuntu-meta (2.53) hardy; urgency=low
+
+  * Refreshed dependencies
+  * Added libgoffice-gtk-0-5 to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+
+ -- Sarah Hobbs <hobbsee@ubuntu.com>  Wed, 28 Nov 2007 20:06:00 +1100
+
 xubuntu-meta (2.52) hardy; urgency=low
 
   * Refreshed dependencies

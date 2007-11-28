@@ -27,6 +27,7 @@ hplip
 landscape-client
 laptop-detect
 libgnome2-perl
+libgoffice-gtk-0-5
 libjpeg-progs
 libnss-mdns
 linux-headers-sparc64
