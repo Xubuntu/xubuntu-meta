@@ -1,8 +1,8 @@
 Source: xubuntu-meta
 Section: metapackages
 Priority: optional
-Maintainer: Jani Monoses <jani@ubuntu.com> 
-Standards-Version: 3.7.2
+Maintainer: Xubuntu Developers <xubuntu-devel@lists.ubuntu.com>
+Standards-Version: 3.7.3
 Build-Depends: debhelper (>= 4), germinate (>= 0.21ubuntu1)
 
 Package: xubuntu-desktop

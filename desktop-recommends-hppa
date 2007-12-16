@@ -12,11 +12,10 @@ file-roller
 firefox
 foo2zjs
 foomatic-db-hpijs
+gcalctool
 gcc
 gimp
 gnome-accessibility-themes
-gnome-games
-gnome-screensaver
 gnome-system-monitor
 gnumeric-gtk
 gqview
@@ -25,6 +24,7 @@ hal-cups-utils
 hplip
 landscape-client
 laptop-detect
+libgl1-mesa-dri
 libgnome2-perl
 libgoffice-gtk-0-5
 libjpeg-progs
@@ -33,7 +33,6 @@ linux-headers-hppa32
 linux-headers-hppa64
 make
 min12xxw
-mousepad
 mozilla-thunderbird
 network-manager-gnome
 notification-daemon
@@ -49,8 +48,6 @@ scim
 scim-gtk2-immodule
 splix
 system-config-printer
-thunar-archive-plugin
-thunar-media-tags-plugin
 totem
 totem-xine
 ttf-arabeyes
@@ -79,7 +76,6 @@ xfce4-mailwatch-plugin
 xfce4-mount-plugin
 xfce4-netload-plugin
 xfce4-notes-plugin
-xfce4-places-plugin
 xfce4-quicklauncher-plugin
 xfce4-screenshooter-plugin
 xfce4-smartbookmark-plugin

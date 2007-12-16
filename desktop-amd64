@@ -16,13 +16,11 @@ dvd+rw-tools
 foomatic-db
 foomatic-db-engine
 foomatic-filters
-gcalctool
 gdebi
 gdm
 genisoimage
 ghostscript-x
 gnome-app-install
-gnome-mount
 gnome-system-tools
 gtk2-engines
 gtk2-engines-murrine
@@ -38,6 +36,7 @@ libglib2.0-data
 libglut3
 libsasl2-modules
 libxp6
+mousepad
 openprinting-ppds
 pnm2ppa
 powermanagement-interface
@@ -51,6 +50,8 @@ synaptic
 tango-icon-theme
 tango-icon-theme-common
 thunar
+thunar-archive-plugin
+thunar-media-tags-plugin
 thunar-volman
 ttf-bitstream-vera
 ttf-dejavu-core
@@ -65,6 +66,7 @@ x-ttcidfont-conf
 xfce4-mcs-plugins
 xfce4-mixer
 xfce4-panel
+xfce4-places-plugin
 xfce4-session
 xfce4-terminal
 xfce4-utils
@@ -73,6 +75,7 @@ xfwm4
 xfwm4-themes
 xkb-data
 xorg
+xscreensaver
 xscreensaver-data
 xscreensaver-gl
 xterm
