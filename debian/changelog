@@ -1,3 +1,31 @@
+xubuntu-meta (2.55) hardy; urgency=low
+
+  * Refreshed dependencies
+  * Added cups-pdf to desktop-recommends-hppa
+  * Added pidgin-otr to desktop-recommends-sparc, desktop-recommends-
+    lpia
+  * Added transmission-gtk to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Added ttf-sil-gentium to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Added vinagre to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Removed ttf-gentium from desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Removed xvnc4viewer from desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Tue, 15 Jan 2008 12:44:11 +0100
+
 xubuntu-meta (2.54) hardy; urgency=low
 
   * Refreshed dependencies
