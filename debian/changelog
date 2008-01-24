@@ -1,3 +1,51 @@
+xubuntu-meta (2.56) hardy; urgency=low
+
+  * update.cfg: add 'universe' to components.
+  * Refreshed dependencies
+  * Added libgoffice-gtk-0-6 to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Added ristretto to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia
+  * Added squeeze to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia
+  * Added thunar-thumbnailers to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia
+  * Added xfce4-taskmanager to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Added xfmedia to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia
+  * Removed file-roller from desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Removed gnome-system-monitor from desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Removed gqview from desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Removed libgoffice-gtk-0-5 from desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Removed libjpeg-progs from desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Removed totem from desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Removed totem-xine from desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Thu, 24 Jan 2008 13:47:49 +0100
+
 xubuntu-meta (2.55) hardy; urgency=low
 
   * Refreshed dependencies

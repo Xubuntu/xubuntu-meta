@@ -9,7 +9,6 @@ discover1
 displayconfig-gtk
 evince-gtk
 example-content
-file-roller
 firefox
 foo2zjs
 foomatic-db-hpijs
@@ -17,9 +16,7 @@ gcalctool
 gcc
 gimp
 gnome-accessibility-themes
-gnome-system-monitor
 gnumeric-gtk
-gqview
 gucharmap
 hal-cups-utils
 hplip
@@ -27,8 +24,7 @@ landscape-client
 laptop-detect
 libgl1-mesa-dri
 libgnome2-perl
-libgoffice-gtk-0-5
-libjpeg-progs
+libgoffice-gtk-0-6
 libnss-mdns
 linux-headers-hppa32
 linux-headers-hppa64
@@ -49,8 +45,6 @@ scim
 scim-gtk2-immodule
 splix
 system-config-printer
-totem
-totem-xine
 transmission-gtk
 ttf-arabeyes
 ttf-arphic-uming
@@ -83,6 +77,7 @@ xfce4-quicklauncher-plugin
 xfce4-screenshooter-plugin
 xfce4-smartbookmark-plugin
 xfce4-systemload-plugin
+xfce4-taskmanager
 xfce4-verve-plugin
 xfce4-weather-plugin
 xfce4-xkb-plugin
