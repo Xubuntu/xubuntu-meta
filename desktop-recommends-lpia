@@ -20,6 +20,7 @@ gnumeric-gtk
 gucharmap
 hal-cups-utils
 hplip
+jockey-gtk
 landscape-client
 laptop-detect
 libgl1-mesa-dri
@@ -38,7 +39,6 @@ pidgin-otr
 powernowd
 pxljr
 python-exo
-restricted-manager
 scim
 scim-gtk2-immodule
 splix
