@@ -1,3 +1,19 @@
+xubuntu-meta (2.59) hardy; urgency=low
+
+  * Refreshed dependencies
+  * Added totem to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Added totem-gstreamer to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Removed xfmedia from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia (should fix 
+    LP: #188030 and un-break daily builds).
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Tue, 05 Feb 2008 22:49:33 +0100
+
 xubuntu-meta (2.58) hardy; urgency=low
 
   * Refreshed dependencies
