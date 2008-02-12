@@ -5,7 +5,6 @@ anacron
 apmd
 avahi-daemon
 bc
-cdparanoia
 cupsys
 cupsys-bsd
 cupsys-client
@@ -13,7 +12,6 @@ cupsys-driver-gutenprint
 dbus
 dc
 doc-base
-dvd+rw-tools
 foomatic-db
 foomatic-db-engine
 foomatic-filters
@@ -65,12 +63,10 @@ unzip
 update-manager
 usplash
 vim-runtime
-wodim
 x-ttcidfont-conf
 xfce4-mcs-plugins
 xfce4-mixer
 xfce4-panel
-xfce4-places-plugin
 xfce4-session
 xfce4-terminal
 xfce4-utils
