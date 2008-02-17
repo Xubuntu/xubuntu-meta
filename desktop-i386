@@ -44,7 +44,6 @@ ristretto
 screen
 screensaver-default-images
 scrollkeeper
-slocate
 smbclient
 squeeze
 synaptic
@@ -65,6 +64,7 @@ usplash
 vim-runtime
 x-ttcidfont-conf
 xfce4-mcs-plugins
+xfce4-mcs-plugins-extra
 xfce4-mixer
 xfce4-panel
 xfce4-session
