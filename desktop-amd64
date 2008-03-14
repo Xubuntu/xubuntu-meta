@@ -1,6 +1,8 @@
 acpi
 acpi-support
 acpid
+alsa-base
+alsa-utils
 anacron
 avahi-daemon
 bc
@@ -19,6 +21,7 @@ gdm
 genisoimage
 ghostscript-x
 gnome-app-install
+gnome-mount
 gnome-system-tools
 gtk2-engines
 gtk2-engines-murrine
@@ -34,17 +37,13 @@ libglib2.0-data
 libglut3
 libsasl2-modules
 libxp6
-mousepad
 openprinting-ppds
 pnm2ppa
 powermanagement-interface
 readahead
-ristretto
 screen
-screensaver-default-images
 scrollkeeper
 smbclient
-squeeze
 synaptic
 tango-icon-theme
 tango-icon-theme-common
@@ -74,9 +73,6 @@ xfwm4
 xfwm4-themes
 xkb-data
 xorg
-xscreensaver
-xscreensaver-data
-xscreensaver-gl
 xterm
 xubuntu-artwork-usplash
 xubuntu-default-settings

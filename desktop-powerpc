@@ -1,3 +1,5 @@
+alsa-base
+alsa-utils
 anacron
 avahi-daemon
 bc
@@ -16,6 +18,7 @@ gdm
 genisoimage
 ghostscript-x
 gnome-app-install
+gnome-mount
 gnome-system-tools
 gtk2-engines
 gtk2-engines-murrine
@@ -30,18 +33,14 @@ libglib2.0-data
 libglut3
 libsasl2-modules
 libxp6
-mousepad
 openprinting-ppds
 pbbuttonsd
 pnm2ppa
 powermanagement-interface
 readahead
-ristretto
 screen
-screensaver-default-images
 scrollkeeper
 smbclient
-squeeze
 synaptic
 tango-icon-theme
 tango-icon-theme-common
@@ -60,6 +59,7 @@ usplash
 vim-runtime
 x-ttcidfont-conf
 xfce4-mcs-plugins
+xfce4-mcs-plugins-extra
 xfce4-mixer
 xfce4-panel
 xfce4-session
@@ -70,9 +70,6 @@ xfwm4
 xfwm4-themes
 xkb-data
 xorg
-xscreensaver
-xscreensaver-data
-xscreensaver-gl
 xterm
 xubuntu-artwork-usplash
 xubuntu-default-settings

@@ -9,11 +9,11 @@ bogofilter
 brasero
 cdparanoia
 cups-pdf
-discover1
 displayconfig-gtk
 dvd+rw-tools
 evince-gtk
 example-content
+file-roller
 firefox
 foo2zjs
 foomatic-db-hpijs
@@ -23,6 +23,8 @@ gcc
 gimp
 gnome-accessibility-themes
 gnome-games
+gnome-screensaver
+gnome-system-monitor
 gnumeric-gtk
 gucharmap
 hal-cups-utils
@@ -36,6 +38,7 @@ libgoffice-gtk-0-6
 libnss-mdns
 make
 min12xxw
+mousepad
 mozilla-thunderbird
 network-manager-gnome
 notification-daemon
@@ -46,8 +49,10 @@ pidgin-otr
 powernowd
 pxljr
 python-exo
+ristretto
 scim
 scim-gtk2-immodule
+screensaver-default-images
 splix
 system-config-printer-gnome
 totem
@@ -60,8 +65,6 @@ ttf-kochi-gothic
 ttf-kochi-mincho
 ttf-lao
 ttf-malayalam-fonts
-ttf-mgopen
-ttf-sil-gentium
 ttf-thai-tlwg
 ttf-unfonts-core
 ubufox
@@ -86,10 +89,10 @@ xfce4-quicklauncher-plugin
 xfce4-screenshooter-plugin
 xfce4-smartbookmark-plugin
 xfce4-systemload-plugin
-xfce4-taskmanager
 xfce4-verve-plugin
 xfce4-weather-plugin
 xfce4-xkb-plugin
 xfprint4
-xresprobe
+xscreensaver-data
+xscreensaver-gl
 xubuntu-docs
