@@ -1,3 +1,13 @@
+xubuntu-meta (2.64) hardy; urgency=low
+
+  * Refreshed dependencies
+  * Added gnome-power-manager to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Wed, 02 Apr 2008 20:30:12 -0300
+
 xubuntu-meta (2.63) hardy; urgency=low
 
   * Refreshed dependencies
