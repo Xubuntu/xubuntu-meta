@@ -7,6 +7,7 @@ anacron
 apmd
 avahi-daemon
 bc
+ca-certificates
 cupsys
 cupsys-bsd
 cupsys-client

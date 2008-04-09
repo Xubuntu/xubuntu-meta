@@ -1,3 +1,11 @@
+xubuntu-meta (2.65) hardy; urgency=low
+
+  * Refreshed dependencies
+  * Added ca-certificates to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Wed, 09 Apr 2008 13:57:44 -0300
+
 xubuntu-meta (2.64) hardy; urgency=low
 
   * Refreshed dependencies

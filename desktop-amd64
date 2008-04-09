@@ -6,6 +6,7 @@ alsa-utils
 anacron
 avahi-daemon
 bc
+ca-certificates
 cupsys
 cupsys-bsd
 cupsys-client
