@@ -80,6 +80,7 @@ xfce4-clipman-plugin
 xfce4-cpugraph-plugin
 xfce4-dict-plugin
 xfce4-fsguard-plugin
+xfce4-governor-plugin
 xfce4-mailwatch-plugin
 xfce4-mount-plugin
 xfce4-netload-plugin
