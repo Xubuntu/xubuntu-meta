@@ -1,12 +1,11 @@
 alsa-base
 alsa-utils
 anacron
-avahi-daemon
 bc
 ca-certificates
-cupsys
-cupsys-bsd
-cupsys-client
+cups
+cups-bsd
+cups-client
 cupsys-driver-gutenprint
 dbus
 dc
@@ -20,7 +19,6 @@ genisoimage
 ghostscript-x
 gnome-app-install
 gnome-mount
-gnome-system-tools
 gtk2-engines
 gtk2-engines-murrine
 gtk2-engines-pixbuf
@@ -59,11 +57,9 @@ usplash
 vim-runtime
 x-ttcidfont-conf
 xfce4-mcs-plugins
-xfce4-mcs-plugins-extra
 xfce4-mixer
 xfce4-panel
 xfce4-session
-xfce4-terminal
 xfce4-utils
 xfdesktop4
 xfwm4
