@@ -2,6 +2,8 @@ abiword
 abiword-plugins
 app-install-data-commercial
 apport-gtk
+apt-xapian-index
+audacious
 avahi-autoipd
 avahi-daemon
 bluez-cups
@@ -28,6 +30,7 @@ gnome-screensaver
 gnome-system-monitor
 gnome-system-tools
 gnumeric-gtk
+gpicview
 gucharmap
 hal-cups-utils
 hplip
@@ -35,11 +38,11 @@ jockey-gtk
 landscape-client
 laptop-detect
 libgl1-mesa-dri
-libgnome2-perl
 libgoffice-gtk-0-6
 libnss-mdns
 linux-headers-generic
 make
+midori
 min12xxw
 mousepad
 mozilla-thunderbird
@@ -51,13 +54,15 @@ pidgin
 pidgin-otr
 powernowd
 pxljr
-ristretto
 scim
 scim-gtk2-immodule
 scim-tables-additional
 screensaver-default-images
 splix
 system-config-printer-gnome
+thunar-archive-plugin
+thunar-media-tags-plugin
+thunar-thumbnailers
 totem
 totem-gstreamer
 transmission-gtk
@@ -86,6 +91,7 @@ xfce4-fsguard-plugin
 xfce4-governor-plugin
 xfce4-mailwatch-plugin
 xfce4-mcs-plugins-extra
+xfce4-mixer
 xfce4-mount-plugin
 xfce4-netload-plugin
 xfce4-notes-plugin
@@ -99,6 +105,7 @@ xfce4-verve-plugin
 xfce4-weather-plugin
 xfce4-xkb-plugin
 xfprint4
+xfwm4-themes
 xscreensaver-data
 xscreensaver-gl
 xubuntu-docs

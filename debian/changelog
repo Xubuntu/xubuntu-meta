@@ -1,3 +1,40 @@
+xubuntu-meta (2.68) intrepid; urgency=low
+
+  * Adjust update.cfg to use ~xubuntu-dev branch for Xubuntu seeds. Requires
+    germinate (>= 1.6) for a bug-fix in handling of multiple bzr+ssh
+    seed_base items.
+
+  * Refreshed dependencies
+  * Added apt-xapian-index to desktop-recommends
+  * Added audacious to desktop-recommends
+  * Added dmz-cursor-theme to desktop
+  * Added gpicview to desktop-recommends
+  * Added inputattach to desktop
+  * Added libpam-ck-connector to desktop
+  * Added midori to desktop-recommends
+  * Added pcmciautils to desktop
+  * Added policykit-gnome to desktop
+  * Removed gnome-mount from desktop
+  * Removed libgnome2-perl from desktop-recommends
+  * Removed linux-headers-hppa32 from desktop-recommends [hppa]
+  * Removed linux-headers-hppa64 from desktop-recommends [hppa]
+  * Removed linux-headers-itanium from desktop-recommends [ia64]
+  * Removed linux-headers-mckinley from desktop-recommends [ia64]
+  * Removed linux-headers-powerpc from desktop-recommends [powerpc]
+  * Removed linux-headers-powerpc64-smp from desktop-recommends
+    [powerpc]
+  * Removed linux-headers-sparc64 from desktop-recommends [sparc]
+  * Removed ristretto from desktop-recommends
+  * Removed ubuntu-artwork from desktop
+  * Removed xfce4-mcs-plugins from desktop
+  * Moved thunar-archive-plugin to desktop-recommends
+  * Moved thunar-media-tags-plugin to desktop-recommends
+  * Moved thunar-thumbnailers to desktop-recommends
+  * Moved xfce4-mixer to desktop-recommends
+  * Moved xfwm4-themes to desktop-recommends
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 28 Aug 2008 22:51:52 +0100
+
 xubuntu-meta (2.67) intrepid; urgency=low
 
   * Updated update.cfg for Intrepid.
