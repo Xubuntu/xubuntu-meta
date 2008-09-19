@@ -1,3 +1,32 @@
+xubuntu-meta (2.69) intrepid; urgency=low
+
+  * Refreshed dependencies
+  * Added evince to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Added listen to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Added powermanagement-interface to desktop-lpia
+  * Removed displayconfig-gtk from desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Removed evince-gtk from desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Removed landscape-client from desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Removed ttf-malayalam-fonts from desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * debian/control: Bumped standards version to 3.8.0
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Fri, 19 Sep 2008 00:18:20 -0300
+
 xubuntu-meta (2.68) intrepid; urgency=low
 
   * Adjust update.cfg to use ~xubuntu-dev branch for Xubuntu seeds. Requires

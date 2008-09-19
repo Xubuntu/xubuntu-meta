@@ -12,9 +12,8 @@ bogofilter
 brasero
 catfish
 cdparanoia
-displayconfig-gtk
 dvd+rw-tools
-evince-gtk
+evince
 file-roller
 firefox
 foo2zjs
@@ -35,12 +34,12 @@ gucharmap
 hal-cups-utils
 hplip
 jockey-gtk
-landscape-client
 laptop-detect
 libgl1-mesa-dri
 libgoffice-gtk-0-6
 libnss-mdns
 linux-headers-generic
+listen
 make
 midori
 min12xxw
@@ -72,7 +71,6 @@ ttf-indic-fonts-core
 ttf-kochi-gothic
 ttf-kochi-mincho
 ttf-lao
-ttf-malayalam-fonts
 ttf-thai-tlwg
 ttf-unfonts-core
 ubufox

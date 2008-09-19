@@ -2,7 +2,7 @@ Source: xubuntu-meta
 Section: metapackages
 Priority: optional
 Maintainer: Xubuntu Developers <xubuntu-devel@lists.ubuntu.com>
-Standards-Version: 3.7.3
+Standards-Version: 3.8.0
 Build-Depends: debhelper (>= 4), germinate (>= 1.6)
 
 Package: xubuntu-desktop
