@@ -1,3 +1,17 @@
+xubuntu-meta (2.70) intrepid; urgency=low
+
+  * Refreshed dependencies
+  * Added landscape-common to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Added linux-headers-lpia to desktop-recommends-lpia
+  * Removed listen from desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Thu, 25 Sep 2008 12:09:52 -0300
+
 xubuntu-meta (2.69) intrepid; urgency=low
 
   * Refreshed dependencies
