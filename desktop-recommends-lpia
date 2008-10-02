@@ -3,7 +3,6 @@ abiword-plugins
 app-install-data-commercial
 apport-gtk
 apt-xapian-index
-audacious
 avahi-autoipd
 avahi-daemon
 bluez-cups
@@ -34,14 +33,13 @@ gucharmap
 hal-cups-utils
 hplip
 jockey-gtk
-landscape-common
 laptop-detect
 libgl1-mesa-dri
 libgoffice-gtk-0-6
 libnss-mdns
 linux-headers-lpia
+listen
 make
-midori
 min12xxw
 mousepad
 mozilla-thunderbird
@@ -56,7 +54,9 @@ pxljr
 scim
 scim-gtk2-immodule
 screensaver-default-images
+seahorse
 splix
+ssh-askpass-gnome
 system-config-printer-gnome
 thunar-archive-plugin
 thunar-media-tags-plugin
@@ -70,6 +70,7 @@ ttf-indic-fonts-core
 ttf-kochi-gothic
 ttf-kochi-mincho
 ttf-lao
+ttf-opensymbol
 ttf-thai-tlwg
 ttf-unfonts-core
 ubufox
@@ -77,6 +78,7 @@ update-notifier
 vinagre
 wodim
 wvdial
+xchat
 xcursor-themes
 xdg-utils
 xfce4-appfinder
@@ -103,6 +105,7 @@ xfce4-weather-plugin
 xfce4-xkb-plugin
 xfprint4
 xfwm4-themes
+xsane
 xscreensaver-data
 xscreensaver-gl
 xubuntu-docs
