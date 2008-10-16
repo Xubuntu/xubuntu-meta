@@ -1,3 +1,16 @@
+xubuntu-meta (2.72) intrepid; urgency=low
+
+  * Refreshed dependencies
+  * Added linux-headers-hppa32 to desktop-recommends [hppa]
+  * Added linux-headers-hppa64 to desktop-recommends [hppa]
+  * Added linux-headers-itanium to desktop-recommends [ia64]
+  * Added linux-headers-mckinley to desktop-recommends [ia64]
+  * Added linux-headers-powerpc to desktop-recommends [powerpc]
+  * Added linux-headers-powerpc64-smp to desktop-recommends [powerpc]
+  * Added linux-headers-sparc64 to desktop-recommends [sparc]
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Thu, 16 Oct 2008 02:38:57 -0700
+
 xubuntu-meta (2.71) intrepid; urgency=low
 
   * Refreshed dependencies

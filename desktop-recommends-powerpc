@@ -37,6 +37,8 @@ laptop-detect
 libgl1-mesa-dri
 libgoffice-gtk-0-6
 libnss-mdns
+linux-headers-powerpc
+linux-headers-powerpc64-smp
 listen
 make
 min12xxw
