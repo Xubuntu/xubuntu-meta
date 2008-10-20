@@ -60,6 +60,8 @@ unzip
 update-manager
 usplash
 vim-runtime
+wireless-tools
+wpasupplicant
 x-ttcidfont-conf
 xfce4-panel
 xfce4-session
