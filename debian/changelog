@@ -1,3 +1,13 @@
+xubuntu-meta (2.75) intrepid; urgency=low
+
+  * Refreshed dependencies
+  * Removed gtk2-engines-ubuntulooks from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa, desktop-
+    lpia
+  * Fixed LP: #281966
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Wed, 22 Oct 2008 10:40:50 -0300
+
 xubuntu-meta (2.74) intrepid; urgency=low
 
   * Refreshed dependencies
