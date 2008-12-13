@@ -1,3 +1,22 @@
+xubuntu-meta (2.76) jaunty; urgency=low
+
+  * Refreshed dependencies
+  * Added ttf-sazanami-gothic to desktop-recommends [amd64 hppa i386
+    ia64 lpia powerpc sparc]
+  * Added ttf-sazanami-mincho to desktop-recommends [amd64 hppa i386
+    ia64 lpia powerpc sparc]
+  * Added xfce4-dict-plugin to desktop-recommends [amd64 hppa i386 ia64
+    lpia powerpc sparc]
+  * Removed ttf-kochi-gothic from desktop-recommends [amd64 hppa i386
+    ia64 lpia powerpc sparc]
+  * Removed ttf-kochi-mincho from desktop-recommends [amd64 hppa i386
+    ia64 lpia powerpc sparc]
+  * Removed xfce4-dict from desktop-recommends [amd64 hppa i386 ia64
+    lpia powerpc sparc]
+  * Added armel, updated for jaunty 
+
+ -- Sarah Hobbs <hobbsee@ubuntu.com>  Sat, 13 Dec 2008 11:32:26 +1100
+
 xubuntu-meta (2.75) intrepid; urgency=low
 
   * Refreshed dependencies

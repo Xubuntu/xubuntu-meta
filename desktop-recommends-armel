@@ -37,8 +37,6 @@ laptop-detect
 libgl1-mesa-dri
 libgoffice-gtk-0-6
 libnss-mdns
-linux-headers-hppa32
-linux-headers-hppa64
 listen
 make
 min12xxw
@@ -61,7 +59,6 @@ ssh-askpass-gnome
 system-config-printer-gnome
 thunar-archive-plugin
 thunar-media-tags-plugin
-thunar-thumbnailers
 totem
 totem-gstreamer
 transmission-gtk
@@ -79,7 +76,6 @@ update-notifier
 vinagre
 wodim
 wvdial
-xchat
 xcursor-themes
 xdg-utils
 xfce4-appfinder
