@@ -29,7 +29,6 @@ language-selector
 lftp
 libgl1-mesa-glx
 libglib2.0-data
-libglut3
 libpam-ck-connector
 libsasl2-modules
 libxp6
@@ -38,7 +37,6 @@ pbbuttonsd
 pcmciautils
 pnm2ppa
 policykit-gnome
-powermanagement-interface
 readahead
 screen
 scrollkeeper
@@ -61,6 +59,7 @@ wpasupplicant
 x-ttcidfont-conf
 xfce4-panel
 xfce4-session
+xfce4-settings
 xfce4-utils
 xfdesktop4
 xfwm4

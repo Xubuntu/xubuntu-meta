@@ -1,3 +1,22 @@
+xubuntu-meta (2.77) jaunty; urgency=low
+
+  * Refreshed dependencies
+  * Added xchat to desktop-recommends [armel]
+  * Added xfce4-screenshooter to desktop-recommends
+  * Added xfce4-settings to desktop
+  * Removed acpi from desktop [amd64 i386 ia64 lpia]
+  * Removed fortune-mod from desktop-recommends
+  * Removed libglut3 from desktop
+  * Removed powermanagement-interface from desktop [amd64 i386 ia64 lpia
+    powerpc]
+  * Removed wvdial from desktop-recommends
+  * Removed xfce4-mcs-plugins-extra from desktop-recommends
+  * Removed xfce4-screenshooter-plugin from desktop-recommends
+  * Moved acpi-support to desktop-recommends [amd64 i386 ia64 lpia]
+  * Moved hotkey-setup to desktop-recommends [amd64 i386 lpia]
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Mon, 09 Feb 2009 18:09:35 -0400
+
 xubuntu-meta (2.76) jaunty; urgency=low
 
   * Refreshed dependencies

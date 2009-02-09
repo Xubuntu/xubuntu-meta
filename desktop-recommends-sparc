@@ -17,7 +17,6 @@ file-roller
 firefox
 foo2zjs
 foomatic-db-hpijs
-fortune-mod
 gcalctool
 gcc
 gimp
@@ -77,7 +76,6 @@ ubufox
 update-notifier
 vinagre
 wodim
-wvdial
 xchat
 xcursor-themes
 xdg-utils
@@ -89,14 +87,13 @@ xfce4-dict-plugin
 xfce4-fsguard-plugin
 xfce4-governor-plugin
 xfce4-mailwatch-plugin
-xfce4-mcs-plugins-extra
 xfce4-mixer
 xfce4-mount-plugin
 xfce4-netload-plugin
 xfce4-notes-plugin
 xfce4-places-plugin
 xfce4-quicklauncher-plugin
-xfce4-screenshooter-plugin
+xfce4-screenshooter
 xfce4-smartbookmark-plugin
 xfce4-systemload-plugin
 xfce4-terminal
