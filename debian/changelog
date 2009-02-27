@@ -1,3 +1,11 @@
+xubuntu-meta (2.78) jaunty; urgency=low
+
+  * Refreshed dependencies
+  * Added xfswitch-plugin to desktop-recommends
+  * Removed powernowd from desktop-recommends
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Fri, 27 Feb 2009 13:13:20 -0400
+
 xubuntu-meta (2.77) jaunty; urgency=low
 
   * Refreshed dependencies

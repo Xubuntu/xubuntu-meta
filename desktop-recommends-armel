@@ -47,7 +47,6 @@ onboard
 orage
 pidgin
 pidgin-otr
-powernowd
 pxljr
 scim
 scim-gtk2-immodule
@@ -99,6 +98,7 @@ xfce4-verve-plugin
 xfce4-weather-plugin
 xfce4-xkb-plugin
 xfprint4
+xfswitch-plugin
 xfwm4-themes
 xsane
 xscreensaver-data
