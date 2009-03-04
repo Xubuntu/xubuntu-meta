@@ -1,3 +1,10 @@
+xubuntu-meta (2.79) jaunty; urgency=low
+
+  * Refreshed dependencies
+  * Added firefox-3.0-gnome-support to desktop-recommends (LP: #336258)
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Wed, 04 Mar 2009 11:21:18 -0400
+
 xubuntu-meta (2.78) jaunty; urgency=low
 
   * Refreshed dependencies
