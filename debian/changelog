@@ -1,3 +1,11 @@
+xubuntu-meta (2.80) jaunty; urgency=low
+
+  * Refreshed dependencies
+  * Added rarian-compat to desktop
+  * Removed scrollkeeper from desktop
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Wed, 11 Mar 2009 15:28:29 -0300
+
 xubuntu-meta (2.79) jaunty; urgency=low
 
   * Refreshed dependencies
