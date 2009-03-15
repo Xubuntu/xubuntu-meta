@@ -1,3 +1,11 @@
+xubuntu-meta (2.81) jaunty; urgency=low
+
+  * Refreshed dependencies
+  * Added gigolo to desktop-recommends
+  * Added xubuntu-artwork to desktop
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Sun, 15 Mar 2009 12:30:44 -0300
+
 xubuntu-meta (2.80) jaunty; urgency=low
 
   * Refreshed dependencies
