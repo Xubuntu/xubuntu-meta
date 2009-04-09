@@ -1,3 +1,11 @@
+xubuntu-meta (2.82) jaunty; urgency=low
+
+  * Refreshed dependencies
+  * Added linux-headers-imx51 to desktop-recommends [armel]
+  * Removed linux-headers-mckinley from desktop-recommends [ia64]
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Thu, 09 Apr 2009 02:37:02 -0300
+
 xubuntu-meta (2.81) jaunty; urgency=low
 
   * Refreshed dependencies
