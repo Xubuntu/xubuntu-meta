@@ -1,3 +1,22 @@
+xubuntu-meta (2.83) karmic; urgency=low
+
+  * update.cfg: refreshed for karmic.
+  * Refreshed dependencies
+  * Added cups-driver-gutenprint to desktop
+  * Added gnumeric to desktop-recommends
+  * Added libgoffice-0-6 to desktop-recommends
+  * Added linux-headers-ia64 to desktop-recommends [ia64]
+  * Added thunderbird to desktop-recommends
+  * Removed cupsys-driver-gutenprint from desktop
+  * Removed gnumeric-gtk from desktop-recommends
+  * Removed libgoffice-gtk-0-6 from desktop-recommends
+  * Removed linux-headers-itanium from desktop-recommends [ia64]
+  * Removed mozilla-thunderbird from desktop-recommends
+  * Removed usplash from desktop [hppa ia64]
+  * Removed xubuntu-artwork-usplash from desktop [hppa ia64]
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Sat, 30 May 2009 00:22:55 +0200
+
 xubuntu-meta (2.82) jaunty; urgency=low
 
   * Refreshed dependencies

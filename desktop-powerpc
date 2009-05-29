@@ -6,7 +6,7 @@ ca-certificates
 cups
 cups-bsd
 cups-client
-cupsys-driver-gutenprint
+cups-driver-gutenprint
 dbus
 dc
 dmz-cursor-theme

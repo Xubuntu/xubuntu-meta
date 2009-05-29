@@ -29,7 +29,7 @@ gnome-power-manager
 gnome-screensaver
 gnome-system-monitor
 gnome-system-tools
-gnumeric-gtk
+gnumeric
 gpicview
 gucharmap
 hal-cups-utils
@@ -37,14 +37,13 @@ hplip
 jockey-gtk
 laptop-detect
 libgl1-mesa-dri
-libgoffice-gtk-0-6
+libgoffice-0-6
 libnss-mdns
-linux-headers-itanium
+linux-headers-ia64
 listen
 make
 min12xxw
 mousepad
-mozilla-thunderbird
 network-manager-gnome
 notification-daemon
 onboard
@@ -62,6 +61,7 @@ system-config-printer-gnome
 thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-thumbnailers
+thunderbird
 totem
 totem-gstreamer
 transmission-gtk

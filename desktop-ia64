@@ -7,7 +7,7 @@ ca-certificates
 cups
 cups-bsd
 cups-client
-cupsys-driver-gutenprint
+cups-driver-gutenprint
 dbus
 dc
 dmz-cursor-theme
@@ -52,7 +52,6 @@ ttf-dejavu-core
 ttf-freefont
 unzip
 update-manager
-usplash
 vim-runtime
 wireless-tools
 wpasupplicant
@@ -67,7 +66,6 @@ xkb-data
 xorg
 xterm
 xubuntu-artwork
-xubuntu-artwork-usplash
 xubuntu-default-settings
 zenity
 zip
