@@ -1,3 +1,14 @@
+xubuntu-meta (2.84) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added notify-osd to desktop-recommends
+  * Removed libgoffice-0-6 from desktop-recommends
+  * Removed notification-daemon from desktop-recommends
+  * Removed ssh-askpass-gnome from desktop-recommends
+  * Move to debhelper 5 and update standards version to 3.8.1
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Wed, 03 Jun 2009 06:27:28 -0300
+
 xubuntu-meta (2.83) karmic; urgency=low
 
   * update.cfg: refreshed for karmic.

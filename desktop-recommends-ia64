@@ -37,7 +37,6 @@ hplip
 jockey-gtk
 laptop-detect
 libgl1-mesa-dri
-libgoffice-0-6
 libnss-mdns
 linux-headers-ia64
 listen
@@ -45,7 +44,7 @@ make
 min12xxw
 mousepad
 network-manager-gnome
-notification-daemon
+notify-osd
 onboard
 orage
 pidgin
@@ -56,7 +55,6 @@ scim-gtk2-immodule
 screensaver-default-images
 seahorse
 splix
-ssh-askpass-gnome
 system-config-printer-gnome
 thunar-archive-plugin
 thunar-media-tags-plugin
