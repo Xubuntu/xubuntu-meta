@@ -59,7 +59,6 @@ thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-thumbnailers
 thunderbird
-totem
 totem-gstreamer
 transmission-gtk
 ttf-arabeyes
@@ -82,7 +81,7 @@ xfce4-appfinder
 xfce4-battery-plugin
 xfce4-clipman-plugin
 xfce4-cpugraph-plugin
-xfce4-dict-plugin
+xfce4-dict
 xfce4-fsguard-plugin
 xfce4-governor-plugin
 xfce4-mailwatch-plugin

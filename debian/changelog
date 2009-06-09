@@ -1,3 +1,14 @@
+xubuntu-meta (2.85) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added xfce4-dict to desktop-recommends
+  * Removed apmd from desktop [i386]
+  * Removed totem from desktop-recommends [sparc]
+  * Removed xfce4-dict-plugin from desktop-recommends
+  * update.cfg: Removed ports architecture hppa
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Tue, 09 Jun 2009 20:18:41 -0300
+
 xubuntu-meta (2.84) karmic; urgency=low
 
   * Refreshed dependencies
