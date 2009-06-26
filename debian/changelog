@@ -1,3 +1,13 @@
+xubuntu-meta (2.86) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added thunar-thumbnailers to desktop-recommends [armel]
+  * Added totem to desktop-recommends [sparc]
+  * Added xubuntu-artwork-usplash to desktop [ia64]
+  * Removed hotkey-setup from desktop-recommends [amd64 i386 lpia] (LP: #392567)
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Fri, 26 Jun 2009 13:10:36 -0300
+
 xubuntu-meta (2.85) karmic; urgency=low
 
   * Refreshed dependencies
