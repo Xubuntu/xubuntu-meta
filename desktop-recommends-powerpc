@@ -13,6 +13,7 @@ catfish
 cdparanoia
 dvd+rw-tools
 evince
+exaile
 file-roller
 firefox
 firefox-3.0-gnome-support
@@ -23,6 +24,7 @@ gcc
 gigolo
 gimp
 gnome-accessibility-themes
+gnome-codec-install
 gnome-games
 gnome-power-manager
 gnome-screensaver
@@ -39,7 +41,6 @@ libgl1-mesa-dri
 libnss-mdns
 linux-headers-powerpc
 linux-headers-powerpc64-smp
-listen
 make
 min12xxw
 mousepad
@@ -47,13 +48,13 @@ network-manager-gnome
 notify-osd
 onboard
 orage
+pcmciautils
 pidgin
 pidgin-otr
 pxljr
 scim
 scim-gtk2-immodule
 screensaver-default-images
-seahorse
 splix
 system-config-printer-gnome
 thunar-archive-plugin
@@ -85,7 +86,6 @@ xfce4-clipman-plugin
 xfce4-cpugraph-plugin
 xfce4-dict
 xfce4-fsguard-plugin
-xfce4-governor-plugin
 xfce4-mailwatch-plugin
 xfce4-mixer
 xfce4-mount-plugin
@@ -100,7 +100,6 @@ xfce4-terminal
 xfce4-verve-plugin
 xfce4-weather-plugin
 xfce4-xkb-plugin
-xfprint4
 xfswitch-plugin
 xfwm4-themes
 xsane

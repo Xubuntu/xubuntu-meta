@@ -1,3 +1,19 @@
+xubuntu-meta (2.87) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added exaile to desktop-recommends
+  * Added gnome-codec-install to desktop-recommends
+  * Added libpam-gnome-keyring to desktop
+  * Added usb-creator to desktop-recommends [amd64 i386 lpia]
+  * Removed listen from desktop-recommends
+  * Removed seahorse from desktop-recommends
+  * Removed xfce4-governor-plugin from desktop-recommends
+  * Removed xfprint4 from desktop-recommends
+  * Moved pcmciautils to desktop-recommends
+  * debian/control: Bumped standards version to 3.8.2.
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Tue, 14 Jul 2009 20:59:29 -0400
+
 xubuntu-meta (2.86) karmic; urgency=low
 
   * Refreshed dependencies

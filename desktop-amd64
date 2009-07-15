@@ -31,10 +31,10 @@ lftp
 libgl1-mesa-glx
 libglib2.0-data
 libpam-ck-connector
+libpam-gnome-keyring
 libsasl2-modules
 libxp6
 openprinting-ppds
-pcmciautils
 pnm2ppa
 policykit-gnome
 rarian-compat
