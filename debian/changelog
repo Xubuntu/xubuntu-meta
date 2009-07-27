@@ -1,3 +1,13 @@
+xubuntu-meta (2.88) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added apmd to desktop [armel]
+  * Added xfce4-power-manager to desktop-recommends
+  * Added xfprint4 to desktop-recommends
+  * Removed gnome-power-manager from desktop-recommends
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Mon, 27 Jul 2009 18:54:26 -0300
+
 xubuntu-meta (2.87) karmic; urgency=low
 
   * Refreshed dependencies

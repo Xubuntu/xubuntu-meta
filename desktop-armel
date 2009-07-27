@@ -1,6 +1,7 @@
 alsa-base
 alsa-utils
 anacron
+apmd
 bc
 ca-certificates
 cups
