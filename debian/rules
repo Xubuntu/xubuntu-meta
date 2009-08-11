@@ -1,46 +1,8 @@
-#!/usr/bin/make -f
+#! /usr/bin/make -f
+%:
+	dh --with germinate $@
 
-#export DH_VERBOSE=1
-
-clean:
-	dh_testdir
-	dh_clean
-
-	rm -rf build-stamp *.old debootstrap-dir
-
-DEB_BUILD_ARCH:=$(shell dpkg-architecture -qDEB_BUILD_ARCH)
-
-build: build-stamp
-build-stamp:	desktop-$(DEB_BUILD_ARCH)
-	dh_clean
-
-	for seed in desktop; do \
-		package=xubuntu-$$seed; \
-		(printf "$$package:Depends="; perl -pe 's/\n/, /g'  $$seed-$(DEB_BUILD_ARCH); echo) \
-			>> debian/$$package.substvars; \
-		(printf "$$package:Recommends="; perl -pe 's/\n/, /g'  $$seed-recommends-$(DEB_BUILD_ARCH); echo) \
-			>> debian/$$package.substvars; \
-	done
+override_dh_germinate_metapackage:
+	dh_germinate_metapackage
 	#add alternate depends for gnumeric-gtk and evince-gtk to be installable along ubuntu-desktop
 	sed -i 's/evince-gtk/evince-gtk | evince/; s/gnumeric-gtk/gnumeric-gtk | gnumeric/' debian/xubuntu-desktop.substvars
-	touch $@
-
-install: build-stamp
-
-binary-arch: install
-	dh_testdir -a
-	dh_testroot -a
-	dh_installdocs -a
-	dh_installchangelogs -a
-	dh_compress -a
-	dh_fixperms -a
-	dh_installdeb -a
-	dh_gencontrol -a
-	dh_md5sums -a
-	dh_builddeb -a
-
-binary-indep:
-
-binary: binary-indep binary-arch
-
-.PHONY: binary binary-arch binary-indep clean checkroot build

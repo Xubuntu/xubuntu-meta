@@ -1,3 +1,19 @@
+xubuntu-meta (2.90) karmic; urgency=low
+
+  * Convert to debhelper v7, with the new debhelper addon in germinate 1.18.
+  * Policy version 3.8.2.
+  * Update GPL application text, using a gnu.org URL rather than the FSF
+    postal address.
+
+  * Refreshed dependencies
+  * Removed acpid from desktop [amd64 i386 ia64 lpia]
+  * Moved cups-driver-gutenprint to desktop-recommends
+  * Moved system-config-printer-udev to desktop-recommends
+  * Moved xubuntu-artwork to desktop-recommends
+  * Moved xubuntu-artwork-usplash to desktop-recommends
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Tue, 11 Aug 2009 01:22:56 +0100
+
 xubuntu-meta (2.89) karmic; urgency=low
 
   * Refreshed dependencies

@@ -11,6 +11,7 @@ bogofilter
 brasero
 catfish
 cdparanoia
+cups-driver-gutenprint
 dvd+rw-tools
 evince
 exaile
@@ -54,6 +55,7 @@ scim-gtk2-immodule
 screensaver-default-images
 splix
 system-config-printer-gnome
+system-config-printer-udev
 thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-thumbnailers
@@ -104,4 +106,6 @@ xfwm4-themes
 xsane
 xscreensaver-data
 xscreensaver-gl
+xubuntu-artwork
+xubuntu-artwork-usplash
 xubuntu-docs

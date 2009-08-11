@@ -3,12 +3,12 @@ Section: metapackages
 Priority: optional
 Maintainer: Xubuntu Developers <xubuntu-devel@lists.ubuntu.com>
 Standards-Version: 3.8.2
-Build-Depends: debhelper (>= 5), germinate (>= 1.6)
+Build-Depends: debhelper (>= 7.0.50), germinate (>= 1.18)
 
 Package: xubuntu-desktop
 Architecture: any
-Depends: ${xubuntu-desktop:Depends}
-Recommends: ${xubuntu-desktop:Recommends}
+Depends: ${germinate:Depends}
+Recommends: ${germinate:Recommends}
 Description: Xubuntu desktop system
  This package depends on all of the packages in the Xubuntu desktop system
  .
