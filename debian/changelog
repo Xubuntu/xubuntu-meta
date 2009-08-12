@@ -1,3 +1,11 @@
+xubuntu-meta (2.91) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added firefox-gnome-support to desktop-recommends
+  * Removed firefox-3.0-gnome-support from desktop-recommends
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Wed, 12 Aug 2009 16:15:34 -0300
+
 xubuntu-meta (2.90) karmic; urgency=low
 
   * Convert to debhelper v7, with the new debhelper addon in germinate 1.18.
