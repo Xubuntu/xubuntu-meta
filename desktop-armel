@@ -27,6 +27,7 @@ hal
 inputattach
 language-selector
 lftp
+libasound2-plugins
 libgl1-mesa-glx
 libglib2.0-data
 libpam-ck-connector

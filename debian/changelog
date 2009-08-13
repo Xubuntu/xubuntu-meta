@@ -1,3 +1,10 @@
+xubuntu-meta (2.92) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added libasound2-plugins to desktop
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Thu, 13 Aug 2009 10:53:00 -0300
+
 xubuntu-meta (2.91) karmic; urgency=low
 
   * Refreshed dependencies
