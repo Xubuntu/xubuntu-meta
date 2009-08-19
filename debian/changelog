@@ -1,3 +1,10 @@
+xubuntu-meta (2.93) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Removed ttf-bitstream-vera from desktop
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Wed, 19 Aug 2009 20:31:42 +0200
+
 xubuntu-meta (2.92) karmic; urgency=low
 
   * Refreshed dependencies
