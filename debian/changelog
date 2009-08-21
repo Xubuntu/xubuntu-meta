@@ -1,3 +1,10 @@
+xubuntu-meta (2.94) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Removed foomatic-db-hpijs from desktop-recommends
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Fri, 21 Aug 2009 12:57:24 +0200
+
 xubuntu-meta (2.93) karmic; urgency=low
 
   * Refreshed dependencies
