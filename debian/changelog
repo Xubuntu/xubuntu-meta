@@ -1,3 +1,16 @@
+xubuntu-meta (2.95) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added ristretto to desktop-recommends
+  * Added sreadahead to desktop [amd64 armel i386 ia64 lpia powerpc]
+  * Removed gpicview from desktop-recommends
+  * Removed readahead from desktop
+  * debian/control:
+    - Bumped standards version to 3.8.3.
+    - Added ${misc:Depends} to depends for xubuntu-desktop.
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Wed, 26 Aug 2009 05:50:45 -0400
+
 xubuntu-meta (2.94) karmic; urgency=low
 
   * Refreshed dependencies

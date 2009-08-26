@@ -30,7 +30,6 @@ gnome-screensaver
 gnome-system-monitor
 gnome-system-tools
 gnumeric
-gpicview
 gucharmap
 hplip
 jockey-gtk
@@ -49,6 +48,7 @@ pcmciautils
 pidgin
 pidgin-otr
 pxljr
+ristretto
 scim
 scim-gtk2-immodule
 screensaver-default-images
