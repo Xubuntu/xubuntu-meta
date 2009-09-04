@@ -34,6 +34,7 @@ gnumeric
 gucharmap
 hplip
 jockey-gtk
+kerneloops-daemon
 laptop-detect
 libgl1-mesa-dri
 libnss-mdns
@@ -64,15 +65,15 @@ thunderbird
 totem
 totem-gstreamer
 transmission-gtk
-ttf-arabeyes
 ttf-arphic-uming
 ttf-indic-fonts-core
+ttf-kacst
 ttf-lao
 ttf-opensymbol
-ttf-sazanami-gothic
-ttf-sazanami-mincho
 ttf-thai-tlwg
 ttf-unfonts-core
+ttf-vlgothic
+ttf-wqy-zenhei
 ubufox
 update-notifier
 usb-creator

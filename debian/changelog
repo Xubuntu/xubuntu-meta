@@ -1,3 +1,16 @@
+xubuntu-meta (2.96) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added kerneloops-daemon to desktop-recommends
+  * Added ttf-kacst to desktop-recommends
+  * Added ttf-vlgothic to desktop-recommends
+  * Added ttf-wqy-zenhei to desktop-recommends
+  * Removed ttf-arabeyes from desktop-recommends
+  * Removed ttf-sazanami-gothic from desktop-recommends
+  * Removed ttf-sazanami-mincho from desktop-recommends
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Fri, 04 Sep 2009 11:48:29 -0300
+
 xubuntu-meta (2.95) karmic; urgency=low
 
   * Refreshed dependencies
