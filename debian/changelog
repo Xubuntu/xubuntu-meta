@@ -1,3 +1,10 @@
+xubuntu-meta (2.99) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Removed xsplash from desktop (LP: #444521)
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Tue, 06 Oct 2009 15:31:28 -0300
+
 xubuntu-meta (2.98) karmic; urgency=low
 
   * Refreshed dependencies
