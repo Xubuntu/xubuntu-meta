@@ -1,5 +1,6 @@
 abiword
 abiword-plugins
+aisleriot
 app-install-data-commercial
 apport-gtk
 apt-xapian-index
@@ -25,10 +26,13 @@ gigolo
 gimp
 gnome-accessibility-themes
 gnome-codec-install
-gnome-games
+gnome-mahjongg
 gnome-screensaver
+gnome-sudoku
 gnome-system-monitor
 gnome-system-tools
+gnometris
+gnomine
 gnumeric
 gucharmap
 hplip

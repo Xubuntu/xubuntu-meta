@@ -1,3 +1,19 @@
+xubuntu-meta (2.100) lucid; urgency=low
+
+  * update.cfg:
+    - refreshed for lucid
+    - drop lpia.
+  * Refreshed dependencies
+  * Added aisleriot to desktop-recommends
+  * Added gnome-mahjongg to desktop-recommends
+  * Added gnome-sudoku to desktop-recommends
+  * Added gnometris to desktop-recommends
+  * Added gnomine to desktop-recommends
+  * Removed gnome-games from desktop-recommends
+  * Removed sreadahead from desktop [amd64 armel i386 ia64 powerpc]
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Wed, 09 Dec 2009 14:49:50 +0100
+
 xubuntu-meta (2.99) karmic; urgency=low
 
   * Refreshed dependencies
