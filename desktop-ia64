@@ -17,7 +17,6 @@ gdebi
 gdm
 genisoimage
 ghostscript-x
-gnome-app-install
 gtk2-engines
 gtk2-engines-murrine
 gtk2-engines-pixbuf
@@ -39,6 +38,7 @@ policykit-gnome
 rarian-compat
 screen
 smbclient
+software-center
 software-properties-gtk
 synaptic
 tango-icon-theme
