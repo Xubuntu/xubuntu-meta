@@ -1,3 +1,13 @@
+xubuntu-meta (2.102) lucid; urgency=low
+
+  * Refreshed dependencies
+  * Added libsdl1.2debian-alsa to desktop
+  * Added pm-utils-powersave-policy to desktop-recommends
+  * Added ttf-wqy-microhei to desktop-recommends
+  * Removed ttf-wqy-zenhei from desktop-recommends
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Sun, 17 Jan 2010 15:26:08 +0100
+
 xubuntu-meta (2.101) lucid; urgency=low
 
   * Refreshed dependencies

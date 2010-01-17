@@ -53,6 +53,7 @@ orage
 pcmciautils
 pidgin
 pidgin-otr
+pm-utils-powersave-policy
 pxljr
 ristretto
 scim
@@ -77,7 +78,7 @@ ttf-opensymbol
 ttf-thai-tlwg
 ttf-unfonts-core
 ttf-vlgothic
-ttf-wqy-zenhei
+ttf-wqy-microhei
 ubufox
 update-notifier
 usb-creator

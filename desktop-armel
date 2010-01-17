@@ -32,6 +32,7 @@ libglib2.0-data
 libpam-ck-connector
 libpam-gnome-keyring
 libsasl2-modules
+libsdl1.2debian-alsa
 libxp6
 openprinting-ppds
 pnm2ppa
