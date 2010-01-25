@@ -1,5 +1,6 @@
 abiword
-abiword-plugins
+abiword-plugin-grammar
+abiword-plugin-mathview
 acpi-support
 aisleriot
 app-install-data-commercial
@@ -22,7 +23,6 @@ firefox
 firefox-gnome-support
 foo2zjs
 gcalctool
-gcc
 gigolo
 gimp
 gnome-accessibility-themes
@@ -32,7 +32,6 @@ gnome-screensaver
 gnome-sudoku
 gnome-system-monitor
 gnome-system-tools
-gnometris
 gnomine
 gnumeric
 gucharmap
@@ -42,8 +41,6 @@ kerneloops-daemon
 laptop-detect
 libgl1-mesa-dri
 libnss-mdns
-linux-headers-generic
-make
 min12xxw
 mousepad
 network-manager-gnome
@@ -55,6 +52,7 @@ pidgin
 pidgin-otr
 pm-utils-powersave-policy
 pxljr
+quadrapassel
 ristretto
 scim
 scim-gtk2-immodule

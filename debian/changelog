@@ -1,3 +1,24 @@
+xubuntu-meta (2.103) lucid; urgency=low
+
+  * Refreshed dependencies lp: #512340
+  * Added abiword-plugin-grammar to desktop-recommends
+  * Added abiword-plugin-mathview to desktop-recommends
+  * Added quadrapassel to desktop-recommends
+  * Removed abiword-plugins from desktop-recommends
+  * Removed gcc from desktop-recommends
+  * Removed gnometris from desktop-recommends
+  * Removed linux-headers-dove from desktop-recommends [armel]
+  * Removed linux-headers-generic from desktop-recommends [amd64 i386]
+  * Removed linux-headers-ia64 from desktop-recommends [ia64]
+  * Removed linux-headers-imx51 from desktop-recommends [armel]
+  * Removed linux-headers-powerpc from desktop-recommends [powerpc]
+  * Removed linux-headers-powerpc64-smp from desktop-recommends
+    [powerpc]
+  * Removed linux-headers-sparc64 from desktop-recommends [sparc]
+  * Removed make from desktop-recommends
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Mon, 25 Jan 2010 20:05:23 +0100
+
 xubuntu-meta (2.102) lucid; urgency=low
 
   * Refreshed dependencies
