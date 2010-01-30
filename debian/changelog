@@ -1,3 +1,15 @@
+xubuntu-meta (2.104) lucid; urgency=low
+
+  * Refreshed dependencies
+  * Added xscreensaver to desktop-recommends
+  * Removed firefox from desktop-recommends [sparc]
+  * Removed firefox-gnome-support from desktop-recommends [sparc]
+  * Removed gnome-screensaver from desktop-recommends
+  * Removed inputattach from desktop [sparc]
+  * Removed ttf-wqy-microhei from desktop-recommends
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Sat, 30 Jan 2010 19:09:56 +0100
+
 xubuntu-meta (2.103) lucid; urgency=low
 
   * Refreshed dependencies lp: #512340

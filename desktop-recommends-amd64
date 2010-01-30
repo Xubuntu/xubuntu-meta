@@ -28,7 +28,6 @@ gimp
 gnome-accessibility-themes
 gnome-codec-install
 gnome-mahjongg
-gnome-screensaver
 gnome-sudoku
 gnome-system-monitor
 gnome-system-tools
@@ -75,7 +74,6 @@ ttf-opensymbol
 ttf-thai-tlwg
 ttf-unfonts-core
 ttf-vlgothic
-ttf-wqy-microhei
 ubufox
 update-notifier
 usb-creator
@@ -110,6 +108,7 @@ xfprint4
 xfswitch-plugin
 xfwm4-themes
 xsane
+xscreensaver
 xscreensaver-data
 xscreensaver-gl
 xubuntu-artwork
