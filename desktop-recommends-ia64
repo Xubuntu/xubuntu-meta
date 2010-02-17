@@ -56,6 +56,7 @@ ristretto
 scim
 scim-gtk2-immodule
 screensaver-default-images
+simple-scan
 splix
 system-config-printer-gnome
 system-config-printer-udev
@@ -106,7 +107,6 @@ xfce4-xkb-plugin
 xfprint4
 xfswitch-plugin
 xfwm4-themes
-xsane
 xscreensaver
 xscreensaver-data
 xscreensaver-gl
