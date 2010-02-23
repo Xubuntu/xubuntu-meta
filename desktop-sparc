@@ -22,6 +22,7 @@ gtk2-engines-murrine
 gtk2-engines-pixbuf
 gtk2-engines-xfce
 hal
+inputattach
 language-selector
 lftp
 libasound2-plugins

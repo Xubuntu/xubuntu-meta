@@ -1,3 +1,14 @@
+xubuntu-meta (2.106) lucid; urgency=low
+
+  * Refreshed dependencies
+  * Added bluez to desktop-recommends
+  * Added bluez-alsa to desktop-recommends
+  * Added inputattach to desktop [sparc]
+  * Added plymouth-x11 to desktop-recommends
+  * Removed bluez-utils from desktop-recommends
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Tue, 23 Feb 2010 07:33:17 +0100
+
 xubuntu-meta (2.105) lucid; urgency=low
 
   * Refreshed dependencies

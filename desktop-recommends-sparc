@@ -7,8 +7,9 @@ apport-gtk
 apt-xapian-index
 avahi-autoipd
 avahi-daemon
+bluez
+bluez-alsa
 bluez-cups
-bluez-utils
 bogofilter
 brasero
 catfish
@@ -46,6 +47,7 @@ orage
 pcmciautils
 pidgin
 pidgin-otr
+plymouth-x11
 pm-utils-powersave-policy
 pxljr
 quadrapassel
