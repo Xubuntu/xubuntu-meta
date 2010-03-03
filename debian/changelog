@@ -1,3 +1,15 @@
+xubuntu-meta (2.107) lucid; urgency=low
+
+  * Refreshed dependencies
+  * Removed policykit-gnome from desktop lp: #530829
+  * Refreshed dependencies
+  * Added libsdl1.2debian-pulseaudio to desktop, we already ship
+    gstreamer0.10-pulseaudio instead of gstreamer0.10-alsa by default
+    because of gdm, so no need to keep libsdl1.2debian-alsa. lp: #531161
+  * Removed libsdl1.2debian-alsa from desktop
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Wed, 03 Mar 2010 20:01:40 +0100
+
 xubuntu-meta (2.106) lucid; urgency=low
 
   * Refreshed dependencies
