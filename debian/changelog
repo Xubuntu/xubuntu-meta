@@ -1,3 +1,12 @@
+xubuntu-meta (2.108) lucid; urgency=low
+
+  * Refreshed dependencies
+  * Removed libsdl1.2debian-pulseaudio from desktop lp: #532534
+  * Removed xfce4-battery-plugin from desktop-recommends, xfce4-power-manager
+    is also seeded, and does a better job.
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Sat, 06 Mar 2010 10:06:36 +0100
+
 xubuntu-meta (2.107) lucid; urgency=low
 
   * Refreshed dependencies
