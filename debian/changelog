@@ -1,3 +1,14 @@
+xubuntu-meta (2.109) lucid; urgency=low
+
+  * Refreshed dependencies
+  * Added policykit-desktop-privileges to desktop-recommends
+  * Resync fonts packages with other seeds:
+    - Added ttf-liberation to desktop-recommends
+    - Added ttf-wqy-microhei to desktop-recommends lp: #541581
+    - Removed ttf-arphic-uming from desktop-recommends
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Wed, 31 Mar 2010 20:27:13 +0200
+
 xubuntu-meta (2.108) lucid; urgency=low
 
   * Refreshed dependencies

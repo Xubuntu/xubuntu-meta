@@ -49,6 +49,7 @@ pidgin
 pidgin-otr
 plymouth-x11
 pm-utils-powersave-policy
+policykit-desktop-privileges
 pxljr
 quadrapassel
 ristretto
@@ -66,14 +67,15 @@ thunderbird
 totem
 totem-gstreamer
 transmission-gtk
-ttf-arphic-uming
 ttf-indic-fonts-core
 ttf-kacst
 ttf-lao
+ttf-liberation
 ttf-opensymbol
 ttf-thai-tlwg
 ttf-unfonts-core
 ttf-vlgothic
+ttf-wqy-microhei
 ubufox
 update-notifier
 vinagre
