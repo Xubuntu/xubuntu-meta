@@ -1,3 +1,14 @@
+xubuntu-meta (2.110) lucid; urgency=low
+
+  * Refreshed dependencies
+  * Added firefox to desktop-recommends [sparc]
+  * Added firefox-gnome-support to desktop-recommends [sparc]
+  * Added gstreamer0.10-alsa to desktop-recommends lp: #553925
+  * Added libsdl1.2debian-alsa to desktop-recommends
+  * Removed totem-gstreamer from desktop-recommends lp: #557802
+
+ -- Lionel Le Folgoc <mrpouit@gmail.com>  Sat, 10 Apr 2010 16:26:23 +0200
+
 xubuntu-meta (2.109) lucid; urgency=low
 
   * Refreshed dependencies

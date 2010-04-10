@@ -34,6 +34,7 @@ gnome-system-monitor
 gnome-system-tools
 gnomine
 gnumeric
+gstreamer0.10-alsa
 gucharmap
 hplip
 jockey-gtk
@@ -41,6 +42,7 @@ kerneloops-daemon
 laptop-detect
 libgl1-mesa-dri
 libnss-mdns
+libsdl1.2debian-alsa
 min12xxw
 mousepad
 network-manager-gnome
@@ -69,7 +71,6 @@ thunar-media-tags-plugin
 thunar-thumbnailers
 thunderbird
 totem
-totem-gstreamer
 transmission-gtk
 ttf-indic-fonts-core
 ttf-kacst
