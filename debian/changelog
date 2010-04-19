@@ -1,3 +1,12 @@
+xubuntu-meta (2.112) lucid; urgency=low
+
+  * Refreshed dependencies
+  * Added ttf-khmeros-core to desktop-recommends
+  * Added ttf-takao-pgothic to desktop-recommends
+  * Removed ttf-vlgothic from desktop-recommends
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Mon, 19 Apr 2010 01:22:51 -0700
+
 xubuntu-meta (2.111) lucid; urgency=low
 
   * Refreshed dependencies
