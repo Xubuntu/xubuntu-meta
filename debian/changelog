@@ -1,3 +1,59 @@
+xubuntu-meta (2.113) maverick; urgency=low
+
+  * update.cfg: refreshed for maverick.
+  * Refreshed dependencies
+  * Added app-install-data-partner to desktop-recommends
+  * Added brltty to desktop-recommends
+  * Added brltty-x11 to desktop-recommends
+  * Added browser-plugin-parole to desktop-recommends
+  * Added desktop-file-utils to desktop
+  * Added espeak to desktop-recommends
+  * Added gcc to desktop-recommends
+  * Added gstreamer0.10-plugins-base-apps to desktop-recommends
+  * Added gvfs-fuse to desktop-recommends
+  * Added ibus to desktop-recommends
+  * Added ibus-gtk to desktop-recommends
+  * Added ibus-m17n to desktop-recommends
+  * Added ibus-table to desktop-recommends
+  * Added im-switch to desktop-recommends
+  * Added libgd2-xpm to desktop
+  * Added libgnome2-perl to desktop-recommends
+  * Added linux-headers-dove to desktop-recommends [armel]
+  * Added linux-headers-generic to desktop-recommends [amd64 i386]
+  * Added linux-headers-ia64 to desktop-recommends [ia64]
+  * Added linux-headers-imx51 to desktop-recommends [armel]
+  * Added linux-headers-sparc64 to desktop-recommends [sparc]
+  * Added make to desktop-recommends
+  * Added network-manager-pptp to desktop-recommends
+  * Added network-manager-pptp-gnome to desktop-recommends
+  * Added parole to desktop-recommends lp: #504341
+  * Added speech-dispatcher to desktop-recommends
+  * Added usb-creator-gtk to desktop-recommends [amd64 i386] lp: #590157
+  * Added xdg-user-dirs to desktop
+  * Added xdg-user-dirs-gtk to desktop
+  * Added xfburn to desktop-recommends
+  * Added xfce4-taskmanager to desktop-recommends
+  * Removed app-install-data-commercial from desktop-recommends
+  * Removed apt-xapian-index from desktop-recommends
+  * Removed brasero from desktop-recommends
+  * Removed cups-driver-gutenprint from desktop-recommends
+  * Removed dbus from desktop
+  * Removed dvd+rw-tools from desktop-recommends
+  * Removed gnome-system-monitor from desktop-recommends
+  * Removed libglib2.0-data from desktop
+  * Removed libsdl1.2debian-alsa from desktop-recommends lp: #588609
+  * Removed scim from desktop-recommends
+  * Removed scim-gtk2-immodule from desktop-recommends
+  * Removed scim-tables-additional from desktop-recommends [i386]
+  * Removed system-config-printer-udev from desktop-recommends
+  * Removed totem from desktop-recommends
+  * Removed usb-creator from desktop-recommends [amd64 i386]
+  * Removed vim-runtime from desktop
+  * Removed wodim from desktop-recommends
+  * Moved libpam-gnome-keyring to desktop-recommends
+
+ -- Lionel Le Folgoc <mrpouit@gmail.com>  Thu, 24 Jun 2010 20:47:06 +0200
+
 xubuntu-meta (2.112) lucid; urgency=low
 
   * Refreshed dependencies

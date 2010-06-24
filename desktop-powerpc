@@ -6,8 +6,8 @@ ca-certificates
 cups
 cups-bsd
 cups-client
-dbus
 dc
+desktop-file-utils
 dmz-cursor-theme
 doc-base
 foomatic-db
@@ -26,10 +26,9 @@ inputattach
 language-selector
 lftp
 libasound2-plugins
+libgd2-xpm
 libgl1-mesa-glx
-libglib2.0-data
 libpam-ck-connector
-libpam-gnome-keyring
 libsasl2-modules
 libxp6
 openprinting-ppds
@@ -49,10 +48,11 @@ ttf-dejavu-core
 ttf-freefont
 unzip
 update-manager
-vim-runtime
 wireless-tools
 wpasupplicant
 x-ttcidfont-conf
+xdg-user-dirs
+xdg-user-dirs-gtk
 xfce4-panel
 xfce4-session
 xfce4-settings
