@@ -1,3 +1,19 @@
+xubuntu-meta (2.114) maverick; urgency=low
+
+  * debian/control: bumped Standards-Version to 3.9.1.
+  * Refreshed dependencies
+  * Added ibus-pinyin to desktop-recommends
+  * Added ibus-pinyin-db-android to desktop-recommends
+  * Removed bogofilter from desktop-recommends
+  * Removed cdparanoia from desktop-recommends
+  * Removed ibus-m17n from desktop-recommends
+  * Removed libgl1-mesa-dri from desktop-recommends
+  * Removed libgl1-mesa-glx from desktop
+  * Removed plymouth-x11 from desktop-recommends
+  * Removed pm-utils-powersave-policy from desktop-recommends
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Sun, 22 Aug 2010 13:05:52 +0200
+
 xubuntu-meta (2.113) maverick; urgency=low
 
   * update.cfg: refreshed for maverick.

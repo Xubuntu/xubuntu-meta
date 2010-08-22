@@ -10,12 +10,10 @@ avahi-daemon
 bluez
 bluez-alsa
 bluez-cups
-bogofilter
 brltty
 brltty-x11
 browser-plugin-parole
 catfish
-cdparanoia
 espeak
 evince
 exaile
@@ -41,13 +39,13 @@ gvfs-fuse
 hplip
 ibus
 ibus-gtk
-ibus-m17n
+ibus-pinyin
+ibus-pinyin-db-android
 ibus-table
 im-switch
 jockey-gtk
 kerneloops-daemon
 laptop-detect
-libgl1-mesa-dri
 libgnome2-perl
 libnss-mdns
 libpam-gnome-keyring
@@ -65,8 +63,6 @@ parole
 pcmciautils
 pidgin
 pidgin-otr
-plymouth-x11
-pm-utils-powersave-policy
 policykit-desktop-privileges
 pxljr
 quadrapassel
