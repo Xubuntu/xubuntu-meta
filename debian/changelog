@@ -1,3 +1,13 @@
+xubuntu-meta (2.115) maverick; urgency=low
+
+  * Drop ia64 and sparc support.
+  * Refreshed dependencies
+  * Removed linux-headers-imx51 from desktop-recommends [armel]
+  * Removed xfwm4-themes from desktop-recommends (too many unused themes by
+    default, and some of them make X crash, cf. lp #573516)
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Sat, 04 Sep 2010 12:53:39 +0200
+
 xubuntu-meta (2.114) maverick; urgency=low
 
   * debian/control: bumped Standards-Version to 3.9.1.

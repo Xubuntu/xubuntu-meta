@@ -49,7 +49,6 @@ libgnome2-perl
 libnss-mdns
 libpam-gnome-keyring
 linux-headers-dove
-linux-headers-imx51
 make
 min12xxw
 mousepad
@@ -119,7 +118,6 @@ xfce4-weather-plugin
 xfce4-xkb-plugin
 xfprint4
 xfswitch-plugin
-xfwm4-themes
 xscreensaver
 xscreensaver-data
 xscreensaver-gl
