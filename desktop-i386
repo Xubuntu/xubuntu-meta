@@ -10,8 +10,7 @@ dc
 desktop-file-utils
 dmz-cursor-theme
 doc-base
-foomatic-db
-foomatic-db-engine
+foomatic-db-compressed-ppds
 foomatic-filters
 gdebi
 gdm
