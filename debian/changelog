@@ -1,3 +1,11 @@
+xubuntu-meta (2.117) maverick; urgency=low
+
+  * Refreshed dependencies to get unadvertised changes from platform.maverick.
+  * Added ttf-ubuntu-font-family to desktop-recommends
+  * Added ubuntu-extras-keyring to desktop
+
+ -- Lionel Le Folgoc <mrpouit@gmail.com>  Sat, 02 Oct 2010 16:03:34 +0200
+
 xubuntu-meta (2.116) maverick; urgency=low
 
   * Remove some cruft related to removed architectures.
