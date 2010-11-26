@@ -12,7 +12,6 @@ dmz-cursor-theme
 doc-base
 foomatic-db-compressed-ppds
 foomatic-filters
-gdebi
 gdm
 genisoimage
 ghostscript-x
@@ -33,7 +32,6 @@ openprinting-ppds
 pbbuttonsd
 pnm2ppa
 rarian-compat
-screen
 smbclient
 software-center
 software-properties-gtk
