@@ -1,3 +1,11 @@
+xubuntu-meta (2.119) natty; urgency=low
+
+  * Refreshed dependencies
+  * Removed xfce4-clipman-plugin from desktop-recommends
+  * Removed xfce4-xkb-plugin from desktop-recommends
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Sun, 05 Dec 2010 11:47:59 +0100
+
 xubuntu-meta (2.118) natty; urgency=low
 
   * update.cfg: Switch to natty.

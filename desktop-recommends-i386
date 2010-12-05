@@ -98,7 +98,6 @@ xcursor-themes
 xdg-utils
 xfburn
 xfce4-appfinder
-xfce4-clipman-plugin
 xfce4-cpugraph-plugin
 xfce4-dict
 xfce4-fsguard-plugin
@@ -118,7 +117,6 @@ xfce4-terminal
 xfce4-verve-plugin
 xfce4-volumed
 xfce4-weather-plugin
-xfce4-xkb-plugin
 xfprint4
 xfswitch-plugin
 xscreensaver
