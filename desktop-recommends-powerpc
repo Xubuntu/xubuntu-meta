@@ -35,6 +35,7 @@ gstreamer0.10-alsa
 gstreamer0.10-plugins-base-apps
 gucharmap
 gvfs-fuse
+hal
 hplip
 ibus
 ibus-gtk
@@ -115,7 +116,6 @@ xfce4-verve-plugin
 xfce4-volumed
 xfce4-weather-plugin
 xfprint4
-xfswitch-plugin
 xscreensaver
 xscreensaver-data
 xscreensaver-gl

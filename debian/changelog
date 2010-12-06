@@ -1,3 +1,12 @@
+xubuntu-meta (2.120) natty; urgency=low
+
+  * Refreshed dependencies
+  * Added tumbler to desktop
+  * Removed xfswitch-plugin from desktop-recommends
+  * Moved hal to desktop-recommends
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Mon, 06 Dec 2010 22:56:40 +0100
+
 xubuntu-meta (2.119) natty; urgency=low
 
   * Refreshed dependencies

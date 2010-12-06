@@ -19,7 +19,6 @@ gtk2-engines
 gtk2-engines-murrine
 gtk2-engines-pixbuf
 gtk2-engines-xfce
-hal
 inputattach
 language-selector
 lftp
@@ -42,6 +41,7 @@ thunar
 thunar-volman
 ttf-dejavu-core
 ttf-freefont
+tumbler
 ubuntu-extras-keyring
 unzip
 update-manager
