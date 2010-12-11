@@ -1,3 +1,11 @@
+xubuntu-meta (2.121) natty; urgency=low
+
+  * Refreshed dependencies
+  * Removed xfce4-places-plugin from desktop-recommends, until it is ported
+    to gio.
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Sun, 12 Dec 2010 00:51:25 +0100
+
 xubuntu-meta (2.120) natty; urgency=low
 
   * Refreshed dependencies
