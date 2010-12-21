@@ -49,6 +49,7 @@ wpasupplicant
 x-ttcidfont-conf
 xdg-user-dirs
 xdg-user-dirs-gtk
+xfce4-notifyd
 xfce4-panel
 xfce4-session
 xfce4-settings

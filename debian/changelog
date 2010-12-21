@@ -1,3 +1,12 @@
+xubuntu-meta (2.122) natty; urgency=low
+
+  * Refreshed dependencies
+  * Added xfce4-notifyd to desktop
+  * Removed libgnome2-perl from desktop-recommends
+  * Removed notify-osd from desktop-recommends
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Wed, 22 Dec 2010 00:37:25 +0100
+
 xubuntu-meta (2.121) natty; urgency=low
 
   * Refreshed dependencies
