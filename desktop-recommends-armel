@@ -35,7 +35,6 @@ gstreamer0.10-alsa
 gstreamer0.10-plugins-base-apps
 gucharmap
 gvfs-fuse
-hal
 hplip
 ibus
 ibus-gtk
