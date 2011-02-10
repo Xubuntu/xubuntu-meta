@@ -72,7 +72,6 @@ splix
 system-config-printer-gnome
 thunar-archive-plugin
 thunar-media-tags-plugin
-thunar-thumbnailers
 thunderbird
 transmission-gtk
 ttf-indic-fonts-core
@@ -95,7 +94,6 @@ xchat
 xcursor-themes
 xdg-utils
 xfburn
-xfce4-appfinder
 xfce4-cpugraph-plugin
 xfce4-dict
 xfce4-fsguard-plugin

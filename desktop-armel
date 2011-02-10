@@ -31,6 +31,7 @@ libxp6
 openprinting-ppds
 pnm2ppa
 rarian-compat
+rfkill
 smbclient
 software-center
 software-properties-gtk
@@ -50,6 +51,7 @@ wpasupplicant
 x-ttcidfont-conf
 xdg-user-dirs
 xdg-user-dirs-gtk
+xfce4-appfinder
 xfce4-notifyd
 xfce4-panel
 xfce4-session
