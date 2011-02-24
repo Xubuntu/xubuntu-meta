@@ -42,6 +42,9 @@ ibus-pinyin
 ibus-pinyin-db-android
 ibus-table
 im-switch
+indicator-application
+indicator-messages
+indicator-sound
 jockey-gtk
 kerneloops-daemon
 laptop-detect
@@ -94,6 +97,7 @@ xfburn
 xfce4-cpugraph-plugin
 xfce4-dict
 xfce4-fsguard-plugin
+xfce4-indicator-plugin
 xfce4-mailwatch-plugin
 xfce4-mixer
 xfce4-mount-plugin
