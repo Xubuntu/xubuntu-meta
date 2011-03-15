@@ -1,3 +1,11 @@
+xubuntu-meta (2.127) natty; urgency=low
+
+  * Refreshed dependencies
+  * Added gnome-time-admin to desktop-recommends [amd64 i386]
+  * Added nvidia-common to desktop [amd64 i386]
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Tue, 15 Mar 2011 22:56:13 +0100
+
 xubuntu-meta (2.126) natty; urgency=low
 
   * Refreshed dependencies
