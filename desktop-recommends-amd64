@@ -45,7 +45,6 @@ ibus-pinyin-db-android
 ibus-table
 im-switch
 indicator-application
-indicator-messages
 indicator-sound
 jockey-gtk
 kerneloops-daemon

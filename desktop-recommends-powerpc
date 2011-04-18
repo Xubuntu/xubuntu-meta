@@ -29,6 +29,7 @@ gnome-codec-install
 gnome-mahjongg
 gnome-sudoku
 gnome-system-tools
+gnome-time-admin
 gnomine
 gnumeric
 gstreamer0.10-alsa
@@ -43,7 +44,6 @@ ibus-pinyin-db-android
 ibus-table
 im-switch
 indicator-application
-indicator-messages
 indicator-sound
 jockey-gtk
 kerneloops-daemon

@@ -1,3 +1,14 @@
+xubuntu-meta (2.128) natty; urgency=low
+
+  * Refreshed dependencies
+  * Added gnome-time-admin to desktop-recommends [armel powerpc]
+  * Removed indicator-messages from desktop-recommends (LP: #757754)
+    This package will be added as a recommends of 
+    "xfce4-indicator-plugin" and removing it from the explicit
+    list means that the upgrade will not bring in gnome-panel
+
+ -- Michael Vogt <michael.vogt@ubuntu.com>  Mon, 18 Apr 2011 13:34:34 +0200
+
 xubuntu-meta (2.127) natty; urgency=low
 
   * Refreshed dependencies
