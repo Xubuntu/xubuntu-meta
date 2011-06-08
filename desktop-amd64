@@ -12,7 +12,6 @@ dmz-cursor-theme
 doc-base
 foomatic-db-compressed-ppds
 foomatic-filters
-gdm
 genisoimage
 ghostscript-x
 gtk2-engines
@@ -27,12 +26,13 @@ libgd2-xpm
 libpam-ck-connector
 libsasl2-modules
 libxp6
+lightdm
+lightdm-greeter-example-gtk
 nvidia-common
 openprinting-ppds
 pnm2ppa
 rarian-compat
 rfkill
-smbclient
 software-center
 software-properties-gtk
 synaptic
