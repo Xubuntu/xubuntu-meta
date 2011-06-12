@@ -1,3 +1,16 @@
+xubuntu-meta (2.130) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added leafpad to desktop-recommends
+  * Added xarchiver to desktop-recommends
+  * Added xfce4-places-plugin to desktop-recommends
+  * Removed browser-plugin-parole from desktop-recommends
+  * Removed file-roller from desktop-recommends
+  * Removed mousepad from desktop-recommends
+  * Removed xfprint4 from desktop-recommends
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Sun, 12 Jun 2011 16:38:32 +0200
+
 xubuntu-meta (2.129) oneiric; urgency=low
 
   * update.cfg: refreshed for oneiric.

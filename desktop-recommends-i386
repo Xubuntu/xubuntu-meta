@@ -12,11 +12,9 @@ bluez-alsa
 bluez-cups
 brltty
 brltty-x11
-browser-plugin-parole
 catfish
 espeak
 evince
-file-roller
 firefox
 firefox-gnome-support
 foo2zjs
@@ -49,12 +47,12 @@ indicator-sound
 jockey-gtk
 kerneloops-daemon
 laptop-detect
+leafpad
 libnss-mdns
 libpam-gnome-keyring
 linux-headers-generic
 make
 min12xxw
-mousepad
 network-manager-gnome
 network-manager-pptp
 network-manager-pptp-gnome
@@ -93,6 +91,7 @@ ubufox
 update-notifier
 usb-creator-gtk
 vinagre
+xarchiver
 xchat
 xcursor-themes
 xdg-utils
@@ -106,6 +105,7 @@ xfce4-mixer
 xfce4-mount-plugin
 xfce4-netload-plugin
 xfce4-notes-plugin
+xfce4-places-plugin
 xfce4-power-manager
 xfce4-quicklauncher-plugin
 xfce4-screenshooter
@@ -116,7 +116,6 @@ xfce4-terminal
 xfce4-verve-plugin
 xfce4-volumed
 xfce4-weather-plugin
-xfprint4
 xscreensaver
 xscreensaver-data
 xscreensaver-gl
