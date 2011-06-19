@@ -5,4 +5,4 @@
 override_dh_germinate_metapackage:
 	dh_germinate_metapackage
 	#add alternate depends for gnumeric-gtk and evince-gtk to be installable along ubuntu-desktop
-	sed -i 's/evince-gtk/evince-gtk | evince/; s/gnumeric-gtk/gnumeric-gtk | gnumeric/' debian/xubuntu-desktop.substvars
+	sed -i 's/evince-gtk/evince-gtk | evince/' debian/xubuntu-desktop.substvars

@@ -1,3 +1,12 @@
+xubuntu-meta (2.131) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added epdfview to desktop-recommends
+  * Removed evince from desktop-recommends
+  * debian/rules: drop gnumeric-gtk from the sed as it doesn't exist anymore.
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Sun, 19 Jun 2011 18:23:46 +0200
+
 xubuntu-meta (2.130) oneiric; urgency=low
 
   * Refreshed dependencies
