@@ -1,3 +1,21 @@
+xubuntu-meta (2.132) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added file-roller to desktop-recommends
+  * Added libnotify-bin to desktop-recommends
+  * Added xul-ext-ubufox to desktop-recommends
+  * Removed aisleriot from desktop-recommends [powerpc]
+  * Removed gnome-mahjongg from desktop-recommends [powerpc]
+  * Removed gnome-sudoku from desktop-recommends [powerpc]
+  * Removed gnomine from desktop-recommends [powerpc]
+  * Removed quadrapassel from desktop-recommends [powerpc]
+  * Removed ubufox from desktop-recommends
+  * Removed xarchiver from desktop-recommends
+  * Moved desktop-file-utils to desktop-recommends
+  * Moved synaptic to desktop-recommends
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Thu, 30 Jun 2011 22:14:37 +0200
+
 xubuntu-meta (2.131) oneiric; urgency=low
 
   * Refreshed dependencies

@@ -8,7 +8,6 @@ cups
 cups-bsd
 cups-client
 dc
-desktop-file-utils
 dmz-cursor-theme
 doc-base
 foomatic-db-compressed-ppds
@@ -35,7 +34,6 @@ rarian-compat
 rfkill
 software-center
 software-properties-gtk
-synaptic
 tango-icon-theme
 tango-icon-theme-common
 thunar

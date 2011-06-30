@@ -12,8 +12,10 @@ bluez-cups
 brltty
 brltty-x11
 catfish
+desktop-file-utils
 epdfview
 espeak
+file-roller
 firefox
 firefox-gnome-support
 foo2zjs
@@ -47,6 +49,7 @@ jockey-gtk
 kerneloops-daemon
 laptop-detect
 leafpad
+libnotify-bin
 libnss-mdns
 libpam-gnome-keyring
 make
@@ -68,6 +71,7 @@ screensaver-default-images
 simple-scan
 speech-dispatcher
 splix
+synaptic
 system-config-printer-gnome
 thunar-archive-plugin
 thunar-media-tags-plugin
@@ -85,10 +89,8 @@ ttf-thai-tlwg
 ttf-ubuntu-font-family
 ttf-unfonts-core
 ttf-wqy-microhei
-ubufox
 update-notifier
 vinagre
-xarchiver
 xchat
 xcursor-themes
 xdg-utils
@@ -118,3 +120,4 @@ xscreensaver-data
 xscreensaver-gl
 xubuntu-artwork
 xubuntu-docs
+xul-ext-ubufox

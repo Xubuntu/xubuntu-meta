@@ -1,7 +1,6 @@
 abiword
 abiword-plugin-grammar
 abiword-plugin-mathview
-aisleriot
 app-install-data-partner
 apport-gtk
 avahi-autoipd
@@ -12,8 +11,10 @@ bluez-cups
 brltty
 brltty-x11
 catfish
+desktop-file-utils
 epdfview
 espeak
+file-roller
 firefox
 firefox-gnome-support
 foo2zjs
@@ -24,11 +25,8 @@ gimp
 gmusicbrowser
 gnome-accessibility-themes
 gnome-codec-install
-gnome-mahjongg
-gnome-sudoku
 gnome-system-tools
 gnome-time-admin
-gnomine
 gnumeric
 gstreamer0.10-alsa
 gstreamer0.10-plugins-base-apps
@@ -47,6 +45,7 @@ jockey-gtk
 kerneloops-daemon
 laptop-detect
 leafpad
+libnotify-bin
 libnss-mdns
 libpam-gnome-keyring
 make
@@ -62,12 +61,12 @@ pidgin
 pidgin-otr
 policykit-desktop-privileges
 pxljr
-quadrapassel
 ristretto
 screensaver-default-images
 simple-scan
 speech-dispatcher
 splix
+synaptic
 system-config-printer-gnome
 thunar-archive-plugin
 thunar-media-tags-plugin
@@ -85,10 +84,8 @@ ttf-thai-tlwg
 ttf-ubuntu-font-family
 ttf-unfonts-core
 ttf-wqy-microhei
-ubufox
 update-notifier
 vinagre
-xarchiver
 xchat
 xcursor-themes
 xdg-utils
@@ -118,3 +115,4 @@ xscreensaver-data
 xscreensaver-gl
 xubuntu-artwork
 xubuntu-docs
+xul-ext-ubufox
