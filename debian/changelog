@@ -1,3 +1,13 @@
+xubuntu-meta (2.133) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added indicator-application-gtk2 to desktop-recommends
+  * Added indicator-sound-gtk2 to desktop-recommends
+  * Removed indicator-application from desktop-recommends
+  * Removed indicator-sound from desktop-recommends
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Sat, 09 Jul 2011 22:52:17 +0200
+
 xubuntu-meta (2.132) oneiric; urgency=low
 
   * Refreshed dependencies
