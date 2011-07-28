@@ -1,3 +1,12 @@
+xubuntu-meta (2.134) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added lightdm-gtk-greeter to desktop
+  * Added pidgin-microblog to desktop-recommends
+  * Removed lightdm-greeter-example-gtk from desktop
+
+ -- Micah Gersten <micahg@ubuntu.com>  Thu, 28 Jul 2011 10:57:02 -0500
+
 xubuntu-meta (2.133) oneiric; urgency=low
 
   * Refreshed dependencies

@@ -27,7 +27,7 @@ libpam-ck-connector
 libsasl2-modules
 libxp6
 lightdm
-lightdm-greeter-example-gtk
+lightdm-gtk-greeter
 openprinting-ppds
 pnm2ppa
 rarian-compat
