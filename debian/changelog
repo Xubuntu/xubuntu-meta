@@ -1,3 +1,13 @@
+xubuntu-meta (2.135) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added accountsservice to desktop
+  * Added evince to desktop-recommends
+  * Removed aisleriot from desktop-recommends [amd64 armel i386]
+  * Removed epdfview from desktop-recommends
+
+ -- Micah Gersten <micahg@ubuntu.com>  Tue, 02 Aug 2011 12:59:46 -0500
+
 xubuntu-meta (2.134) oneiric; urgency=low
 
   * Refreshed dependencies

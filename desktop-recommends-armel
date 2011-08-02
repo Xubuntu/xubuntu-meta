@@ -1,7 +1,6 @@
 abiword
 abiword-plugin-grammar
 abiword-plugin-mathview
-aisleriot
 app-install-data-partner
 apport-gtk
 avahi-autoipd
@@ -13,8 +12,8 @@ brltty
 brltty-x11
 catfish
 desktop-file-utils
-epdfview
 espeak
+evince
 file-roller
 firefox
 firefox-gnome-support
