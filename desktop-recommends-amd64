@@ -12,6 +12,9 @@ bluez-cups
 brltty
 brltty-x11
 catfish
+cups
+cups-bsd
+cups-client
 desktop-file-utils
 espeak
 evince
@@ -34,6 +37,7 @@ gnomine
 gnumeric
 gstreamer0.10-alsa
 gstreamer0.10-plugins-base-apps
+gthumb
 gucharmap
 gvfs-fuse
 hplip
@@ -61,6 +65,7 @@ network-manager-pptp-gnome
 onboard
 orage
 parole
+pastebinit
 pcmciautils
 pidgin
 pidgin-microblog

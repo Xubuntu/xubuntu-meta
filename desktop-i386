@@ -1,12 +1,8 @@
-accountsservice
 alsa-base
 alsa-utils
 anacron
 bc
 ca-certificates
-cups
-cups-bsd
-cups-client
 dc
 dmz-cursor-theme
 doc-base

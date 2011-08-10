@@ -1,3 +1,16 @@
+xubuntu-meta (2.136) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added gthumb to desktop-recommends
+  * Added pastebinit to desktop-recommends
+  * Removed accountsservice from desktop
+    - This is now recommended by liblightdm-gobject-1-0
+  * Moved cups to desktop-recommends (LP: #302272)
+  * Moved cups-bsd to desktop-recommends
+  * Moved cups-client to desktop-recommends
+
+ -- Micah Gersten <micahg@ubuntu.com>  Wed, 10 Aug 2011 03:23:51 -0500
+
 xubuntu-meta (2.135) oneiric; urgency=low
 
   * Refreshed dependencies
