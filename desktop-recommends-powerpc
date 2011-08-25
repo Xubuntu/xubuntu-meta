@@ -10,6 +10,7 @@ bluez-alsa
 bluez-cups
 brltty
 brltty-x11
+c2esp
 catfish
 cups
 cups-bsd
@@ -66,7 +67,9 @@ pidgin
 pidgin-microblog
 pidgin-otr
 policykit-desktop-privileges
+ptouch-driver
 pxljr
+rastertosag-gdi
 ristretto
 screensaver-default-images
 simple-scan

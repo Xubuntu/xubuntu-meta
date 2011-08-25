@@ -1,6 +1,7 @@
 abiword
 abiword-plugin-grammar
 abiword-plugin-mathview
+aisleriot
 app-install-data-partner
 apport-gtk
 avahi-autoipd
@@ -10,6 +11,7 @@ bluez-alsa
 bluez-cups
 brltty
 brltty-x11
+c2esp
 catfish
 cups
 cups-bsd
@@ -69,8 +71,10 @@ pidgin
 pidgin-microblog
 pidgin-otr
 policykit-desktop-privileges
+ptouch-driver
 pxljr
 quadrapassel
+rastertosag-gdi
 ristretto
 screensaver-default-images
 simple-scan

@@ -1,3 +1,13 @@
+xubuntu-meta (2.137) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added aisleriot to desktop-recommends [amd64 armel i386] (LP: #833550)
+  * Added c2esp to desktop-recommends
+  * Added ptouch-driver to desktop-recommends
+  * Added rastertosag-gdi to desktop-recommends
+
+ -- Micah Gersten <micahg@ubuntu.com>  Thu, 25 Aug 2011 04:33:26 -0500
+
 xubuntu-meta (2.136) oneiric; urgency=low
 
   * Refreshed dependencies
