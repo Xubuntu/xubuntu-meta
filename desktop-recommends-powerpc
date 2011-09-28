@@ -5,6 +5,7 @@ app-install-data-partner
 apport-gtk
 avahi-autoipd
 avahi-daemon
+blueman
 bluez
 bluez-alsa
 bluez-cups

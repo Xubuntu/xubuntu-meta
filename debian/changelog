@@ -1,3 +1,10 @@
+xubuntu-meta (2.138) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added blueman to desktop-recommends (lp: #836324)
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Thu, 29 Sep 2011 00:09:07 +0200
+
 xubuntu-meta (2.137) oneiric; urgency=low
 
   * Refreshed dependencies
