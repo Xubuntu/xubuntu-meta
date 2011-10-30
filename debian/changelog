@@ -1,3 +1,11 @@
+xubuntu-meta (2.139) precise; urgency=low
+
+  * update.cfg: refreshed for precise.
+  * Refreshed dependencies
+  * Added gvfs-backends to desktop-recommends lp: #878682
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Sun, 30 Oct 2011 19:24:12 +0100
+
 xubuntu-meta (2.138) oneiric; urgency=low
 
   * Refreshed dependencies
