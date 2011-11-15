@@ -1,3 +1,14 @@
+xubuntu-meta (2.140) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added fonts-kacst-one to desktop-recommends
+  * Added fonts-lao to desktop-recommends
+  * Removed gnome-codec-install from desktop-recommends
+  * Removed ttf-kacst-one from desktop-recommends
+  * Removed ttf-lao from desktop-recommends
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Tue, 15 Nov 2011 11:46:47 +0000
+
 xubuntu-meta (2.139) precise; urgency=low
 
   * update.cfg: refreshed for precise.
