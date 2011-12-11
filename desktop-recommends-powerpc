@@ -23,7 +23,10 @@ file-roller
 firefox
 firefox-gnome-support
 fonts-kacst-one
+fonts-khmeros-core
 fonts-lao
+fonts-liberation
+fonts-takao-pgothic
 foo2zjs
 gcalctool
 gcc
@@ -85,11 +88,8 @@ thunar-media-tags-plugin
 thunderbird
 transmission-gtk
 ttf-indic-fonts-core
-ttf-khmeros-core
-ttf-liberation
 ttf-opensymbol
 ttf-punjabi-fonts
-ttf-takao-pgothic
 ttf-thai-tlwg
 ttf-ubuntu-font-family
 ttf-unfonts-core

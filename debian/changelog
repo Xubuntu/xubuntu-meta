@@ -1,3 +1,16 @@
+xubuntu-meta (2.141) precise; urgency=low
+
+  * Add armhf
+  * Refreshed dependencies
+  * Added fonts-khmeros-core to desktop-recommends
+  * Added fonts-liberation to desktop-recommends
+  * Added fonts-takao-pgothic to desktop-recommends
+  * Removed ttf-khmeros-core from desktop-recommends
+  * Removed ttf-liberation from desktop-recommends
+  * Removed ttf-takao-pgothic from desktop-recommends
+
+ -- Micah Gersten <micahg@ubuntu.com>  Sun, 11 Dec 2011 02:14:35 -0600
+
 xubuntu-meta (2.140) precise; urgency=low
 
   * Refreshed dependencies
