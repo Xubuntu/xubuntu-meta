@@ -64,7 +64,7 @@ leafpad
 libnotify-bin
 libnss-mdns
 libpam-gnome-keyring
-linux-headers-generic
+linux-headers-generic-pae
 make
 min12xxw
 network-manager-gnome
