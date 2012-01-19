@@ -36,7 +36,6 @@ gigolo
 gimp
 gmusicbrowser
 gnome-accessibility-themes
-gnome-mahjongg
 gnome-sudoku
 gnome-system-tools
 gnome-time-admin
@@ -65,6 +64,7 @@ libnotify-bin
 libnss-mdns
 libpam-gnome-keyring
 linux-headers-generic-pae
+mahjongg
 make
 min12xxw
 network-manager-gnome
