@@ -12,7 +12,6 @@ bluez-alsa
 bluez-cups
 brltty
 brltty-x11
-c2esp
 catfish
 cups
 cups-bsd
@@ -27,6 +26,7 @@ fonts-kacst-one
 fonts-khmeros-core
 fonts-lao
 fonts-liberation
+fonts-nanum
 fonts-takao-pgothic
 foo2zjs
 gcalctool
@@ -77,6 +77,7 @@ pidgin
 pidgin-microblog
 pidgin-otr
 policykit-desktop-privileges
+printer-driver-c2esp
 ptouch-driver
 pxljr
 quadrapassel
@@ -97,7 +98,6 @@ ttf-opensymbol
 ttf-punjabi-fonts
 ttf-thai-tlwg
 ttf-ubuntu-font-family
-ttf-unfonts-core
 ttf-wqy-microhei
 update-notifier
 vinagre

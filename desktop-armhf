@@ -41,7 +41,6 @@ unzip
 update-manager
 wireless-tools
 wpasupplicant
-x-ttcidfont-conf
 xdg-user-dirs
 xdg-user-dirs-gtk
 xfce4-appfinder
