@@ -1,3 +1,18 @@
+xubuntu-meta (2.145) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added fonts-opensymbol to desktop-recommends
+  * Added fonts-thai-tlwg to desktop-recommends
+  * Added xfce4-xkb-plugin to desktop-recommends
+  * Removed ttf-opensymbol from desktop-recommends
+  * Removed ttf-thai-tlwg from desktop-recommends
+  * Removed vinagre from desktop-recommends
+  * Removed xfce4-fsguard-plugin from desktop-recommends
+  * Removed xfce4-mount-plugin from desktop-recommends
+  * Removed xfce4-smartbookmark-plugin from desktop-recommends
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Thu, 09 Feb 2012 21:57:09 +0100
+
 xubuntu-meta (2.144) precise; urgency=low
 
   * Refreshed dependencies
