@@ -1,3 +1,23 @@
+xubuntu-meta (2.146) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added printer-driver-foo2zjs to desktop-recommends
+  * Added printer-driver-min12xxw to desktop-recommends
+  * Added printer-driver-ptouch to desktop-recommends
+  * Added printer-driver-pxljr to desktop-recommends
+  * Added printer-driver-sag-gdi to desktop-recommends
+  * Added printer-driver-splix to desktop-recommends
+  * Removed foo2zjs from desktop-recommends
+  * Removed min12xxw from desktop-recommends
+  * Removed ptouch-driver from desktop-recommends
+  * Removed pxljr from desktop-recommends
+  * Removed rastertosag-gdi from desktop-recommends
+  * Removed splix from desktop-recommends
+  * Removed tango-icon-theme from desktop lp: #932686
+  * Removed tango-icon-theme-common from desktop
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Wed, 15 Feb 2012 21:49:40 +0100
+
 xubuntu-meta (2.145) precise; urgency=low
 
   * Refreshed dependencies
