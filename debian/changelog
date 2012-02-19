@@ -1,3 +1,13 @@
+xubuntu-meta (2.147) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added printer-driver-pnm2ppa to desktop
+  * Removed gtk2-engines-murrine from desktop
+  * Removed pnm2ppa from desktop
+  * Moved xubuntu-artwork to desktop
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Sun, 19 Feb 2012 12:48:10 +0100
+
 xubuntu-meta (2.146) precise; urgency=low
 
   * Refreshed dependencies

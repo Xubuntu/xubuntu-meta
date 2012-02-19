@@ -11,7 +11,6 @@ foomatic-filters
 genisoimage
 ghostscript-x
 gtk2-engines
-gtk2-engines-murrine
 gtk2-engines-pixbuf
 inputattach
 language-selector-gnome
@@ -24,7 +23,7 @@ libxp6
 lightdm
 lightdm-gtk-greeter
 openprinting-ppds
-pnm2ppa
+printer-driver-pnm2ppa
 rarian-compat
 rfkill
 software-center
@@ -52,6 +51,7 @@ xfwm4
 xkb-data
 xorg
 xterm
+xubuntu-artwork
 xubuntu-default-settings
 zenity
 zip
