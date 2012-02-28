@@ -4,7 +4,6 @@ anacron
 apmd
 bc
 ca-certificates
-dc
 dmz-cursor-theme
 doc-base
 foomatic-db-compressed-ppds
@@ -15,7 +14,6 @@ gtk2-engines
 gtk2-engines-pixbuf
 inputattach
 language-selector-gnome
-lftp
 libasound2-plugins
 libgd2-xpm
 libpam-ck-connector

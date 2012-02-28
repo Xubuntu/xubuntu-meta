@@ -1,3 +1,14 @@
+xubuntu-meta (2.149) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added alacarte to desktop-recommends (LP: #927224)
+  * Removed dc from desktop
+  * Removed lftp from desktop
+  * Removed quadrapassel from desktop-recommends [amd64 armel armhf
+    i386]
+
+ -- Micah Gersten <micahg@ubuntu.com>  Tue, 28 Feb 2012 04:24:45 -0600
+
 xubuntu-meta (2.148) precise; urgency=low
 
   * No Change upload to restore deleted binaries

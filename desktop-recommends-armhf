@@ -2,6 +2,7 @@ abiword
 abiword-plugin-grammar
 abiword-plugin-mathview
 aisleriot
+alacarte
 app-install-data-partner
 apport-gtk
 avahi-autoipd
@@ -84,7 +85,6 @@ printer-driver-ptouch
 printer-driver-pxljr
 printer-driver-sag-gdi
 printer-driver-splix
-quadrapassel
 ristretto
 screensaver-default-images
 simple-scan
