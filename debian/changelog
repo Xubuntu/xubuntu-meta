@@ -1,3 +1,11 @@
+xubuntu-meta (2.150) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added linux-headers-generic to desktop-recommends [i386]
+  * Removed linux-headers-generic-pae from desktop-recommends [i386]
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Tue, 20 Mar 2012 01:21:29 +0100
+
 xubuntu-meta (2.149) precise; urgency=low
 
   * Refreshed dependencies

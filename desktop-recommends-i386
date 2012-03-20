@@ -65,7 +65,7 @@ leafpad
 libnotify-bin
 libnss-mdns
 libpam-gnome-keyring
-linux-headers-generic-pae
+linux-headers-generic
 mahjongg
 make
 network-manager-gnome
