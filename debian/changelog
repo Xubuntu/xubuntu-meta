@@ -1,3 +1,13 @@
+xubuntu-meta (2.151) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added gstreamer0.10-pulseaudio to desktop-recommends
+  * Added pavucontrol to desktop-recommends lp: #961744
+  * Removed gstreamer0.10-alsa from desktop-recommends
+  * Removed xfce4-mixer from desktop-recommends
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Thu, 22 Mar 2012 20:50:28 +0100
+
 xubuntu-meta (2.150) precise; urgency=low
 
   * Refreshed dependencies
