@@ -1,3 +1,10 @@
+xubuntu-meta (2.152) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added xfce4-datetime-plugin to desktop-recommends lp: #972402
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Wed, 04 Apr 2012 00:03:53 +0200
+
 xubuntu-meta (2.151) precise; urgency=low
 
   * Refreshed dependencies
