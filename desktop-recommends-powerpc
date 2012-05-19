@@ -61,6 +61,7 @@ leafpad
 libnotify-bin
 libnss-mdns
 libpam-gnome-keyring
+libxfce4ui-utils
 make
 network-manager-gnome
 network-manager-pptp

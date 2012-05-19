@@ -65,6 +65,7 @@ leafpad
 libnotify-bin
 libnss-mdns
 libpam-gnome-keyring
+libxfce4ui-utils
 linux-headers-generic
 mahjongg
 make

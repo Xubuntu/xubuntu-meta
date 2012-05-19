@@ -1,3 +1,12 @@
+xubuntu-meta (2.153) quantal; urgency=low
+
+  * update.cfg: updated for quantal.
+  * Refreshed dependencies
+  * Added libxfce4ui-utils to desktop-recommends
+  * Removed xfce4-utils from desktop
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Sat, 19 May 2012 20:34:40 +0200
+
 xubuntu-meta (2.152) precise; urgency=low
 
   * Refreshed dependencies
