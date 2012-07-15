@@ -23,15 +23,14 @@ lightdm-gtk-greeter
 openprinting-ppds
 pbbuttonsd
 printer-driver-pnm2ppa
-rarian-compat
 rfkill
 software-center
 software-properties-gtk
 thunar
 thunar-volman
 ttf-dejavu-core
-ttf-freefont
 tumbler
+ubuntu-drivers-common
 ubuntu-extras-keyring
 unzip
 update-manager

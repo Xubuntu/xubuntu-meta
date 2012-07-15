@@ -1,3 +1,18 @@
+xubuntu-meta (2.154) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added fonts-lklug-sinhala to desktop-recommends
+  * Added fonts-sil-abyssinica to desktop-recommends
+  * Added fonts-sil-padauk to desktop-recommends
+  * Added fonts-tibetan-machine to desktop-recommends
+  * Added ubuntu-drivers-common to desktop
+  * Added whoopsie to desktop-recommends lp: #1001630
+  * Removed nvidia-common from desktop [amd64 i386]
+  * Removed rarian-compat from desktop
+  * Removed ttf-freefont from desktop
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Sun, 15 Jul 2012 13:09:09 +0200
+
 xubuntu-meta (2.153) quantal; urgency=low
 
   * update.cfg: updated for quantal.

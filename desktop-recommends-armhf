@@ -27,10 +27,14 @@ fonts-kacst-one
 fonts-khmeros-core
 fonts-lao
 fonts-liberation
+fonts-lklug-sinhala
 fonts-nanum
 fonts-opensymbol
+fonts-sil-abyssinica
+fonts-sil-padauk
 fonts-takao-pgothic
 fonts-thai-tlwg
+fonts-tibetan-machine
 gcalctool
 gcc
 gigolo
@@ -102,6 +106,7 @@ ttf-punjabi-fonts
 ttf-ubuntu-font-family
 ttf-wqy-microhei
 update-notifier
+whoopsie
 xchat
 xcursor-themes
 xdg-utils
