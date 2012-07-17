@@ -41,6 +41,7 @@ gigolo
 gimp
 gmusicbrowser
 gnome-accessibility-themes
+gnome-mahjongg
 gnome-sudoku
 gnome-system-tools
 gnome-time-admin
@@ -69,7 +70,6 @@ libnotify-bin
 libnss-mdns
 libpam-gnome-keyring
 libxfce4ui-utils
-mahjongg
 make
 network-manager-gnome
 network-manager-pptp
