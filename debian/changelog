@@ -1,3 +1,12 @@
+xubuntu-meta (2.156) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added fonts-freefont-ttf to desktop
+  * Removed jockey-gtk from desktop-recommends
+  * Removed synaptic from desktop-recommends
+
+ -- Micah Gersten <micahg@ubuntu.com>  Sun, 26 Aug 2012 01:38:49 -0500
+
 xubuntu-meta (2.155) quantal; urgency=low
 
   * Refreshed dependencies

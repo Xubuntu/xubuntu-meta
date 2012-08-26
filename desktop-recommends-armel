@@ -62,7 +62,6 @@ ibus-table
 im-switch
 indicator-application-gtk2
 indicator-sound-gtk2
-jockey-gtk
 kerneloops-daemon
 laptop-detect
 leafpad
@@ -95,7 +94,6 @@ ristretto
 screensaver-default-images
 simple-scan
 speech-dispatcher
-synaptic
 system-config-printer-gnome
 thunar-archive-plugin
 thunar-media-tags-plugin
