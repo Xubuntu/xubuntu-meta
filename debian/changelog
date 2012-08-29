@@ -1,3 +1,14 @@
+xubuntu-meta (2.157) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Removed xfce4-datetime-plugin from desktop-recommends, xfce4-panel's
+    clock plugin provides the same features in quantal.
+  * Removed temporarily xfce4-indicator-plugin, indicator-application-gtk2
+    and indicator-sound-gtk2 from desktop-recommends until we're ready to
+    reupload gtk2 indicators.
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Wed, 29 Aug 2012 02:23:57 +0200
+
 xubuntu-meta (2.156) quantal; urgency=low
 
   * Refreshed dependencies

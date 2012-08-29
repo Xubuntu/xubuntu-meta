@@ -61,8 +61,6 @@ ibus-pinyin
 ibus-pinyin-db-android
 ibus-table
 im-switch
-indicator-application-gtk2
-indicator-sound-gtk2
 kerneloops-daemon
 laptop-detect
 leafpad
@@ -113,9 +111,7 @@ xcursor-themes
 xdg-utils
 xfburn
 xfce4-cpugraph-plugin
-xfce4-datetime-plugin
 xfce4-dict
-xfce4-indicator-plugin
 xfce4-mailwatch-plugin
 xfce4-netload-plugin
 xfce4-notes-plugin
