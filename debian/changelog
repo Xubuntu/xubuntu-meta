@@ -1,3 +1,13 @@
+xubuntu-meta (2.159) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added indicator-application-gtk2 to desktop-recommends
+  * Added xfce4-indicator-plugin to desktop-recommends
+  * Removed gnumeric from desktop-recommends
+  * Removed usb-creator-gtk from desktop-recommends [amd64 i386]
+
+ -- Micah Gersten <micahg@ubuntu.com>  Mon, 10 Sep 2012 09:09:19 -0500
+
 xubuntu-meta (2.158) quantal; urgency=low
 
   * Refreshed dependencies

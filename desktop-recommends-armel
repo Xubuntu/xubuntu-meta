@@ -44,7 +44,6 @@ gnome-sudoku
 gnome-system-tools
 gnome-time-admin
 gnomine
-gnumeric
 gstreamer0.10-plugins-base-apps
 gstreamer0.10-pulseaudio
 gthumb
@@ -58,6 +57,7 @@ ibus-pinyin
 ibus-pinyin-db-android
 ibus-table
 im-switch
+indicator-application-gtk2
 kerneloops-daemon
 laptop-detect
 leafpad
@@ -107,6 +107,7 @@ xdg-utils
 xfburn
 xfce4-cpugraph-plugin
 xfce4-dict
+xfce4-indicator-plugin
 xfce4-mailwatch-plugin
 xfce4-netload-plugin
 xfce4-notes-plugin
