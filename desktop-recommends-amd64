@@ -59,6 +59,7 @@ ibus-pinyin-db-android
 ibus-table
 im-switch
 indicator-application-gtk2
+indicator-sound-gtk2
 kerneloops-daemon
 laptop-detect
 leafpad
