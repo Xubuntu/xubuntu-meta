@@ -1,3 +1,10 @@
+xubuntu-meta (2.162) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added libpam-xdg-support to desktop
+
+ -- Micah Gersten <micahg@ubuntu.com>  Wed, 03 Oct 2012 13:13:47 -0500
+
 xubuntu-meta (2.161) quantal; urgency=low
 
   * Refreshed dependencies

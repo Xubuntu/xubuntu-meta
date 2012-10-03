@@ -17,6 +17,7 @@ language-selector-gnome
 libasound2-plugins
 libgd2-xpm
 libpam-ck-connector
+libpam-xdg-support
 libsasl2-modules
 libxp6
 lightdm
