@@ -56,7 +56,7 @@ ibus-gtk
 ibus-pinyin
 ibus-pinyin-db-android
 ibus-table
-im-switch
+im-config
 indicator-application-gtk2
 indicator-sound-gtk2
 kerneloops-daemon
