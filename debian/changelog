@@ -1,3 +1,10 @@
+xubuntu-meta (2.164) raring; urgency=low
+
+  * Refreshed dependencies
+  * Removed linux-headers-generic from desktop-recommends [amd64 i386]
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Fri, 21 Dec 2012 19:53:15 -0700
+
 xubuntu-meta (2.163) raring; urgency=low
 
   * update.cfg: Switch to raring.  Drop armel.
