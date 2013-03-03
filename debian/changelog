@@ -1,3 +1,14 @@
+xubuntu-meta (2.165) raring; urgency=low
+
+  * Refreshed dependencies
+  * Added gimp to desktop-recommends
+  * Added gnumeric to desktop-recommends
+  * Added mousepad to desktop-recommends
+  * Removed gtk2-engines from desktop
+  * Removed leafpad from desktop-recommends
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Sun, 03 Mar 2013 12:16:11 +0100
+
 xubuntu-meta (2.164) raring; urgency=low
 
   * Refreshed dependencies
