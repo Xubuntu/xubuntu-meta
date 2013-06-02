@@ -14,9 +14,7 @@ gtk2-engines-pixbuf
 inputattach
 language-selector-gnome
 libasound2-plugins
-libgd2-xpm
-libpam-ck-connector
-libpam-xdg-support
+libpam-systemd
 libsasl2-modules
 libxp6
 lightdm

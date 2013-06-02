@@ -1,3 +1,15 @@
+xubuntu-meta (2.166) saucy; urgency=low
+
+  * update.cfg: Switch to saucy.
+
+  * Refreshed dependencies
+  * Added libpam-systemd to desktop
+  * Removed libgd2-xpm from desktop
+  * Removed libpam-ck-connector from desktop
+  * Removed libpam-xdg-support from desktop
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Sun, 02 Jun 2013 10:07:58 +0100
+
 xubuntu-meta (2.165) raring; urgency=low
 
   * Refreshed dependencies
