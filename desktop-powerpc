@@ -5,6 +5,7 @@ bc
 ca-certificates
 dmz-cursor-theme
 doc-base
+fonts-dejavu-core
 fonts-freefont-ttf
 foomatic-db-compressed-ppds
 foomatic-filters
@@ -27,7 +28,6 @@ software-center
 software-properties-gtk
 thunar
 thunar-volman
-ttf-dejavu-core
 tumbler
 ubuntu-drivers-common
 ubuntu-extras-keyring
