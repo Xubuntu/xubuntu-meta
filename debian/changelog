@@ -1,3 +1,10 @@
+xubuntu-meta (2.168) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added apt-offline to desktop-recommends (LP: #1183638)
+
+ -- Micah Gersten <micahg@ubuntu.com>  Wed, 17 Jul 2013 00:05:43 -0500
+
 xubuntu-meta (2.167) saucy; urgency=low
 
   * Refreshed dependencies
