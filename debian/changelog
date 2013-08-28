@@ -1,3 +1,10 @@
+xubuntu-meta (2.169) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Removed pidgin-microblog from desktop-recommends
+
+ -- Micah Gersten <micahg@ubuntu.com>  Tue, 27 Aug 2013 23:07:20 -0500
+
 xubuntu-meta (2.168) saucy; urgency=low
 
   * Refreshed dependencies
