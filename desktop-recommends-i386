@@ -49,6 +49,7 @@ gnumeric
 gstreamer0.10-plugins-base-apps
 gstreamer0.10-pulseaudio
 gthumb
+gtk-theme-config
 gucharmap
 gvfs-backends
 gvfs-fuse

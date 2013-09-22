@@ -1,3 +1,10 @@
+xubuntu-meta (2.170) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added gtk-theme-config to desktop-recommends lp: #1219592, #1228356
+
+ -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Sun, 22 Sep 2013 19:10:16 +0200
+
 xubuntu-meta (2.169) saucy; urgency=low
 
   * Refreshed dependencies
