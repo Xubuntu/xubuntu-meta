@@ -1,3 +1,10 @@
+xubuntu-meta (2.171) saucy; urgency=low
+
+  * Refreshed dependencies (LP: #1232027)
+  * Added pm-utils to desktop
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Thu, 10 Oct 2013 05:49:59 -0600
+
 xubuntu-meta (2.170) saucy; urgency=low
 
   * Refreshed dependencies

@@ -21,6 +21,7 @@ libxp6
 lightdm
 lightdm-gtk-greeter
 openprinting-ppds
+pm-utils
 printer-driver-pnm2ppa
 rfkill
 software-center
