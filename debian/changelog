@@ -1,3 +1,10 @@
+xubuntu-meta (2.174) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added xfce4-screenshooter to desktop-recommends [arm64]
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Wed, 16 Oct 2013 16:43:02 +0100
+
 xubuntu-meta (2.173) saucy; urgency=low
 
   * Refreshed dependencies
