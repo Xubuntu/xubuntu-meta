@@ -1,3 +1,25 @@
+xubuntu-meta (2.173) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added abiword to desktop-recommends [arm64]
+  * Added abiword-plugin-grammar to desktop-recommends [arm64]
+  * Added abiword-plugin-mathview to desktop-recommends [arm64]
+  * Added pidgin-otr to desktop-recommends [arm64]
+  * Added whoopsie to desktop-recommends [arm64]
+  * Added xfce4-indicator-plugin to desktop-recommends [arm64]
+  * Added xfce4-notes-plugin to desktop-recommends [arm64]
+  * Added xfce4-quicklauncher-plugin to desktop-recommends [arm64]
+  * Added xfce4-systemload-plugin to desktop-recommends [arm64]
+  * Added xfce4-verve-plugin to desktop-recommends [arm64]
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Wed, 16 Oct 2013 11:52:31 +0100
+
+xubuntu-meta (2.172) saucy; urgency=low
+
+  * Build for AArch64.
+
+ -- Matthias Klose <doko@ubuntu.com>  Wed, 16 Oct 2013 09:46:05 +0200
+
 xubuntu-meta (2.171) saucy; urgency=low
 
   * Refreshed dependencies (LP: #1232027)
