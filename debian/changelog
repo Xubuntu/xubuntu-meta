@@ -1,3 +1,12 @@
+xubuntu-meta (2.175) trusty; urgency=low
+
+  * update.cfg: Switch to trusty.
+
+  * Refreshed dependencies
+  * Removed foomatic-filters from desktop
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Sat, 07 Dec 2013 13:48:02 +0000
+
 xubuntu-meta (2.174) saucy; urgency=low
 
   * Refreshed dependencies
