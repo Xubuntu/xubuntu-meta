@@ -1,3 +1,12 @@
+xubuntu-meta (2.176) trusty; urgency=medium
+
+  * Build for ppc64el.
+  * Refreshed dependencies
+  * Added cups-filters to desktop-recommends [arm64 armhf ppc64el]
+  * Added transmission-gtk to desktop-recommends [arm64]
+
+ -- Matthias Klose <doko@ubuntu.com>  Mon, 30 Dec 2013 12:34:11 +0100
+
 xubuntu-meta (2.175) trusty; urgency=low
 
   * update.cfg: Switch to trusty.

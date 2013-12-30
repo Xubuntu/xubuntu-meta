@@ -18,6 +18,7 @@ catfish
 cups
 cups-bsd
 cups-client
+cups-filters
 desktop-file-utils
 espeak
 evince

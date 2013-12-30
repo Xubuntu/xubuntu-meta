@@ -1,7 +1,6 @@
 abiword
 abiword-plugin-grammar
 abiword-plugin-mathview
-acpi-support
 alacarte
 app-install-data-partner
 apport-gtk
@@ -23,7 +22,6 @@ desktop-file-utils
 espeak
 evince
 file-roller
-firefox
 fonts-kacst-one
 fonts-khmeros-core
 fonts-lao
@@ -51,7 +49,6 @@ gstreamer0.10-plugins-base-apps
 gstreamer0.10-pulseaudio
 gthumb
 gtk-theme-config
-gucharmap
 gvfs-backends
 gvfs-fuse
 hplip
@@ -85,7 +82,6 @@ pidgin-otr
 policykit-desktop-privileges
 printer-driver-c2esp
 printer-driver-foo2zjs
-printer-driver-min12xxw
 printer-driver-ptouch
 printer-driver-pxljr
 printer-driver-sag-gdi
@@ -97,8 +93,6 @@ speech-dispatcher
 system-config-printer-gnome
 thunar-archive-plugin
 thunar-media-tags-plugin
-thunderbird
-transmission-gtk
 ttf-indic-fonts-core
 ttf-punjabi-fonts
 ttf-ubuntu-font-family

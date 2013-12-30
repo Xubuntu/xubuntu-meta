@@ -17,6 +17,7 @@ catfish
 cups
 cups-bsd
 cups-client
+cups-filters
 desktop-file-utils
 espeak
 evince
@@ -94,6 +95,7 @@ speech-dispatcher
 system-config-printer-gnome
 thunar-archive-plugin
 thunar-media-tags-plugin
+transmission-gtk
 ttf-indic-fonts-core
 ttf-punjabi-fonts
 ttf-ubuntu-font-family
