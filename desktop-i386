@@ -19,11 +19,11 @@ libsasl2-modules
 libxp6
 lightdm
 lightdm-gtk-greeter
+memtest86+
 openprinting-ppds
 pm-utils
 printer-driver-pnm2ppa
 rfkill
-software-center
 software-properties-gtk
 thunar
 thunar-volman

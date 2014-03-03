@@ -23,11 +23,11 @@ openprinting-ppds
 pm-utils
 printer-driver-pnm2ppa
 rfkill
-software-center
 software-properties-gtk
 thunar
 thunar-volman
 tumbler
+ubuntu-drivers-common
 ubuntu-extras-keyring
 unzip
 update-manager

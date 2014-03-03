@@ -1,3 +1,30 @@
+xubuntu-meta (2.177) trusty; urgency=low
+
+  * Refreshed dependencies (LP: #1286954)
+  * Added fonts-droid to desktop-recommends
+  * Added gnome-calculator to desktop-recommends
+  * Added gucharmap to desktop-recommends [ppc64el]
+  * Added light-locker to desktop-recommends
+  * Added memtest86+ to desktop [amd64 i386]
+  * Added menulibre to desktop-recommends
+  * Added mugshot to desktop-recommends
+  * Added printer-driver-min12xxw to desktop-recommends [ppc64el]
+  * Added transmission-gtk to desktop-recommends [ppc64el]
+  * Added ubuntu-drivers-common to desktop [ppc64el]
+  * Added xfce4-whiskermenu-plugin to desktop-recommends
+  * Removed alacarte from desktop-recommends
+  * Removed gcalctool from desktop-recommends
+  * Removed gnome-time-admin from desktop-recommends
+  * Removed gthumb from desktop-recommends
+  * Removed screensaver-default-images from desktop-recommends
+  * Removed ttf-wqy-microhei from desktop-recommends
+  * Removed xscreensaver from desktop-recommends
+  * Removed xscreensaver-data from desktop-recommends
+  * Removed xscreensaver-gl from desktop-recommends
+  * Moved software-center to desktop-recommends
+
+ -- Micah Gersten <micahg@ubuntu.com>  Sun, 02 Mar 2014 20:37:01 -0600
+
 xubuntu-meta (2.176) trusty; urgency=medium
 
   * Build for ppc64el.

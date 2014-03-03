@@ -24,7 +24,6 @@ pbbuttonsd
 pm-utils
 printer-driver-pnm2ppa
 rfkill
-software-center
 software-properties-gtk
 thunar
 thunar-volman
