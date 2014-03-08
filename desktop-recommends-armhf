@@ -58,8 +58,10 @@ ibus-pinyin
 ibus-pinyin-db-android
 ibus-table
 im-config
-indicator-application-gtk2
-indicator-sound-gtk2
+indicator-application
+indicator-messages
+indicator-power
+indicator-sound
 kerneloops-daemon
 laptop-detect
 libnotify-bin
@@ -67,6 +69,7 @@ libnss-mdns
 libpam-gnome-keyring
 libxfce4ui-utils
 light-locker
+light-locker-settings
 make
 menulibre
 mousepad
@@ -126,5 +129,6 @@ xfce4-volumed
 xfce4-weather-plugin
 xfce4-whiskermenu-plugin
 xfce4-xkb-plugin
+xubuntu-community-wallpapers
 xubuntu-docs
 xul-ext-ubufox

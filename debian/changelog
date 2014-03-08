@@ -1,3 +1,19 @@
+xubuntu-meta (2.178) trusty; urgency=medium
+
+  * Refreshed dependencies
+  * Added indicator-application to desktop-recommends
+  * Added indicator-messages to desktop-recommends
+  * Added indicator-power to desktop-recommends [amd64 armhf i386
+    powerpc]
+  * Added indicator-sound to desktop-recommends [amd64 armhf i386
+    powerpc]
+  * Added light-locker-settings to desktop-recommends
+  * Added xubuntu-community-wallpapers to desktop-recommends
+  * Removed indicator-application-gtk2 from desktop-recommends
+  * Removed indicator-sound-gtk2 from desktop-recommends
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Sat, 08 Mar 2014 01:12:25 +0000
+
 xubuntu-meta (2.177) trusty; urgency=low
 
   * Refreshed dependencies (LP: #1286954)
