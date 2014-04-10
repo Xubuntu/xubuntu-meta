@@ -1,3 +1,18 @@
+xubuntu-meta (2.180) trusty; urgency=low
+
+  * Refreshed dependencies
+  * See LP:1284635 for the bug that's caused the removal of ibus from Xubuntu
+  * Removed ibus from desktop-recommends [amd64 arm64 armhf powerpc
+    ppc64el]
+  * Removed ibus-gtk from desktop-recommends [amd64 arm64 armhf powerpc
+    ppc64el]
+  * Removed ibus-pinyin from desktop-recommends [amd64 arm64 armhf
+    powerpc ppc64el]
+  * Removed ibus-table from desktop-recommends [amd64 arm64 armhf
+    powerpc ppc64el]
+
+ -- Micah Gersten <micahg@ubuntu.com>  Wed, 09 Apr 2014 21:59:07 -0500
+
 xubuntu-meta (2.179) trusty; urgency=medium
 
   * Refreshed dependencies

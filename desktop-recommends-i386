@@ -53,10 +53,6 @@ gucharmap
 gvfs-backends
 gvfs-fuse
 hplip
-ibus
-ibus-gtk
-ibus-pinyin
-ibus-table
 im-config
 indicator-application
 indicator-messages
