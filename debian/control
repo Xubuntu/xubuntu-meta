@@ -14,3 +14,13 @@ Description: Xubuntu desktop system
  .
  It is safe to remove this package if some of the desktop system packages are
  not desired.
+
+Package: xubuntu-core
+Architecture: any
+Depends: ${germinate:Depends}, ${misc:Depends}
+Recommends: ${germinate:Recommends}
+Description: Xubuntu core system
+ This package depends on the core set of a functional Xubuntu desktop system
+ .
+ It is safe to remove this package if some of the included packages are
+ not desired.

@@ -1,3 +1,12 @@
+xubuntu-meta (2.181) utopic; urgency=medium
+
+  * Refreshed dependencies
+  * Added firefox to desktop-recommends [arm64 ppc64el]
+  * Added inxi to desktop-recommends
+  * Added xubuntu-core seed and package
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Mon, 07 Jul 2014 19:45:47 -0400
+
 xubuntu-meta (2.180) trusty; urgency=low
 
   * Refreshed dependencies
