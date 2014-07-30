@@ -56,7 +56,6 @@ hplip
 im-config
 indicator-application
 indicator-messages
-indicator-power
 indicator-sound
 inxi
 kerneloops-daemon

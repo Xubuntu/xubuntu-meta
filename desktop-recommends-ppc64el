@@ -55,7 +55,6 @@ hplip
 im-config
 indicator-application
 indicator-messages
-indicator-power
 indicator-sound
 inxi
 kerneloops-daemon
@@ -96,6 +95,7 @@ speech-dispatcher
 system-config-printer-gnome
 thunar-archive-plugin
 thunar-media-tags-plugin
+thunderbird
 transmission-gtk
 ttf-indic-fonts-core
 ttf-punjabi-fonts
