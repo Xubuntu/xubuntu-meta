@@ -41,9 +41,9 @@ gimp
 gmusicbrowser
 gnome-accessibility-themes
 gnome-calculator
+gnome-mines
 gnome-sudoku
 gnome-system-tools
-gnomine
 gnumeric
 gstreamer0.10-plugins-base-apps
 gstreamer0.10-pulseaudio
@@ -81,6 +81,7 @@ pcmciautils
 pidgin
 pidgin-otr
 policykit-desktop-privileges
+printer-driver-brlaser
 printer-driver-c2esp
 printer-driver-foo2zjs
 printer-driver-min12xxw

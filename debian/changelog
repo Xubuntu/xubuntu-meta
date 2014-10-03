@@ -1,3 +1,14 @@
+xubuntu-meta (2.184) utopic; urgency=medium
+
+  * Refreshed dependencies (LP: #1366388)
+  * Added gnome-mines to desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+  * Added printer-driver-brlaser to core-recommends, desktop-recommends
+  * Removed gnomine from desktop-recommends [amd64 arm64 armhf i386
+    ppc64el]
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Thu, 02 Oct 2014 21:32:38 -0600
+
 xubuntu-meta (2.183) utopic; urgency=medium
 
   * Refreshed dependencies
