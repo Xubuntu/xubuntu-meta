@@ -19,7 +19,7 @@ cups-client
 cups-filters
 desktop-file-utils
 espeak
-evince
+evince-gtk
 file-roller
 firefox
 fonts-droid
@@ -96,6 +96,7 @@ thunar-archive-plugin
 thunar-media-tags-plugin
 thunderbird
 transmission-gtk
+ttf-ancient-fonts-symbola
 ttf-indic-fonts-core
 ttf-punjabi-fonts
 ttf-ubuntu-font-family

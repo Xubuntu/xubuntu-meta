@@ -1,3 +1,13 @@
+xubuntu-meta (2.185) vivid; urgency=medium
+
+  * Refreshed dependencies
+  * Added evince-gtk to desktop-recommends
+  * Added ttf-ancient-fonts-symbola to core-recommends, desktop-
+    recommends
+  * Removed evince from desktop-recommends
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Sun, 02 Nov 2014 21:52:40 -0500
+
 xubuntu-meta (2.184) utopic; urgency=medium
 
   * Refreshed dependencies (LP: #1366388)
