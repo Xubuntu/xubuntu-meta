@@ -1,3 +1,10 @@
+xubuntu-meta (2.186) vivid; urgency=medium
+
+  * Refreshed dependencies
+  * Removed ubuntu-extras-keyring from core, desktop (LP: #1409555)
+
+ -- Dimitri John Ledkov <dimitri.j.ledkov@linux.intel.com>  Tue, 13 Jan 2015 00:40:41 +0000
+
 xubuntu-meta (2.185) vivid; urgency=medium
 
   * Refreshed dependencies
