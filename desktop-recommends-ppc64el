@@ -64,7 +64,6 @@ libnss-mdns
 libpam-gnome-keyring
 libxfce4ui-utils
 light-locker
-light-locker-settings
 make
 menulibre
 mousepad

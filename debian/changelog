@@ -1,3 +1,10 @@
+xubuntu-meta (2.187) vivid; urgency=medium
+
+  * Refreshed dependencies
+  * Removed light-locker-settings from desktop-recommends
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Wed, 14 Jan 2015 18:58:47 -0500
+
 xubuntu-meta (2.186) vivid; urgency=medium
 
   * Refreshed dependencies
