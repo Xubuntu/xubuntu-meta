@@ -89,6 +89,7 @@ printer-driver-splix
 ristretto
 simple-scan
 software-center
+software-properties-gtk
 speech-dispatcher
 system-config-printer-gnome
 thunar-archive-plugin
@@ -102,7 +103,6 @@ ttf-ubuntu-font-family
 update-notifier
 whoopsie
 xcursor-themes
-xdg-utils
 xfburn
 xfce4-cpugraph-plugin
 xfce4-dict

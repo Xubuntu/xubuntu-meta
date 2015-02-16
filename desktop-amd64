@@ -24,7 +24,6 @@ openprinting-ppds
 pm-utils
 printer-driver-pnm2ppa
 rfkill
-software-properties-gtk
 thunar
 thunar-volman
 tumbler
@@ -35,6 +34,7 @@ wireless-tools
 wpasupplicant
 xdg-user-dirs
 xdg-user-dirs-gtk
+xdg-utils
 xfce4-appfinder
 xfce4-notifyd
 xfce4-panel
@@ -46,6 +46,8 @@ xkb-data
 xorg
 xterm
 xubuntu-artwork
+xubuntu-core
+xubuntu-core
 xubuntu-default-settings
 zenity
 zip

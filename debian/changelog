@@ -1,3 +1,21 @@
+xubuntu-meta (2.188) vivid; urgency=medium
+
+  * Refreshed dependencies
+  * Removed plymouth-theme-xubuntu-logo from core
+  * Removed plymouth-theme-xubuntu-text from core
+  * Removed xubuntu-icon-theme from core
+  * Removed xubuntu-wallpapers from core
+  * Moved gcc to core-recommends
+  * Moved libnotify-bin to core-recommends
+  * Moved make to core-recommends
+  * Moved network-manager-gnome to core-recommends
+  * Moved software-properties-gtk to desktop-recommends
+  * Moved xdg-utils to desktop
+  * Moved xfce4-terminal to core-recommends
+  * Moved xubuntu-docs to core-recommends
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Mon, 16 Feb 2015 18:49:59 -0500
+
 xubuntu-meta (2.187) vivid; urgency=medium
 
   * Refreshed dependencies
