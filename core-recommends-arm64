@@ -26,6 +26,7 @@ laptop-detect
 libnotify-bin
 libnss-mdns
 libpam-gnome-keyring
+light-locker
 make
 network-manager-gnome
 pavucontrol

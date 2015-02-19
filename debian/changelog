@@ -1,3 +1,11 @@
+xubuntu-meta (2.189) vivid; urgency=medium
+
+  * Refreshed dependencies
+  * Added light-locker to core-recommends
+  * Added lightdm-gtk-greeter-settings to desktop-recommends
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Thu, 19 Feb 2015 18:39:11 -0500
+
 xubuntu-meta (2.188) vivid; urgency=medium
 
   * Refreshed dependencies
