@@ -1,3 +1,11 @@
+xubuntu-meta (2.190) vivid; urgency=medium
+
+  * Refreshed dependencies
+  * Added fonts-guru to core-recommends, desktop-recommends
+  * Removed ttf-punjabi-fonts from core-recommends, desktop-recommends
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Mon, 16 Mar 2015 22:27:32 -0700
+
 xubuntu-meta (2.189) vivid; urgency=medium
 
   * Refreshed dependencies

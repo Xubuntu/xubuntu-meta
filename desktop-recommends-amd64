@@ -24,6 +24,7 @@ evince-gtk
 file-roller
 firefox
 fonts-droid
+fonts-guru
 fonts-kacst-one
 fonts-khmeros-core
 fonts-lao
@@ -102,7 +103,6 @@ thunderbird
 transmission-gtk
 ttf-ancient-fonts-symbola
 ttf-indic-fonts-core
-ttf-punjabi-fonts
 ttf-ubuntu-font-family
 update-notifier
 whoopsie

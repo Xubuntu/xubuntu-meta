@@ -8,6 +8,7 @@ cups
 cups-bsd
 cups-client
 cups-filters
+fonts-guru
 fonts-kacst-one
 fonts-khmeros-core
 fonts-lao
@@ -44,7 +45,6 @@ printer-driver-splix
 software-properties-gtk
 ttf-ancient-fonts-symbola
 ttf-indic-fonts-core
-ttf-punjabi-fonts
 ttf-ubuntu-font-family
 xfce4-indicator-plugin
 xfce4-power-manager
