@@ -1,6 +1,3 @@
-abiword
-abiword-plugin-grammar
-abiword-plugin-mathview
 acpi-support
 app-install-data-partner
 apport-gtk
@@ -39,14 +36,12 @@ fonts-thai-tlwg
 fonts-tibetan-machine
 gcc
 gigolo
-gimp
 gmusicbrowser
 gnome-accessibility-themes
 gnome-calculator
 gnome-mines
 gnome-sudoku
 gnome-system-tools
-gnumeric
 gstreamer0.10-plugins-base-apps
 gstreamer0.10-pulseaudio
 gtk-theme-config
@@ -64,6 +59,10 @@ laptop-detect
 libnotify-bin
 libnss-mdns
 libpam-gnome-keyring
+libreoffice-calc
+libreoffice-gtk
+libreoffice-style-tango
+libreoffice-writer
 libxfce4ui-utils
 light-locker
 lightdm-gtk-greeter-settings

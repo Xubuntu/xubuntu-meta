@@ -1,3 +1,23 @@
+xubuntu-meta (2.191) wily; urgency=medium
+
+  * Refreshed dependencies
+  * Added libreoffice-calc to desktop-recommends [amd64 i386]
+  * Added libreoffice-gtk to desktop-recommends [amd64 i386]
+  * Added libreoffice-style-tango to desktop-recommends [amd64 arm64
+    i386 ppc64el]
+  * Added libreoffice-writer to desktop-recommends [amd64 i386]
+  * Removed abiword from desktop-recommends
+  * Removed abiword-plugin-grammar from desktop-recommends
+  * Removed abiword-plugin-mathview from desktop-recommends
+  * Removed gimp from desktop-recommends
+  * Removed gnumeric from desktop-recommends
+  * debian/control:
+    - Bump standards version to 3.9.6 (no changes needed)
+  * debian/source/lintian-overrides:
+    - Ignore pedantic warning no-dep5-copyright
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Mon, 11 May 2015 21:55:37 -0400
+
 xubuntu-meta (2.190) vivid; urgency=medium
 
   * Refreshed dependencies

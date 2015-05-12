@@ -1,6 +1,3 @@
-abiword
-abiword-plugin-grammar
-abiword-plugin-mathview
 app-install-data-partner
 apport-gtk
 apt-offline
@@ -38,12 +35,10 @@ fonts-thai-tlwg
 fonts-tibetan-machine
 gcc
 gigolo
-gimp
 gmusicbrowser
 gnome-accessibility-themes
 gnome-calculator
 gnome-system-tools
-gnumeric
 gstreamer0.10-plugins-base-apps
 gstreamer0.10-pulseaudio
 gtk-theme-config
