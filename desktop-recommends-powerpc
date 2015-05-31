@@ -39,8 +39,8 @@ gmusicbrowser
 gnome-accessibility-themes
 gnome-calculator
 gnome-system-tools
-gstreamer0.10-plugins-base-apps
-gstreamer0.10-pulseaudio
+gstreamer1.0-plugins-base-apps
+gstreamer1.0-pulseaudio
 gtk-theme-config
 gucharmap
 gvfs-backends

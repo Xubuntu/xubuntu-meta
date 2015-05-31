@@ -1,3 +1,13 @@
+xubuntu-meta (2.192) wily; urgency=medium
+
+  * Refreshed dependencies
+  * Added gstreamer1.0-plugins-base-apps to desktop-recommends
+  * Added gstreamer1.0-pulseaudio to desktop-recommends
+  * Removed gstreamer0.10-plugins-base-apps from desktop-recommends
+  * Removed gstreamer0.10-pulseaudio from desktop-recommends
+
+ -- Micah Gersten <micahg@ubuntu.com>  Sat, 30 May 2015 23:21:08 -0500
+
 xubuntu-meta (2.191) wily; urgency=medium
 
   * Refreshed dependencies
