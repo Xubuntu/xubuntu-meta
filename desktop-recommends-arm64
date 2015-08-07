@@ -58,7 +58,7 @@ laptop-detect
 libnotify-bin
 libnss-mdns
 libpam-gnome-keyring
-libreoffice-style-tango
+libreoffice-style-elementary
 libxfce4ui-utils
 light-locker
 lightdm-gtk-greeter-settings

@@ -1,3 +1,13 @@
+xubuntu-meta (2.193) wily; urgency=medium
+
+  * Refreshed dependencies
+  * Added libreoffice-style-elementary to desktop-recommends [amd64
+    arm64 i386 ppc64el]
+  * Removed libreoffice-style-tango from desktop-recommends [amd64 arm64
+    i386 ppc64el]
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Thu, 06 Aug 2015 22:27:42 -0400
+
 xubuntu-meta (2.192) wily; urgency=medium
 
   * Refreshed dependencies
