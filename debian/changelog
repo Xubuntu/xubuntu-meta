@@ -1,3 +1,11 @@
+xubuntu-meta (2.194) wily; urgency=medium
+
+  * Refreshed dependencies
+  * Added pinentry-gtk2 to core-recommends, desktop-recommends
+    (LP: #1473952)
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Sun, 09 Aug 2015 08:36:28 -0400
+
 xubuntu-meta (2.193) wily; urgency=medium
 
   * Refreshed dependencies

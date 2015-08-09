@@ -33,6 +33,7 @@ make
 network-manager-gnome
 pavucontrol
 pcmciautils
+pinentry-gtk2
 policykit-desktop-privileges
 printer-driver-brlaser
 printer-driver-c2esp
