@@ -5,7 +5,6 @@ avahi-autoipd
 avahi-daemon
 blueman
 bluez
-bluez-alsa
 bluez-cups
 brltty
 brltty-x11

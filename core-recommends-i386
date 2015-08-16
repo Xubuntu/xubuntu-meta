@@ -2,7 +2,6 @@ acpi-support
 avahi-autoipd
 avahi-daemon
 bluez
-bluez-alsa
 bluez-cups
 cups
 cups-bsd
