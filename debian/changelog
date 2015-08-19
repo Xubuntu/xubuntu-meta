@@ -1,3 +1,10 @@
+xubuntu-meta (2.196) wily; urgency=medium
+
+  * Refreshed dependencies
+  * Removed libxp6 from core, desktop
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Wed, 19 Aug 2015 11:06:57 +0200
+
 xubuntu-meta (2.195) wily; urgency=medium
 
   * Refreshed dependencies

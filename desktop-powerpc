@@ -16,7 +16,6 @@ language-selector-gnome
 libasound2-plugins
 libpam-systemd
 libsasl2-modules
-libxp6
 lightdm
 lightdm-gtk-greeter
 openprinting-ppds
