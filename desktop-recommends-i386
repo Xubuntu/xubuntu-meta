@@ -16,7 +16,7 @@ cups-client
 cups-filters
 desktop-file-utils
 espeak
-evince-gtk
+evince
 file-roller
 firefox
 fonts-droid

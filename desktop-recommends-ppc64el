@@ -15,7 +15,7 @@ cups-client
 cups-filters
 desktop-file-utils
 espeak
-evince-gtk
+evince
 file-roller
 firefox
 fonts-droid
@@ -57,7 +57,10 @@ laptop-detect
 libnotify-bin
 libnss-mdns
 libpam-gnome-keyring
+libreoffice-calc
+libreoffice-gtk
 libreoffice-style-elementary
+libreoffice-writer
 libxfce4ui-utils
 light-locker
 lightdm-gtk-greeter-settings
