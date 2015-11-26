@@ -1,3 +1,10 @@
+xubuntu-meta (2.199) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Removed gmusicbrowser from desktop-recommends
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Wed, 25 Nov 2015 21:20:01 -0500
+
 xubuntu-meta (2.198) xenial; urgency=medium
 
   * Refreshed dependencies
