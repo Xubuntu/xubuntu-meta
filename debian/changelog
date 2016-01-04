@@ -1,3 +1,9 @@
+xubuntu-meta (2.200) xenial; urgency=high
+
+  * Add s390x.
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Mon, 04 Jan 2016 23:24:02 +0000
+
 xubuntu-meta (2.199) xenial; urgency=medium
 
   * Refreshed dependencies
