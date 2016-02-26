@@ -18,7 +18,6 @@ espeak
 evince
 file-roller
 firefox
-fonts-droid
 fonts-guru
 fonts-kacst-one
 fonts-khmeros-core
@@ -26,6 +25,7 @@ fonts-lao
 fonts-liberation
 fonts-lklug-sinhala
 fonts-nanum
+fonts-noto-hinted
 fonts-opensymbol
 fonts-sil-abyssinica
 fonts-sil-padauk
@@ -95,7 +95,6 @@ thunar-media-tags-plugin
 thunderbird
 transmission-gtk
 ttf-ancient-fonts-symbola
-ttf-indic-fonts-core
 ttf-ubuntu-font-family
 update-notifier
 whoopsie
