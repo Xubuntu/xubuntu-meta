@@ -38,6 +38,7 @@ gigolo
 gnome-accessibility-themes
 gnome-calculator
 gnome-mines
+gnome-software
 gnome-sudoku
 gnome-system-tools
 gstreamer1.0-plugins-base-apps
@@ -91,7 +92,6 @@ printer-driver-sag-gdi
 printer-driver-splix
 ristretto
 simple-scan
-software-center
 software-properties-gtk
 speech-dispatcher
 system-config-printer-gnome

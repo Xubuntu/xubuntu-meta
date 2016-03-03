@@ -1,3 +1,11 @@
+xubuntu-meta (2.202) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnome-software to desktop-recommends
+  * Removed software-center from desktop-recommends
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Wed, 02 Mar 2016 19:51:49 -0500
+
 xubuntu-meta (2.201) xenial; urgency=medium
 
   * Refreshed dependencies

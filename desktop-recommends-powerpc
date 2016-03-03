@@ -36,6 +36,7 @@ gcc
 gigolo
 gnome-accessibility-themes
 gnome-calculator
+gnome-software
 gnome-system-tools
 gstreamer1.0-plugins-base-apps
 gstreamer1.0-pulseaudio
@@ -84,7 +85,6 @@ printer-driver-sag-gdi
 printer-driver-splix
 ristretto
 simple-scan
-software-center
 software-properties-gtk
 speech-dispatcher
 system-config-printer-gnome
