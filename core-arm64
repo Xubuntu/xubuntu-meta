@@ -13,7 +13,6 @@ ghostscript-x
 gtk2-engines-pixbuf
 inputattach
 libasound2-plugins
-libpam-systemd
 libsasl2-modules
 lightdm
 lightdm-gtk-greeter

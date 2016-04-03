@@ -1,3 +1,13 @@
+xubuntu-meta (2.203) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added fwupd to core-recommends, desktop-recommends
+  * Added fwupdate to core-recommends [amd64 arm64 armhf i386], desktop-
+    recommends [amd64 arm64 armhf i386]
+  * Removed libpam-systemd from core, desktop
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Sun, 03 Apr 2016 02:12:44 -0600
+
 xubuntu-meta (2.202) xenial; urgency=medium
 
   * Refreshed dependencies
