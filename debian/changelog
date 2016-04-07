@@ -1,3 +1,10 @@
+xubuntu-meta (2.205) xenial; urgency=medium
+
+  * Refreshed dependencies
+  * Added fonts-noto-cjk to desktop-recommends (LP: #1468027)
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Wed, 06 Apr 2016 21:59:33 -0400
+
 xubuntu-meta (2.204) xenial; urgency=medium
 
   * Refreshed dependencies
