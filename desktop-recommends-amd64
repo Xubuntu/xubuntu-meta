@@ -36,6 +36,7 @@ fonts-thai-tlwg
 fonts-tibetan-machine
 fwupd
 fwupdate
+fwupdate-signed
 gcc
 gigolo
 gnome-accessibility-themes
@@ -94,6 +95,7 @@ printer-driver-sag-gdi
 printer-driver-splix
 ristretto
 simple-scan
+snapd
 software-properties-gtk
 speech-dispatcher
 system-config-printer-gnome

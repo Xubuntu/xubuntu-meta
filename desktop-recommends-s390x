@@ -92,6 +92,7 @@ printer-driver-sag-gdi
 printer-driver-splix
 ristretto
 simple-scan
+snapd
 software-properties-gtk
 speech-dispatcher
 system-config-printer-gnome
