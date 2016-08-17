@@ -1,3 +1,11 @@
+xubuntu-meta (2.207) yakkety; urgency=medium
+
+  * Update seeds to yakkety
+  * Refreshed dependencies
+  * Added packagekit to core-recommends, desktop-recommends
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Tue, 16 Aug 2016 18:58:51 -0600
+
 xubuntu-meta (2.206) xenial; urgency=medium
 
   * Refreshed dependencies

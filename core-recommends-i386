@@ -33,6 +33,7 @@ libpam-gnome-keyring
 light-locker
 make
 network-manager-gnome
+packagekit
 pavucontrol
 pcmciautils
 pinentry-gtk2
