@@ -45,6 +45,7 @@ gnome-mines
 gnome-software
 gnome-sudoku
 gnome-system-tools
+greybird-gtk-theme
 gstreamer1.0-pulseaudio
 gtk-theme-config
 gucharmap
@@ -75,6 +76,7 @@ mugshot
 network-manager-gnome
 network-manager-pptp
 network-manager-pptp-gnome
+numix-gtk-theme
 onboard
 orage
 packagekit

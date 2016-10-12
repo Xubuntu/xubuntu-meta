@@ -1,3 +1,12 @@
+xubuntu-meta (2.208) yakkety; urgency=medium
+
+  * Refreshed dependencies
+  * Added greybird-gtk-theme to desktop-recommends
+  * Added numix-gtk-theme to desktop-recommends
+  * Removed firefox from desktop-recommends [powerpc ppc64el s390x]
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Tue, 11 Oct 2016 22:27:49 -0600
+
 xubuntu-meta (2.207) yakkety; urgency=medium
 
   * Update seeds to yakkety
