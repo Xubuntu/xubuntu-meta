@@ -19,7 +19,6 @@ lightdm
 lightdm-gtk-greeter
 memtest86+
 openprinting-ppds
-pm-utils
 printer-driver-pnm2ppa
 rfkill
 thunar

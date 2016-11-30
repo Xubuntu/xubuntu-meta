@@ -51,7 +51,6 @@ hplip
 im-config
 indicator-application
 indicator-messages
-indicator-sound
 inxi
 kerneloops-daemon
 laptop-detect

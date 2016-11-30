@@ -19,7 +19,6 @@ lightdm
 lightdm-gtk-greeter
 openprinting-ppds
 pbbuttonsd
-pm-utils
 printer-driver-pnm2ppa
 rfkill
 thunar

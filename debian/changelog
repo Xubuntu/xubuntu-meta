@@ -1,3 +1,13 @@
+xubuntu-meta (2.209) zesty; urgency=medium
+
+  * Switch to zesty seeds.
+  * Refreshed dependencies
+  * Removed indicator-sound from core-recommends [s390x], desktop-
+    recommends [s390x]
+  * Removed pm-utils from core, desktop (LP: #1646036)
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 30 Nov 2016 10:52:02 +0100
+
 xubuntu-meta (2.208) yakkety; urgency=medium
 
   * Refreshed dependencies
