@@ -100,7 +100,7 @@ simple-scan
 snapd
 software-properties-gtk
 speech-dispatcher
-system-config-printer-gnome
+system-config-printer
 thunar-archive-plugin
 thunar-media-tags-plugin
 thunderbird

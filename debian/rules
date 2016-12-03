@@ -1,6 +1,6 @@
 #! /usr/bin/make -f
 %:
-	dh --with germinate $@
+	dh $@ --with germinate
 
 override_dh_germinate_metapackage:
 	dh_germinate_metapackage

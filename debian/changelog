@@ -1,3 +1,14 @@
+xubuntu-meta (2.210) zesty; urgency=medium
+
+  * Refreshed dependencies
+  * Added firefox to desktop-recommends [ppc64el]
+  * Added system-config-printer to desktop-recommends (LP: #1643129)
+  * Removed system-config-printer-gnome from desktop-recommends
+  * Updated Standards-Version to 3.9.8
+    - debian/compat, debian/control, debian/rules
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Sat, 03 Dec 2016 12:05:57 -0500
+
 xubuntu-meta (2.209) zesty; urgency=medium
 
   * Switch to zesty seeds.
