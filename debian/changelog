@@ -1,3 +1,10 @@
+xubuntu-meta (2.211) zesty; urgency=medium
+
+  * Refreshed dependencies
+  * Added sgt-launcher to desktop-recommends
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Sat, 31 Dec 2016 06:38:41 -0500
+
 xubuntu-meta (2.210) zesty; urgency=medium
 
   * Refreshed dependencies
