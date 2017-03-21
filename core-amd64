@@ -16,7 +16,6 @@ libasound2-plugins
 libsasl2-modules
 lightdm
 lightdm-gtk-greeter
-memtest86+
 openprinting-ppds
 printer-driver-pnm2ppa
 rfkill

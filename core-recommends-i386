@@ -32,6 +32,7 @@ libnss-mdns
 libpam-gnome-keyring
 light-locker
 make
+memtest86+
 network-manager-gnome
 packagekit
 pavucontrol

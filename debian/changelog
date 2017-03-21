@@ -1,3 +1,11 @@
+xubuntu-meta (2.212) zesty; urgency=medium
+
+  * Refreshed dependencies and remove powerpc.
+  * Moved memtest86+ to core-recommends [amd64 i386], desktop-recommends
+    [amd64 i386]
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Mon, 20 Mar 2017 18:30:56 -0600
+
 xubuntu-meta (2.211) zesty; urgency=medium
 
   * Refreshed dependencies
