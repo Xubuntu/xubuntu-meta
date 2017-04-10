@@ -21,6 +21,7 @@ gcc
 gucharmap
 hplip
 indicator-application
+indicator-sound
 kerneloops-daemon
 laptop-detect
 libnotify-bin

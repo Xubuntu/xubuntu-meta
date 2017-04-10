@@ -1,3 +1,11 @@
+xubuntu-meta (2.213) zesty; urgency=medium
+
+  * Refreshed dependencies
+  * Added indicator-sound to core-recommends [s390x], desktop-recommends
+    [s390x]
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Mon, 10 Apr 2017 07:51:57 -0600
+
 xubuntu-meta (2.212) zesty; urgency=medium
 
   * Refreshed dependencies and remove powerpc.
