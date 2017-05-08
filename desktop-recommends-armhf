@@ -36,7 +36,6 @@ fonts-tibetan-machine
 fwupd
 fwupdate
 fwupdate-signed
-gcc
 gigolo
 gnome-accessibility-themes
 gnome-calculator
@@ -64,7 +63,6 @@ libpam-gnome-keyring
 libxfce4ui-utils
 light-locker
 lightdm-gtk-greeter-settings
-make
 menulibre
 mousepad
 mugshot

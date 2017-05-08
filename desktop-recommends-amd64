@@ -37,7 +37,6 @@ fonts-tibetan-machine
 fwupd
 fwupdate
 fwupdate-signed
-gcc
 gigolo
 gnome-accessibility-themes
 gnome-calculator
@@ -69,7 +68,6 @@ libreoffice-writer
 libxfce4ui-utils
 light-locker
 lightdm-gtk-greeter-settings
-make
 memtest86+
 menulibre
 mousepad

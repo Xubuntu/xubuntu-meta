@@ -17,7 +17,6 @@ fonts-takao-pgothic
 fonts-thai-tlwg
 fonts-tibetan-machine
 fwupd
-gcc
 gucharmap
 hplip
 indicator-application
@@ -28,7 +27,6 @@ libnotify-bin
 libnss-mdns
 libpam-gnome-keyring
 light-locker
-make
 network-manager-gnome
 packagekit
 pavucontrol

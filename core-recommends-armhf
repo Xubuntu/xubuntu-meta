@@ -19,7 +19,6 @@ fonts-tibetan-machine
 fwupd
 fwupdate
 fwupdate-signed
-gcc
 gucharmap
 hplip
 indicator-application
@@ -30,7 +29,6 @@ libnotify-bin
 libnss-mdns
 libpam-gnome-keyring
 light-locker
-make
 network-manager-gnome
 packagekit
 pavucontrol

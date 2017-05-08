@@ -1,3 +1,11 @@
+xubuntu-meta (2.214) artful; urgency=medium
+
+  * Refreshed dependencies
+  * Removed gcc from core-recommends, desktop-recommends
+  * Removed make from core-recommends, desktop-recommends
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Mon, 08 May 2017 17:18:23 -0600
+
 xubuntu-meta (2.213) zesty; urgency=medium
 
   * Refreshed dependencies

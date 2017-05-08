@@ -34,7 +34,6 @@ fonts-takao-pgothic
 fonts-thai-tlwg
 fonts-tibetan-machine
 fwupd
-gcc
 gigolo
 gnome-accessibility-themes
 gnome-calculator
@@ -66,7 +65,6 @@ libreoffice-writer
 libxfce4ui-utils
 light-locker
 lightdm-gtk-greeter-settings
-make
 menulibre
 mousepad
 mugshot
