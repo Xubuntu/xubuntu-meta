@@ -21,7 +21,7 @@ gucharmap
 hplip
 indicator-application
 indicator-sound
-kerneloops-daemon
+kerneloops
 laptop-detect
 libnotify-bin
 libnss-mdns

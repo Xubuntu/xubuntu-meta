@@ -1,3 +1,12 @@
+xubuntu-meta (2.215) artful; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnome-font-viewer to desktop-recommends
+  * Added kerneloops to core-recommends, desktop-recommends
+  * Removed kerneloops-daemon from core-recommends, desktop-recommends
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Mon, 03 Jul 2017 06:09:06 -0400
+
 xubuntu-meta (2.214) artful; urgency=medium
 
   * Refreshed dependencies

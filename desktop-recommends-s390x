@@ -36,6 +36,7 @@ fwupd
 gigolo
 gnome-accessibility-themes
 gnome-calculator
+gnome-font-viewer
 gnome-mines
 gnome-software
 gnome-sudoku
@@ -52,7 +53,7 @@ indicator-application
 indicator-messages
 indicator-sound
 inxi
-kerneloops-daemon
+kerneloops
 laptop-detect
 libnotify-bin
 libnss-mdns
