@@ -1,3 +1,13 @@
+xubuntu-meta (2.216) artful; urgency=medium
+
+  * Refreshed dependencies
+  * Added xserver-xorg-input-synaptics to core-recommends, desktop-
+    recommends (LP: #1686081)
+  * Update Standards-Version to 4.0.0
+    - debian/control
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Mon, 18 Sep 2017 20:44:45 -0400
+
 xubuntu-meta (2.215) artful; urgency=medium
 
   * Refreshed dependencies
