@@ -1,3 +1,12 @@
+xubuntu-meta (2.217) artful; urgency=medium
+
+  * Refreshed dependencies
+  * Added xserver-xorg-input-all to core-recommends, desktop-recommends
+  * Removed firefox from desktop-recommends [ppc64el]
+  * Removed gnome-software from desktop-recommends [s389x]
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Sun, 24 Sep 2017 23:29:29 -0400
+
 xubuntu-meta (2.216) artful; urgency=medium
 
   * Refreshed dependencies

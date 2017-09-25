@@ -17,7 +17,6 @@ desktop-file-utils
 espeak
 evince
 file-roller
-firefox
 fonts-guru
 fonts-kacst-one
 fonts-khmeros-core
@@ -128,6 +127,7 @@ xfce4-weather-plugin
 xfce4-whiskermenu-plugin
 xfce4-xkb-plugin
 xfpanel-switch
+xserver-xorg-input-all
 xserver-xorg-input-synaptics
 xubuntu-community-wallpapers
 xubuntu-docs
