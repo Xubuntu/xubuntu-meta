@@ -17,7 +17,7 @@ desktop-file-utils
 espeak
 evince
 file-roller
-fonts-guru
+fonts-indic
 fonts-kacst-one
 fonts-khmeros-core
 fonts-lao
@@ -38,6 +38,7 @@ gnome-accessibility-themes
 gnome-calculator
 gnome-font-viewer
 gnome-mines
+gnome-software
 gnome-sudoku
 gnome-system-tools
 greybird-gtk-theme
@@ -99,7 +100,6 @@ speech-dispatcher
 system-config-printer
 thunar-archive-plugin
 thunar-media-tags-plugin
-thunderbird
 transmission-gtk
 ttf-ancient-fonts-symbola
 ttf-ubuntu-font-family

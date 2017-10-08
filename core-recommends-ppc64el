@@ -6,11 +6,14 @@ cups
 cups-bsd
 cups-client
 cups-filters
-fonts-guru
+fonts-indic
 fonts-kacst-one
 fonts-khmeros-core
 fonts-lao
+fonts-liberation
 fonts-lklug-sinhala
+fonts-nanum
+fonts-noto-cjk
 fonts-sil-abyssinica
 fonts-sil-padauk
 fonts-takao-pgothic

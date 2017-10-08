@@ -1,3 +1,16 @@
+xubuntu-meta (2.218) artful; urgency=medium
+
+  * Refreshed dependencies
+  * Added fonts-indic to core-recommends, desktop-recommends
+  * Added fonts-liberation to core-recommends
+  * Added fonts-nanum to core-recommends
+  * Added fonts-noto-cjk to core-recommends
+  * Added gnome-software to desktop-recommends [s390x]
+  * Removed fonts-guru from core-recommends, desktop-recommends
+  * Removed thunderbird from desktop-recommends [s390x]
+
+ -- Jeremy Bicha <jbicha@ubuntu.com>  Sun, 08 Oct 2017 18:40:37 -0400
+
 xubuntu-meta (2.217) artful; urgency=medium
 
   * Refreshed dependencies
