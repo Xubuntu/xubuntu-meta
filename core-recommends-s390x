@@ -22,8 +22,6 @@ fonts-tibetan-machine
 fwupd
 gucharmap
 hplip
-indicator-application
-indicator-sound
 kerneloops
 laptop-detect
 libnotify-bin
@@ -50,9 +48,10 @@ ttf-ancient-fonts-symbola
 ttf-ubuntu-font-family
 xfce4-indicator-plugin
 xfce4-power-manager
+xfce4-pulseaudio-plugin
 xfce4-screenshooter
+xfce4-statusnotifier-plugin
 xfce4-terminal
-xfce4-volumed
 xfce4-whiskermenu-plugin
 xserver-xorg-input-all
 xserver-xorg-input-synaptics

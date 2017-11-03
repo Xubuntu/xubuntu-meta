@@ -1,3 +1,19 @@
+xubuntu-meta (2.219) bionic; urgency=medium
+
+  * Refreshed dependencies
+  * Added xfce4-pulseaudio-plugin to core-recommends [s390x], desktop-
+    recommends [s390x]
+  * Added xfce4-statusnotifier-plugin to core-recommends [s390x],
+    desktop-recommends [s390x]
+  * Removed indicator-application from core-recommends [s390x], desktop-
+    recommends [s390x]
+  * Removed indicator-sound from core-recommends [s390x], desktop-
+    recommends [s390x]
+  * Removed xfce4-volumed from core-recommends [s390x], desktop-
+    recommends [s390x]
+
+ -- Bhavani Shankar <bhavi@ubuntu.com>  Fri, 03 Nov 2017 21:58:47 +0530
+
 xubuntu-meta (2.218) artful; urgency=medium
 
   * Refreshed dependencies

@@ -52,9 +52,7 @@ gvfs-backends
 gvfs-fuse
 hplip
 im-config
-indicator-application
 indicator-messages
-indicator-sound
 inxi
 kerneloops
 laptop-detect
@@ -115,13 +113,14 @@ xfce4-netload-plugin
 xfce4-notes-plugin
 xfce4-places-plugin
 xfce4-power-manager
+xfce4-pulseaudio-plugin
 xfce4-quicklauncher-plugin
 xfce4-screenshooter
+xfce4-statusnotifier-plugin
 xfce4-systemload-plugin
 xfce4-taskmanager
 xfce4-terminal
 xfce4-verve-plugin
-xfce4-volumed
 xfce4-weather-plugin
 xfce4-whiskermenu-plugin
 xfce4-xkb-plugin
