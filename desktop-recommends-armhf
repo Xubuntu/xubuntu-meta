@@ -1,6 +1,7 @@
 app-install-data-partner
 apport-gtk
 apt-offline
+atril
 avahi-autoipd
 avahi-daemon
 blueman
@@ -14,9 +15,8 @@ cups-bsd
 cups-client
 cups-filters
 desktop-file-utils
+engrampa
 espeak
-evince
-file-roller
 firefox
 fonts-indic
 fonts-kacst-one
@@ -24,13 +24,11 @@ fonts-khmeros-core
 fonts-lao
 fonts-liberation
 fonts-lklug-sinhala
-fonts-nanum
 fonts-noto-cjk
 fonts-noto-hinted
 fonts-opensymbol
 fonts-sil-abyssinica
 fonts-sil-padauk
-fonts-takao-pgothic
 fonts-thai-tlwg
 fonts-tibetan-machine
 fwupd
@@ -38,7 +36,6 @@ fwupdate
 fwupdate-signed
 gigolo
 gnome-accessibility-themes
-gnome-calculator
 gnome-font-viewer
 gnome-mines
 gnome-software
@@ -62,6 +59,7 @@ libpam-gnome-keyring
 libxfce4ui-utils
 light-locker
 lightdm-gtk-greeter-settings
+mate-calc
 menulibre
 mousepad
 mugshot

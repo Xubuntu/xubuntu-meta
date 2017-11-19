@@ -1,3 +1,17 @@
+xubuntu-meta (2.220) bionic; urgency=medium
+
+  * Refreshed dependencies
+  * Added atril to desktop-recommends
+  * Added engrampa to desktop-recommends
+  * Added mate-calc to desktop-recommends
+  * Removed evince from desktop-recommends
+  * Removed file-roller from desktop-recommends
+  * Removed fonts-nanum from core-recommends, desktop-recommends
+  * Removed fonts-takao-pgothic from core-recommends, desktop-recommends
+  * Removed gnome-calculator from desktop-recommends
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Sun, 19 Nov 2017 10:07:31 -0500
+
 xubuntu-meta (2.219) bionic; urgency=medium
 
   * Refreshed dependencies
