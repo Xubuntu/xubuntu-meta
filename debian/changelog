@@ -1,3 +1,10 @@
+xubuntu-meta (2.221) bionic; urgency=medium
+
+  * Refreshed dependencies
+  * Removed app-install-data-partner from desktop-recommends
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Tue, 21 Nov 2017 19:29:10 -0500
+
 xubuntu-meta (2.220) bionic; urgency=medium
 
   * Refreshed dependencies
