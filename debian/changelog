@@ -1,3 +1,23 @@
+xubuntu-meta (2.222) bionic; urgency=medium
+
+  * Refreshed dependencies
+  * Added firefox to desktop-recommends [ppc64el]
+  * Added fonts-ubuntu to core-recommends, desktop-recommends
+  * Added libu2f-udev to core, desktop
+  * Added numlockx to desktop-recommends (LP: #1746556)
+  * Added printer-driver-m2300w to core-recommends, desktop-recommends
+  * Added spice-vdagent to core, desktop
+  * Removed gtk-theme-config from desktop-recommends
+  * Removed ttf-ancient-fonts-symbola from core-recommends, desktop-
+    recommends
+  * Removed ttf-ubuntu-font-family from core-recommends, desktop-
+    recommends
+  * d/control, d/compat:
+    - Bump standards version to 4.1.3, debhelper to 11
+  * d/changelog: Striped trailing whitespace
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Thu, 01 Mar 2018 00:33:47 -0500
+
 xubuntu-meta (2.221) bionic; urgency=medium
 
   * Refreshed dependencies
@@ -929,7 +949,7 @@ xubuntu-meta (2.128) natty; urgency=low
   * Refreshed dependencies
   * Added gnome-time-admin to desktop-recommends [armel powerpc]
   * Removed indicator-messages from desktop-recommends (LP: #757754)
-    This package will be added as a recommends of 
+    This package will be added as a recommends of
     "xfce4-indicator-plugin" and removing it from the explicit
     list means that the upgrade will not bring in gnome-panel
 
@@ -1523,7 +1543,7 @@ xubuntu-meta (2.76) jaunty; urgency=low
     ia64 lpia powerpc sparc]
   * Removed xfce4-dict from desktop-recommends [amd64 hppa i386 ia64
     lpia powerpc sparc]
-  * Added armel, updated for jaunty 
+  * Added armel, updated for jaunty
 
  -- Sarah Hobbs <hobbsee@ubuntu.com>  Sat, 13 Dec 2008 11:32:26 +1100
 
@@ -1909,7 +1929,7 @@ xubuntu-meta (2.59) hardy; urgency=low
     ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
     recommends-lpia
   * Removed xfmedia from desktop-i386, desktop-amd64, desktop-powerpc,
-    desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia (should fix 
+    desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia (should fix
     LP: #188030 and un-break daily builds).
 
  -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Tue, 05 Feb 2008 22:49:33 +0100
@@ -2219,7 +2239,7 @@ xubuntu-meta (2.46) gutsy; urgency=low
     desktop-ia64, desktop-sparc, desktop-lpia
   * Removed thunar-volman-plugin from desktop-i386, desktop-amd64,
     desktop-powerpc, desktop-ia64, desktop-sparc, desktop-lpia
-  * debian/rules: drop auto-replace regexp for xubuntu-system-tools and 
+  * debian/rules: drop auto-replace regexp for xubuntu-system-tools and
     gcalctool.
 
  -- Lionel Le Folgoc <mrpouit@ubuntu.com>  Fri, 14 Sep 2007 23:59:26 +0200
@@ -3087,7 +3107,7 @@ xubuntu-meta (2.8) edgy; urgency=low
     powerpc, minimal-ia64, minimal-sparc, minimal-hppa
   * Added apport-gtk to desktop-i386, desktop-amd64, desktop-powerpc,
     desktop-ia64, desktop-sparc, desktop-hppa
-  * Removed initscripts from minimal-i386, minimal-amd64, 
+  * Removed initscripts from minimal-i386, minimal-amd64,
     minimal-powerpc, minimal-ia64, minimal-sparc, minimal-hppa
 
  -- Gauvain Pocentek <gauvainpocentek@ubuntu.com>  Sat, 12 Aug 2006 16:35:07 +0200
@@ -3932,10 +3952,10 @@ xubuntu-meta (1.5) dapper; urgency=low
    * Update maintainer email address
    * Switch update script to dapper
 
- -- Jani Monoses <jani@ubuntu.com>  Tue, 8 Nov 2005 23:28:46 +0200 
+ -- Jani Monoses <jani@ubuntu.com>  Tue, 8 Nov 2005 23:28:46 +0200
 
 xubuntu-meta (1.4) breezy; urgency=low
-  
+
   * Remove minimal- and standard- package lists as they are not specfic
     to xubuntu
   * Refreshed dependencies
@@ -4434,7 +4454,7 @@ xubuntu-meta (1.3) breezy; urgency=low
 xubuntu-meta (1.2) breezy; urgency=low
 
   * Add xfce4-taskmanager and xubuntu-artwork
-  * Explicitely add libesd-alsa0 so libesd0 is not picked instead. 
+  * Explicitely add libesd-alsa0 so libesd0 is not picked instead.
 
  -- Jani Monoses <jani@ubuntu.com>  Mon, 10 Oct 2005 19:41:46 +0300
 
@@ -4447,7 +4467,7 @@ xubuntu-meta (1.1) breezy; urgency=low
     xfce4-sensors-plugin
     xfce4-taskbar-plugin
     xfce4-windowlist-plugin
-    xfce4-xkb-plugin 
+    xfce4-xkb-plugin
 
  -- Jani Monoses <jani@ubuntu.com>  Fri,  7 Oct 2005 17:17:28 +0300
 
@@ -4497,7 +4517,7 @@ xubuntu-meta (0.4) breezy; urgency=low
 
 xubuntu-meta (0.3) breezy; urgency=low
 
-  * Remove live-i386 and desktop-i386 from the source package as they 
+  * Remove live-i386 and desktop-i386 from the source package as they
     are generated at package build time
 
  --  Jani Monoses <jani@email.ro>  Mon, 26 Sep 2005 21:28:19 +0300

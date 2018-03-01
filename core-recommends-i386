@@ -18,6 +18,7 @@ fonts-sil-abyssinica
 fonts-sil-padauk
 fonts-thai-tlwg
 fonts-tibetan-machine
+fonts-ubuntu
 fwupd
 fwupdate
 fwupdate-signed
@@ -39,6 +40,7 @@ policykit-desktop-privileges
 printer-driver-brlaser
 printer-driver-c2esp
 printer-driver-foo2zjs
+printer-driver-m2300w
 printer-driver-min12xxw
 printer-driver-ptouch
 printer-driver-pxljr
@@ -46,8 +48,6 @@ printer-driver-sag-gdi
 printer-driver-splix
 snapd
 software-properties-gtk
-ttf-ancient-fonts-symbola
-ttf-ubuntu-font-family
 xfce4-indicator-plugin
 xfce4-power-manager
 xfce4-pulseaudio-plugin

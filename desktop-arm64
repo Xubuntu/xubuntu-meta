@@ -15,11 +15,13 @@ inputattach
 language-selector-gnome
 libasound2-plugins
 libsasl2-modules
+libu2f-udev
 lightdm
 lightdm-gtk-greeter
 openprinting-ppds
 printer-driver-pnm2ppa
 rfkill
+spice-vdagent
 thunar
 thunar-volman
 tumbler
