@@ -30,6 +30,7 @@ libnss-mdns
 libpam-gnome-keyring
 light-locker
 network-manager-gnome
+numlockx
 packagekit
 pavucontrol
 pcmciautils

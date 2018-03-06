@@ -32,6 +32,7 @@ libpam-gnome-keyring
 light-locker
 memtest86+
 network-manager-gnome
+numlockx
 packagekit
 pavucontrol
 pcmciautils

@@ -1,3 +1,10 @@
+xubuntu-meta (2.223) bionic; urgency=medium
+
+  * Refreshed dependencies
+  * Added numlockx to core-recommends
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Tue, 06 Mar 2018 18:54:25 -0500
+
 xubuntu-meta (2.222) bionic; urgency=medium
 
   * Refreshed dependencies
