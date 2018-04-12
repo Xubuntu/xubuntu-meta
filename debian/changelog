@@ -1,3 +1,16 @@
+xubuntu-meta (2.225) bionic; urgency=medium
+
+  * Refreshed dependencies
+  * Added libreoffice-gnome to desktop-recommends [amd64 arm64 i386
+    ppc64el s390x]
+    - Enables editing files accessed with gvfs (LP: #1689008)
+    - Pulls libreoffice-gtk3 which is graphically similar to
+      libreoffice-gtk2 but better supported (LP: #1762569)
+  * Removed libreoffice-gtk from desktop-recommends [amd64 arm64 i386
+    ppc64el s390x]
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Wed, 11 Apr 2018 21:40:15 -0400
+
 xubuntu-meta (2.224) bionic; urgency=medium
 
   * Refreshed dependencies

@@ -57,7 +57,7 @@ libnotify-bin
 libnss-mdns
 libpam-gnome-keyring
 libreoffice-calc
-libreoffice-gtk
+libreoffice-gnome
 libreoffice-style-elementary
 libreoffice-writer
 libxfce4ui-utils
