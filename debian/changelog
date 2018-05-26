@@ -1,3 +1,13 @@
+xubuntu-meta (2.226) cosmic; urgency=medium
+
+  * dist: bionic -> cosmic
+  * Refreshed dependencies
+  * Added firefox to desktop-recommends [s390x]
+  * update, update.cfg:
+    - Updated seed locations to git
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Sat, 26 May 2018 10:10:02 -0400
+
 xubuntu-meta (2.225) bionic; urgency=medium
 
   * Refreshed dependencies
