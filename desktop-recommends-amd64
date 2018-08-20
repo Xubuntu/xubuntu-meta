@@ -34,8 +34,7 @@ fonts-thai-tlwg
 fonts-tibetan-machine
 fonts-ubuntu
 fwupd
-fwupdate
-fwupdate-signed
+fwupd-signed
 gigolo
 gnome-accessibility-themes
 gnome-font-viewer

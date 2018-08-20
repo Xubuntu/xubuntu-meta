@@ -1,3 +1,15 @@
+xubuntu-meta (2.227) cosmic; urgency=medium
+
+  * Refreshed dependencies
+  * Added fwupd-signed to core-recommends [arm64 armhf], desktop-
+    recommends [arm64 armhf]
+  * Removed fwupdate from core-recommends [arm64 armhf], desktop-
+    recommends [arm64 armhf]
+  * Removed fwupdate-signed from core-recommends [arm64 armhf], desktop-
+    recommends [arm64 armhf]
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Mon, 20 Aug 2018 16:12:22 +0000
+
 xubuntu-meta (2.226) cosmic; urgency=medium
 
   * dist: bionic -> cosmic
