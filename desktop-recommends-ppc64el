@@ -1,5 +1,6 @@
 apport-gtk
 apt-offline
+apturl
 atril
 avahi-autoipd
 avahi-daemon
@@ -34,6 +35,7 @@ fonts-tibetan-machine
 fonts-ubuntu
 fwupd
 gigolo
+gimp
 gnome-accessibility-themes
 gnome-font-viewer
 gnome-mines
@@ -56,6 +58,7 @@ libnss-mdns
 libpam-gnome-keyring
 libreoffice-calc
 libreoffice-gnome
+libreoffice-impress
 libreoffice-style-elementary
 libreoffice-writer
 libxfce4ui-utils
@@ -71,7 +74,6 @@ network-manager-pptp-gnome
 numix-gtk-theme
 numlockx
 onboard
-orage
 packagekit
 parole
 pastebinit
@@ -114,7 +116,6 @@ xfce4-notes-plugin
 xfce4-places-plugin
 xfce4-power-manager
 xfce4-pulseaudio-plugin
-xfce4-quicklauncher-plugin
 xfce4-screenshooter
 xfce4-statusnotifier-plugin
 xfce4-systemload-plugin

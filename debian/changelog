@@ -1,3 +1,16 @@
+xubuntu-meta (2.228) disco; urgency=medium
+
+  * dist: cosmic -> disco
+  * Refreshed dependencies
+  * Added apturl to desktop-recommends
+  * Added gimp to desktop-recommends
+  * Added libreoffice-impress to desktop-recommends [amd64 arm64 i386
+    ppc64el s390x]
+  * Removed orage from desktop-recommends
+  * Removed xfce4-quicklauncher-plugin from desktop-recommends
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Sat, 15 Dec 2018 20:47:29 -0500
+
 xubuntu-meta (2.227) cosmic; urgency=medium
 
   * Refreshed dependencies
