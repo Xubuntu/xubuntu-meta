@@ -1,3 +1,11 @@
+xubuntu-meta (2.229) eoan; urgency=medium
+
+  * Refreshed dependencies
+  * Added xfce4-screensaver to core-recommends, desktop-recommends
+  * Removed light-locker from core-recommends, desktop-recommends
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Sun, 30 Jun 2019 13:11:59 -0400
+
 xubuntu-meta (2.228) disco; urgency=medium
 
   * dist: cosmic -> disco

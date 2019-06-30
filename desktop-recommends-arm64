@@ -63,7 +63,6 @@ libreoffice-impress
 libreoffice-style-elementary
 libreoffice-writer
 libxfce4ui-utils
-light-locker
 lightdm-gtk-greeter-settings
 mate-calc
 menulibre
@@ -117,6 +116,7 @@ xfce4-notes-plugin
 xfce4-places-plugin
 xfce4-power-manager
 xfce4-pulseaudio-plugin
+xfce4-screensaver
 xfce4-screenshooter
 xfce4-statusnotifier-plugin
 xfce4-systemload-plugin
