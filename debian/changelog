@@ -1,3 +1,15 @@
+xubuntu-meta (2.230) eoan; urgency=medium
+
+  * Refreshed dependencies
+  * Added support for ZFS in Ubiquity (LP: #1843768)
+    - Added zfs-initramfs to core-recommends [amd64 arm64 ppc64el s390x],
+      desktop-recommends [amd64 arm64 ppc64el s390x]
+    - Added zfsutils-linux to core-recommends, desktop-recommends
+    - Added zsys to core-recommends [amd64 arm64 armhf i386 ppc64el],
+      desktop-recommends [amd64 arm64 armhf i386 ppc64el]
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Wed, 09 Oct 2019 19:37:14 -0400
+
 xubuntu-meta (2.229) eoan; urgency=medium
 
   * Refreshed dependencies
