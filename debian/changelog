@@ -1,3 +1,10 @@
+xubuntu-meta (2.232) focal; urgency=medium
+
+  * Refreshed dependencies
+  * Removed apt-offline from desktop-recommends (LP: #1848755)
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Sat, 26 Oct 2019 11:23:57 -0400
+
 xubuntu-meta (2.231) eoan; urgency=medium
 
   * Refreshed dependencies (LP: #1847739)
