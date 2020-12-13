@@ -1,4 +1,5 @@
 acpi-support
+adwaita-icon-theme-full
 apport-gtk
 apturl
 atril
@@ -113,7 +114,6 @@ xfce4-dict
 xfce4-indicator-plugin
 xfce4-mailwatch-plugin
 xfce4-netload-plugin
-xfce4-notes-plugin
 xfce4-places-plugin
 xfce4-power-manager
 xfce4-pulseaudio-plugin

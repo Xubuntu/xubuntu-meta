@@ -1,3 +1,11 @@
+xubuntu-meta (2.234) hirsute; urgency=medium
+
+  * Refreshed dependencies
+  * Added adwaita-icon-theme-full to desktop-recommends
+  * Removed xfce4-notes-plugin from desktop-recommends
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Sat, 12 Dec 2020 16:03:25 -0800
+
 xubuntu-meta (2.233) focal; urgency=medium
 
   * update.cfg: Stop updating for i386 to avoid unnecessary noise.
