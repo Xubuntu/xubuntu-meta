@@ -1,3 +1,10 @@
+xubuntu-meta (2.235) hirsute; urgency=medium
+
+  * Refreshed dependencies
+  * Added synaptic to core-recommends, desktop-recommends
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Sat, 12 Dec 2020 16:57:55 -0800
+
 xubuntu-meta (2.234) hirsute; urgency=medium
 
   * Refreshed dependencies
