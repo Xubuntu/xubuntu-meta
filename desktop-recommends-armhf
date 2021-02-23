@@ -48,6 +48,7 @@ gstreamer1.0-pulseaudio
 gucharmap
 gvfs-backends
 gvfs-fuse
+hexchat
 hplip
 im-config
 indicator-messages
@@ -108,6 +109,8 @@ xfce4-dict
 xfce4-indicator-plugin
 xfce4-mailwatch-plugin
 xfce4-netload-plugin
+xfce4-notes-plugin
+xfce4-panel-profiles
 xfce4-places-plugin
 xfce4-power-manager
 xfce4-pulseaudio-plugin
@@ -121,7 +124,6 @@ xfce4-verve-plugin
 xfce4-weather-plugin
 xfce4-whiskermenu-plugin
 xfce4-xkb-plugin
-xfpanel-switch
 xserver-xorg-input-all
 xserver-xorg-input-synaptics
 xubuntu-community-wallpapers

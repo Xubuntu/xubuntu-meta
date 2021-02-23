@@ -1,3 +1,14 @@
+xubuntu-meta (2.236) hirsute; urgency=medium
+
+  * Refreshed dependencies
+  * Added hexchat to desktop-recommends
+  * Added xfce4-notes-plugin to desktop-recommends
+  * Added xfce4-panel-profiles to desktop-recommends
+  * Removed genisoimage from core, desktop
+  * Removed xfpanel-switch from desktop-recommends
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Mon, 22 Feb 2021 22:57:34 -0500
+
 xubuntu-meta (2.235) hirsute; urgency=medium
 
   * Refreshed dependencies
