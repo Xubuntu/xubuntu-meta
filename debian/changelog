@@ -1,3 +1,10 @@
+xubuntu-meta (2.237) hirsute; urgency=medium
+
+  * Refreshed dependencies
+  * Moved gnome-software to desktop (LP: #1922157)
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Fri, 16 Apr 2021 07:25:06 -0400
+
 xubuntu-meta (2.236) hirsute; urgency=medium
 
   * Refreshed dependencies
