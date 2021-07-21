@@ -4,6 +4,7 @@ apturl
 atril
 avahi-autoipd
 avahi-daemon
+baobab
 blueman
 bluez
 bluez-cups
@@ -38,6 +39,7 @@ fwupd-signed
 gigolo
 gimp
 gnome-accessibility-themes
+gnome-disk-utility
 gnome-font-viewer
 gnome-mines
 gnome-sudoku
@@ -74,8 +76,6 @@ parole
 pastebinit
 pavucontrol
 pcmciautils
-pidgin
-pidgin-otr
 pinentry-gtk2
 policykit-desktop-privileges
 printer-driver-brlaser
@@ -87,6 +87,7 @@ printer-driver-ptouch
 printer-driver-pxljr
 printer-driver-sag-gdi
 printer-driver-splix
+rhythmbox
 ristretto
 sgt-launcher
 simple-scan
@@ -103,6 +104,7 @@ update-notifier
 whoopsie
 xcursor-themes
 xfburn
+xfce4-clipman-plugin
 xfce4-cpugraph-plugin
 xfce4-dict
 xfce4-indicator-plugin

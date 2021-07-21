@@ -1,3 +1,15 @@
+xubuntu-meta (2.238) impish; urgency=medium
+
+  * Refreshed dependencies
+  * Added baobab to desktop-recommends (LP: #1934932)
+  * Added gnome-disk-utility to desktop-recommends (LP: #1934932)
+  * Added rhythmbox to desktop-recommends (LP: #1934926)
+  * Added xfce4-clipman-plugin to desktop-recommends (LP: #1934925)
+  * Removed pidgin from desktop-recommends (LP: #1936417)
+  * Removed pidgin-otr from desktop-recommends
+
+ -- Sean Davis <smd.seandavis@gmail.com>  Wed, 21 Jul 2021 07:13:01 -0400
+
 xubuntu-meta (2.237) hirsute; urgency=medium
 
   * Refreshed dependencies
