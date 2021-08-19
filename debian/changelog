@@ -1,3 +1,10 @@
+xubuntu-meta (2.239) impish; urgency=medium
+
+  * Refreshed dependencies
+  * Added xcape to core-recommends, desktop-recommends
+
+ -- Sean Davis <sean@bluesabre.org>  Thu, 19 Aug 2021 07:26:14 -0400
+
 xubuntu-meta (2.238) impish; urgency=medium
 
   * Refreshed dependencies
