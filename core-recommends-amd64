@@ -28,6 +28,7 @@ gucharmap
 hplip
 kerneloops
 laptop-detect
+libfuse2
 libnotify-bin
 libnss-mdns
 libpam-gnome-keyring

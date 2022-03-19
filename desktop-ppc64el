@@ -12,6 +12,7 @@ ghostscript-x
 gnome-software
 gtk2-engines-pixbuf
 inputattach
+language-selector-common
 language-selector-gnome
 libasound2-plugins
 libsasl2-modules
