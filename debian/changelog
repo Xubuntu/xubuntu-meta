@@ -1,3 +1,10 @@
+xubuntu-meta (2.241) jammy; urgency=medium
+
+  * Refreshed dependencies
+  * Removed firefox from desktop-recommends (LP: #1966794)
+
+ -- Sean Davis <sean@bluesabre.org>  Mon, 28 Mar 2022 17:56:51 -0400
+
 xubuntu-meta (2.240) jammy; urgency=medium
 
   * Refreshed dependencies
