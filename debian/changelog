@@ -1,3 +1,14 @@
+xubuntu-meta (2.243) kinetic; urgency=medium
+
+  * Refreshed dependencies
+  * Added firefox to desktop-recommends [amd64 arm64 armhf] (LP: #1991470)
+  * d/control:
+    - Bump Standards-Version to 4.6.0.1
+    - Bump debhelper-compat to 13
+    - Set Rules-Requires-Root to no
+
+ -- Sean Davis <sean@bluesabre.org>  Mon, 03 Oct 2022 06:16:59 -0400
+
 xubuntu-meta (2.242) kinetic; urgency=medium
 
   * Update to kinetic.
