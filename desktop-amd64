@@ -20,6 +20,8 @@ libu2f-udev
 lightdm
 lightdm-gtk-greeter
 openprinting-ppds
+pipewire
+pipewire-pulse
 printer-driver-pnm2ppa
 rfkill
 spice-vdagent
