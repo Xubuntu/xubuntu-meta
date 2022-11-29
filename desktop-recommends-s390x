@@ -82,6 +82,8 @@ pastebinit
 pavucontrol
 pcmciautils
 pinentry-gtk2
+pipewire
+pipewire-pulse
 policykit-desktop-privileges
 printer-driver-brlaser
 printer-driver-c2esp
@@ -106,6 +108,7 @@ thunar-media-tags-plugin
 transmission-gtk
 update-notifier
 whoopsie
+wireplumber
 xcape
 xcursor-themes
 xfburn

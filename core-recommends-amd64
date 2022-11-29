@@ -38,6 +38,8 @@ packagekit
 pavucontrol
 pcmciautils
 pinentry-gtk2
+pipewire
+pipewire-pulse
 policykit-desktop-privileges
 printer-driver-brlaser
 printer-driver-c2esp
@@ -51,6 +53,7 @@ printer-driver-splix
 snapd
 software-properties-gtk
 synaptic
+wireplumber
 xcape
 xfce4-indicator-plugin
 xfce4-power-manager
