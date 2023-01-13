@@ -22,6 +22,7 @@ fonts-thai-tlwg
 fonts-tibetan-machine
 fonts-ubuntu
 fwupd
+fwupd-signed
 gucharmap
 hplip
 kerneloops
@@ -58,7 +59,6 @@ xfce4-power-manager
 xfce4-pulseaudio-plugin
 xfce4-screensaver
 xfce4-screenshooter
-xfce4-statusnotifier-plugin
 xfce4-terminal
 xfce4-whiskermenu-plugin
 xserver-xorg-input-all
