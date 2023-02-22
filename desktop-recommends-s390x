@@ -18,7 +18,6 @@ cups-filters
 desktop-file-utils
 engrampa
 espeak
-flatpak
 fonts-indic
 fonts-kacst-one
 fonts-khmeros-core
@@ -41,7 +40,6 @@ gnome-accessibility-themes
 gnome-disk-utility
 gnome-font-viewer
 gnome-mines
-gnome-software-plugin-flatpak
 gnome-sudoku
 gnome-system-tools
 greybird-gtk-theme

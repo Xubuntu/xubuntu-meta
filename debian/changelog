@@ -1,3 +1,13 @@
+xubuntu-meta (2.247) lunar; urgency=medium
+
+  * Refreshed dependencies
+  * Removed flatpak from desktop-recommends
+  * Removed fwupd-signed from desktop-minimal-recommends [armhf],
+    desktop-recommends [armhf]
+  * Removed gnome-software-plugin-flatpak from desktop-recommends
+
+ -- Sean Davis <sean@bluesabre.org>  Wed, 22 Feb 2023 06:30:12 -0500
+
 xubuntu-meta (2.246) lunar; urgency=medium
 
   * Refreshed dependencies
