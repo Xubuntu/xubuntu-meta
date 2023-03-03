@@ -15,6 +15,7 @@ cups
 cups-bsd
 cups-client
 cups-filters
+dbus-x11
 desktop-file-utils
 engrampa
 espeak

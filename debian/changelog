@@ -1,3 +1,11 @@
+xubuntu-meta (2.248) lunar; urgency=medium
+
+  * Refreshed dependencies
+  * Added dbus-x11 to desktop-minimal-recommends, desktop-recommends
+    (LP: #2009145)
+
+ -- Sean Davis <sean@bluesabre.org>  Fri, 03 Mar 2023 05:56:02 -0500
+
 xubuntu-meta (2.247) lunar; urgency=medium
 
   * Refreshed dependencies

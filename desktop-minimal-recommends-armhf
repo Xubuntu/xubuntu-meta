@@ -6,6 +6,7 @@ cups
 cups-bsd
 cups-client
 cups-filters
+dbus-x11
 fonts-indic
 fonts-kacst-one
 fonts-khmeros-core
