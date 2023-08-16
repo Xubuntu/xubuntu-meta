@@ -7,7 +7,6 @@ dmz-cursor-theme
 doc-base
 fonts-dejavu-core
 fonts-freefont-ttf
-foomatic-db-compressed-ppds
 ghostscript-x
 gtk2-engines-pixbuf
 inputattach
@@ -17,8 +16,6 @@ libsasl2-modules
 libu2f-udev
 lightdm
 lightdm-gtk-greeter
-openprinting-ppds
-printer-driver-pnm2ppa
 rfkill
 spice-vdagent
 thunar

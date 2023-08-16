@@ -1,3 +1,60 @@
+xubuntu-meta (2.249) mantic; urgency=medium
+
+  * Refreshed dependencies
+  * Added fonts-noto-core to desktop-minimal-recommends, desktop-
+    recommends
+  * Added mate-polkit to desktop-minimal-recommends, desktop-recommends
+  * Removed bluez-cups from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed cups from desktop-minimal-recommends, desktop-recommends
+  * Removed cups-bsd from desktop-minimal-recommends, desktop-recommends
+  * Removed cups-client from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed cups-filters from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed fonts-indic from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed fonts-kacst-one from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed fonts-khmeros-core from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed fonts-lao from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed fonts-lklug-sinhala from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed fonts-sil-abyssinica from desktop-minimal-recommends,
+    desktop-recommends
+  * Removed fonts-sil-padauk from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed fonts-thai-tlwg from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed fonts-tibetan-machine from desktop-minimal-recommends,
+    desktop-recommends
+  * Removed foomatic-db-compressed-ppds from desktop, desktop-minimal
+  * Removed hplip from desktop-minimal-recommends, desktop-recommends
+  * Removed openprinting-ppds from desktop, desktop-minimal
+  * Removed printer-driver-brlaser from desktop-minimal-recommends,
+    desktop-recommends
+  * Removed printer-driver-c2esp from desktop-minimal-recommends,
+    desktop-recommends
+  * Removed printer-driver-foo2zjs from desktop-minimal-recommends,
+    desktop-recommends
+  * Removed printer-driver-m2300w from desktop-minimal-recommends,
+    desktop-recommends
+  * Removed printer-driver-min12xxw from desktop-minimal-recommends,
+    desktop-recommends
+  * Removed printer-driver-pnm2ppa from desktop, desktop-minimal
+  * Removed printer-driver-ptouch from desktop-minimal-recommends,
+    desktop-recommends
+  * Removed printer-driver-pxljr from desktop-minimal-recommends,
+    desktop-recommends
+  * Removed printer-driver-sag-gdi from desktop-minimal-recommends,
+    desktop-recommends
+  * Removed printer-driver-splix from desktop-minimal-recommends,
+    desktop-recommends
+
+ -- Sean Davis <sean@bluesabre.org>  Tue, 15 Aug 2023 22:11:11 -0400
+
 xubuntu-meta (2.248) lunar; urgency=medium
 
   * Refreshed dependencies
