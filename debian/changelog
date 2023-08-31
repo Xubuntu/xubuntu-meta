@@ -1,3 +1,43 @@
+xubuntu-meta (2.250) mantic; urgency=medium
+
+  * Refreshed dependencies
+  * Added bluez-cups to desktop-minimal-recommends, desktop-recommends
+  * Added cups to desktop-minimal-recommends, desktop-recommends
+  * Added cups-bsd to desktop-minimal-recommends, desktop-recommends
+  * Added cups-client to desktop-minimal-recommends, desktop-recommends
+  * Added cups-filters to desktop-minimal-recommends, desktop-recommends
+  * Added fontconfig to desktop, desktop-minimal
+  * Added fonts-dejavu-mono to desktop-minimal-recommends, desktop-
+    recommends
+  * Added fonts-noto-color-emoji to desktop-minimal-recommends, desktop-
+    recommends
+  * Added foomatic-db-compressed-ppds to desktop, desktop-minimal
+  * Added hplip to desktop-minimal-recommends, desktop-recommends
+  * Added openprinting-ppds to desktop, desktop-minimal
+  * Added printer-driver-brlaser to desktop-minimal-recommends, desktop-
+    recommends
+  * Added printer-driver-c2esp to desktop-minimal-recommends, desktop-
+    recommends
+  * Added printer-driver-foo2zjs to desktop-minimal-recommends, desktop-
+    recommends
+  * Added printer-driver-m2300w to desktop-minimal-recommends, desktop-
+    recommends
+  * Added printer-driver-min12xxw to desktop-minimal-recommends, desktop-
+    recommends
+  * Added printer-driver-pnm2ppa to desktop, desktop-minimal
+  * Added printer-driver-ptouch to desktop-minimal-recommends, desktop-
+    recommends
+  * Added printer-driver-pxljr to desktop-minimal-recommends, desktop-
+    recommends
+  * Added printer-driver-sag-gdi to desktop-minimal-recommends, desktop-
+    recommends
+  * Added printer-driver-splix to desktop-minimal-recommends, desktop-
+    recommends
+  * Removed fonts-dejavu-core from desktop, desktop-minimal
+  * Removed fonts-freefont-ttf from desktop, desktop-minimal
+
+ -- Sean Davis <sean@bluesabre.org>  Thu, 31 Aug 2023 05:40:18 -0400
+
 xubuntu-meta (2.249) mantic; urgency=medium
 
   * Refreshed dependencies
