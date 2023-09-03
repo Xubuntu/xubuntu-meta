@@ -53,6 +53,7 @@ libfuse2
 libnotify-bin
 libnss-mdns
 libpam-gnome-keyring
+libspa-0.2-bluetooth
 libxfce4ui-utils
 lightdm-gtk-greeter-settings
 mate-calc

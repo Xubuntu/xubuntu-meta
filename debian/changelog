@@ -1,3 +1,10 @@
+xubuntu-meta (2.251) mantic; urgency=medium
+
+  * Refreshed dependencies
+  * Added libspa-0.2-bluetooth to desktop-recommends (LP: #2017818)
+
+ -- Sean Davis <sean@bluesabre.org>  Sun, 03 Sep 2023 08:25:26 -0400
+
 xubuntu-meta (2.250) mantic; urgency=medium
 
   * Refreshed dependencies
