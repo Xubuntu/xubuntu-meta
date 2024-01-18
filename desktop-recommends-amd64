@@ -1,5 +1,7 @@
 adwaita-icon-theme-full
 apport-gtk
+appstream
+apt-config-icons-hidpi
 apturl
 atril
 avahi-autoipd
@@ -20,7 +22,6 @@ desktop-file-utils
 engrampa
 espeak
 firefox
-fonts-dejavu-mono
 fonts-liberation
 fonts-noto-cjk
 fonts-noto-color-emoji

@@ -1,5 +1,7 @@
 adwaita-icon-theme-full
 apport-gtk
+appstream
+apt-config-icons-hidpi
 apturl
 atril
 avahi-autoipd
@@ -19,7 +21,6 @@ dbus-x11
 desktop-file-utils
 engrampa
 espeak
-fonts-dejavu-mono
 fonts-liberation
 fonts-noto-cjk
 fonts-noto-color-emoji

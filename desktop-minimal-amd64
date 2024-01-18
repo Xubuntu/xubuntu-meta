@@ -6,8 +6,9 @@ ca-certificates
 dmz-cursor-theme
 doc-base
 fontconfig
+fonts-dejavu-core
 foomatic-db-compressed-ppds
-ghostscript-x
+ghostscript
 gtk2-engines-pixbuf
 inputattach
 language-selector-common

@@ -1,3 +1,17 @@
+xubuntu-meta (2.253) noble; urgency=medium
+
+  * Refreshed dependencies
+  * Added appstream to desktop-recommends
+  * Added apt-config-icons-hidpi to desktop-recommends
+  * Added fonts-dejavu-core to desktop, desktop-minimal
+  * Added ghostscript to desktop, desktop-minimal
+  * Removed fonts-dejavu-mono from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed ghostscript-x from desktop, desktop-minimal
+  * Removed gnome-software from desktop
+
+ -- Sean Davis <sean@bluesabre.org>  Thu, 18 Jan 2024 07:12:37 -0500
+
 xubuntu-meta (2.252) mantic; urgency=medium
 
   * Refreshed dependencies
