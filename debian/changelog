@@ -1,3 +1,11 @@
+xubuntu-meta (2.255) noble; urgency=medium
+
+  * Refreshed dependencies
+  * Removed adwaita-icon-theme-full from desktop-recommends
+    (LP: #2052867)
+
+ -- Sean Davis <sean@bluesabre.org>  Sun, 11 Feb 2024 21:59:26 -0500
+
 xubuntu-meta (2.254) noble; urgency=medium
 
   * Refreshed dependencies
