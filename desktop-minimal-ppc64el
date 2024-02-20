@@ -10,6 +10,7 @@ fonts-dejavu-core
 foomatic-db-compressed-ppds
 ghostscript
 gtk2-engines-pixbuf
+initramfs-tools
 inputattach
 language-selector-common
 libasound2-plugins

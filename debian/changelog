@@ -1,3 +1,10 @@
+xubuntu-meta (2.256) noble; urgency=medium
+
+  * Refreshed dependencies
+  * Added initramfs-tools to desktop, desktop-minimal (LP: #2054341)
+
+ -- Sean Davis <sean@bluesabre.org>  Tue, 20 Feb 2024 05:34:30 -0500
+
 xubuntu-meta (2.255) noble; urgency=medium
 
   * Refreshed dependencies
