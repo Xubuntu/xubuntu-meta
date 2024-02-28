@@ -1,3 +1,15 @@
+xubuntu-meta (2.257) noble; urgency=medium
+
+  * Refreshed dependencies
+  * Removed avahi-autoipd from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed desktop-file-utils from desktop-recommends
+  * Removed gvfs-backends from desktop-recommends
+  * Removed network-manager-pptp from desktop-recommends
+  * Removed xul-ext-ubufox from desktop-recommends
+
+ -- Sean Davis <sean@bluesabre.org>  Wed, 28 Feb 2024 17:26:36 -0500
+
 xubuntu-meta (2.256) noble; urgency=medium
 
   * Refreshed dependencies
