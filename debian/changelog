@@ -1,3 +1,14 @@
+xubuntu-meta (2.258) noble; urgency=medium
+
+  * Refreshed dependencies
+  * Added gvfs-backends to desktop-recommends
+  * Added pinentry-gnome3 to desktop-minimal-recommends, desktop-
+    recommends
+  * Removed pinentry-gtk2 from desktop-minimal-recommends, desktop-
+    recommends
+
+ -- Sean Davis <sean@bluesabre.org>  Wed, 28 Feb 2024 23:44:12 -0500
+
 xubuntu-meta (2.257) noble; urgency=medium
 
   * Refreshed dependencies

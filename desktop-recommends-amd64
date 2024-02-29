@@ -39,6 +39,7 @@ gnome-sudoku
 gnome-system-tools
 greybird-gtk-theme
 gucharmap
+gvfs-backends
 gvfs-fuse
 hexchat
 hplip
@@ -75,7 +76,7 @@ parole
 pastebinit
 pavucontrol
 pcmciautils
-pinentry-gtk2
+pinentry-gnome3
 pipewire
 pipewire-pulse
 policykit-desktop-privileges

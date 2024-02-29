@@ -30,7 +30,7 @@ numlockx
 packagekit
 pavucontrol
 pcmciautils
-pinentry-gtk2
+pinentry-gnome3
 pipewire
 pipewire-pulse
 policykit-desktop-privileges
