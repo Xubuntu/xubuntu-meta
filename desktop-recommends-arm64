@@ -11,6 +11,7 @@ bluez-cups
 brltty
 brltty-x11
 catfish
+cloud-init
 cups
 cups-bsd
 cups-client

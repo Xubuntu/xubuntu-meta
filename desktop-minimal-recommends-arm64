@@ -1,6 +1,7 @@
 avahi-daemon
 bluez
 bluez-cups
+cloud-init
 cups
 cups-bsd
 cups-client

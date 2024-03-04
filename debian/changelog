@@ -1,3 +1,11 @@
+xubuntu-meta (2.259) noble; urgency=medium
+
+  * Refreshed dependencies
+  * Added cloud-init to desktop-minimal-recommends, desktop-recommends
+    (LP: #2055754)
+
+ -- Sean Davis <sean@bluesabre.org>  Mon, 04 Mar 2024 08:16:11 -0500
+
 xubuntu-meta (2.258) noble; urgency=medium
 
   * Refreshed dependencies
