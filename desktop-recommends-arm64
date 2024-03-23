@@ -30,6 +30,7 @@ fonts-symbola
 fonts-ubuntu
 fwupd
 fwupd-signed
+gdebi
 gigolo
 gimp
 gnome-accessibility-themes

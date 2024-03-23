@@ -29,6 +29,7 @@ fonts-opensymbol
 fonts-symbola
 fonts-ubuntu
 fwupd
+gdebi
 gigolo
 gimp
 gnome-accessibility-themes
@@ -94,7 +95,6 @@ synaptic
 system-config-printer
 thunar-archive-plugin
 thunar-media-tags-plugin
-thunderbird
 transmission-gtk
 update-notifier
 whoopsie

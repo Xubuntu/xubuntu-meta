@@ -1,3 +1,11 @@
+xubuntu-meta (2.260) noble; urgency=medium
+
+  * Refreshed dependencies
+  * Added gdebi to desktop-recommends (LP: #2058631)
+  * Removed thunderbird from desktop-recommends [armhf ppc64el]
+
+ -- Sean Davis <sean@bluesabre.org>  Fri, 22 Mar 2024 20:41:12 -0400
+
 xubuntu-meta (2.259) noble; urgency=medium
 
   * Refreshed dependencies
