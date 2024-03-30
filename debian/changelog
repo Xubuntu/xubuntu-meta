@@ -1,3 +1,10 @@
+xubuntu-meta (2.261) noble; urgency=medium
+
+  * Refreshed dependencies
+  * Removed indicator-messages from desktop-recommends [armhf]
+
+ -- Brian Murray <brian@ubuntu.com>  Fri, 29 Mar 2024 16:43:51 -0700
+
 xubuntu-meta (2.260) noble; urgency=medium
 
   * Refreshed dependencies
