@@ -1,3 +1,14 @@
+xubuntu-meta (2.262) noble; urgency=medium
+
+  * Refreshed dependencies
+  * Added indicator-messages to desktop-recommends [armhf]
+  * Added libfuse2t64 to desktop-minimal-recommends [amd64], desktop-
+    recommends [amd64]
+  * Removed libfuse2 from desktop-minimal-recommends [amd64], desktop-
+    recommends [amd64]
+
+ -- Sean Davis <sean@bluesabre.org>  Sat, 13 Apr 2024 00:53:01 -0400
+
 xubuntu-meta (2.261build1) noble; urgency=medium
 
   * No-change rebuild for CVE-2024-3094

@@ -50,7 +50,7 @@ indicator-messages
 inxi
 kerneloops
 laptop-detect
-libfuse2
+libfuse2t64
 libnotify-bin
 libnss-mdns
 libpam-gnome-keyring
