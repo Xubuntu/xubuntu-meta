@@ -1,3 +1,9 @@
+xubuntu-meta (2.261build1) noble; urgency=medium
+
+  * No-change rebuild for CVE-2024-3094
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Sun, 31 Mar 2024 17:33:01 +0000
+
 xubuntu-meta (2.261) noble; urgency=medium
 
   * Refreshed dependencies
