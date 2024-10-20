@@ -1,3 +1,18 @@
+xubuntu-meta (2.263) oracular; urgency=medium
+
+  * Update for oracular
+  * Refreshed dependencies
+  * Added iw to desktop, desktop-minimal
+  * Added libfuse2t64 to desktop-minimal-recommends [arm64 ppc64el
+    s390x], desktop-recommends [arm64 ppc64el s390x]
+  * Removed kerneloops from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed libfuse2 from desktop-minimal-recommends [arm64 armhf
+    ppc64el s390x], desktop-recommends [arm64 armhf ppc64el s390x]
+  * Removed wireless-tools from desktop, desktop-minimal
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Fri, 14 Jun 2024 15:03:31 +0000
+
 xubuntu-meta (2.262) noble; urgency=medium
 
   * Refreshed dependencies

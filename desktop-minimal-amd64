@@ -12,6 +12,7 @@ ghostscript
 gtk2-engines-pixbuf
 initramfs-tools
 inputattach
+iw
 language-selector-common
 libasound2-plugins
 libsasl2-modules
@@ -26,7 +27,6 @@ thunar
 thunar-volman
 ubuntu-drivers-common
 unzip
-wireless-tools
 wpasupplicant
 xdg-user-dirs
 xdg-user-dirs-gtk

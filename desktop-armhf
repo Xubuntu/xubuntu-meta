@@ -12,6 +12,7 @@ ghostscript
 gtk2-engines-pixbuf
 initramfs-tools
 inputattach
+iw
 language-selector-common
 language-selector-gnome
 libasound2-plugins
@@ -29,7 +30,6 @@ tumbler
 ubuntu-drivers-common
 unzip
 update-manager
-wireless-tools
 wpasupplicant
 xdg-user-dirs
 xdg-user-dirs-gtk
