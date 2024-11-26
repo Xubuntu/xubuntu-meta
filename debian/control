@@ -2,7 +2,7 @@ Source: xubuntu-meta
 Section: metapackages
 Priority: optional
 Maintainer: Xubuntu Developers <xubuntu-devel@lists.ubuntu.com>
-Standards-Version: 4.6.0.1
+Standards-Version: 4.6.2
 Build-Depends: debhelper-compat (= 13), germinate (>= 1.18)
 Rules-Requires-Root: no
 
@@ -31,7 +31,6 @@ Description: Xubuntu minimal system
 Package: xubuntu-core
 Architecture: all
 Depends: xubuntu-desktop-minimal, ${misc:Depends}
-Priority: optional
 Section: oldlibs
 Description: Xubuntu core system (transitional package)
  This is a transitional package. It can safely be removed.

@@ -41,6 +41,7 @@ greybird-gtk-theme
 gucharmap
 gvfs-backends
 gvfs-fuse
+heif-gdk-pixbuf
 hexchat
 hplip
 im-config
@@ -65,6 +66,7 @@ menulibre
 mousepad
 mugshot
 network-manager-gnome
+network-manager-openvpn-gnome
 network-manager-pptp-gnome
 numix-gtk-theme
 numlockx
@@ -100,9 +102,9 @@ thunar-archive-plugin
 thunar-media-tags-plugin
 transmission-gtk
 update-notifier
+webp-pixbuf-loader
 whoopsie
 wireplumber
-xcape
 xcursor-themes
 xfburn
 xfce4-clipman-plugin

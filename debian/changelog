@@ -1,3 +1,16 @@
+xubuntu-meta (2.265) plucky; urgency=medium
+
+  * Refreshed dependencies
+  * Added heif-gdk-pixbuf to desktop-recommends (LP: #2084324)
+  * Added network-manager-openvpn-gnome to desktop-recommends (LP: #2057923)
+  * Added webp-pixbuf-loader to desktop-recommends (LP: #2084324)
+  * Removed xcape from desktop-minimal-recommends, desktop-recommends (LP: #2084326)
+  * d/control:
+    - Bump Standards-Version to 4.6.2
+    - Remove redundant Priority from xubuntu-core package
+
+ -- Sean Davis <sean@bluesabre.org>  Mon, 25 Nov 2024 21:03:18 -0500
+
 xubuntu-meta (2.264) plucky; urgency=medium
 
   * Welcome to Plucky Puffin!
