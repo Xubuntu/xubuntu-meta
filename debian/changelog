@@ -1,3 +1,9 @@
+xubuntu-meta (2.266) UNRELEASED; urgency=medium
+
+  * Add desktop*riscv64 files (LP: #2092942)
+
+ -- Heinrich Schuchardt <heinrich.schuchardt@canonical.com>  Fri, 03 Jan 2025 14:28:43 +0100
+
 xubuntu-meta (2.265) plucky; urgency=medium
 
   * Refreshed dependencies
