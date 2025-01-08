@@ -1,3 +1,15 @@
+xubuntu-meta (2.266) plucky; urgency=medium
+
+  [ Heinrich Schuchardt ]
+  * Add desktop*riscv64 files (LP: #2092942)
+
+  [ Sean Davis ]
+  * Refreshed dependencies
+  * Removed fwupd-signed from desktop-minimal-recommends [riscv64]
+  * Removed gimp from desktop-recommends [s390x]
+
+ -- Sean Davis <sean@bluesabre.org>  Wed, 08 Jan 2025 07:52:59 -0500
+
 xubuntu-meta (2.265) plucky; urgency=medium
 
   * Refreshed dependencies
