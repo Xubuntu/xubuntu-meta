@@ -1,3 +1,11 @@
+xubuntu-meta (2.267) plucky; urgency=medium
+
+  * Refreshed dependencies
+  * Added va-driver-all to desktop-minimal-recommends, desktop-
+    recommends (LP: #2104767)
+
+ -- Sean Davis <sean@bluesabre.org>  Mon, 31 Mar 2025 06:30:28 -0400
+
 xubuntu-meta (2.266) plucky; urgency=medium
 
   [ Heinrich Schuchardt ]
