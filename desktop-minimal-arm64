@@ -16,7 +16,6 @@ iw
 language-selector-common
 libasound2-plugins
 libsasl2-modules
-libu2f-udev
 lightdm
 lightdm-gtk-greeter
 openprinting-ppds
@@ -39,7 +38,6 @@ xfce4-settings
 xfdesktop4
 xfwm4
 xkb-data
-xorg
 xterm
 xubuntu-artwork
 xubuntu-default-settings
