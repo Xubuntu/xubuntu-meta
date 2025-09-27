@@ -1,3 +1,10 @@
+xubuntu-meta (2.269) questing; urgency=medium
+
+  * Refreshed dependencies
+  * Added xorg to desktop, desktop-minimal (LP: #2114015)
+
+ -- Sean Davis <sean@bluesabre.org>  Sat, 27 Sep 2025 06:35:57 -0400
+
 xubuntu-meta (2.268) questing; urgency=medium
 
   * Refreshed dependencies
