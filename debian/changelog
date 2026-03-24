@@ -1,3 +1,11 @@
+xubuntu-meta (2.270) resolute; urgency=medium
+
+  * Refreshed dependencies
+  * Added dracut to desktop, desktop-minimal
+  * Removed initramfs-tools from desktop, desktop-minimal
+
+ -- Sean Davis <sean@bluesabre.org>  Mon, 23 Mar 2026 21:18:10 -0400
+
 xubuntu-meta (2.269) questing; urgency=medium
 
   * Refreshed dependencies

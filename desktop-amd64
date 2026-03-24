@@ -5,12 +5,12 @@ bc
 ca-certificates
 dmz-cursor-theme
 doc-base
+dracut
 fontconfig
 fonts-dejavu-core
 foomatic-db-compressed-ppds
 ghostscript
 gtk2-engines-pixbuf
-initramfs-tools
 inputattach
 iw
 language-selector-common
