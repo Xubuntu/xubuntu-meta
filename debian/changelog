@@ -1,3 +1,12 @@
+xubuntu-meta (2.271) resolute; urgency=medium
+
+  * Refreshed dependencies
+  * Added initramfs-tools to desktop, desktop-minimal
+  * Added thunderbird to desktop-recommends [riscv64]
+  * Removed dracut from desktop, desktop-minimal
+
+ -- Sean Davis <sean@bluesabre.org>  Tue, 07 Apr 2026 14:49:52 -0400
+
 xubuntu-meta (2.270) resolute; urgency=medium
 
   * Refreshed dependencies
