@@ -5,7 +5,7 @@ xubuntu-meta (2.271) resolute; urgency=medium
   * Added thunderbird to desktop-recommends [riscv64]
   * Removed dracut from desktop, desktop-minimal
 
- -- Sean Davis <sean@bluesabre.org>  Tue, 07 Apr 2026 14:49:52 -0400
+ -- Florent 'Skia' Jacquet <skia@ubuntu.com>  Wed, 25 Mar 2026 20:52:08 +0100
 
 xubuntu-meta (2.270) resolute; urgency=medium
 
