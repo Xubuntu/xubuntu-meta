@@ -1,3 +1,10 @@
+xubuntu-meta (2.272) resolute; urgency=medium
+
+  * Refreshed dependencies
+  * Removed initramfs-tools from desktop, desktop-minimal
+
+ -- Benjamin Drung <bdrung@ubuntu.com>  Fri, 17 Apr 2026 00:06:28 +0200
+
 xubuntu-meta (2.271) resolute; urgency=medium
 
   * Refreshed dependencies
