@@ -24,7 +24,7 @@ libnotify-bin
 libnss-mdns
 libpam-gnome-keyring
 mate-polkit
-network-manager-gnome
+network-manager-applet
 numlockx
 packagekit
 pavucontrol

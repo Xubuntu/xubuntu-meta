@@ -30,7 +30,7 @@ fonts-ubuntu
 fwupd
 gdebi
 gigolo
-gnome-accessibility-themes
+gimp
 gnome-disk-utility
 gnome-font-viewer
 gnome-mines
@@ -41,7 +41,6 @@ gucharmap
 gvfs-backends
 gvfs-fuse
 heif-gdk-pixbuf
-hexchat
 hplip
 im-config
 indicator-messages
@@ -64,7 +63,7 @@ mate-polkit
 menulibre
 mousepad
 mugshot
-network-manager-gnome
+network-manager-applet
 network-manager-openvpn-gnome
 network-manager-pptp-gnome
 numix-gtk-theme

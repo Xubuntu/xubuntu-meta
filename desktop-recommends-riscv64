@@ -19,6 +19,7 @@ cups-filters
 dbus-x11
 engrampa
 espeak
+firefox
 fonts-liberation
 fonts-noto-cjk
 fonts-noto-color-emoji
@@ -31,7 +32,6 @@ fwupd
 gdebi
 gigolo
 gimp
-gnome-accessibility-themes
 gnome-disk-utility
 gnome-font-viewer
 gnome-mines
@@ -42,7 +42,6 @@ gucharmap
 gvfs-backends
 gvfs-fuse
 heif-gdk-pixbuf
-hexchat
 hplip
 im-config
 indicator-messages
@@ -65,7 +64,7 @@ mate-polkit
 menulibre
 mousepad
 mugshot
-network-manager-gnome
+network-manager-applet
 network-manager-openvpn-gnome
 network-manager-pptp-gnome
 numix-gtk-theme

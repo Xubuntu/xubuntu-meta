@@ -33,7 +33,6 @@ fwupd-signed
 gdebi
 gigolo
 gimp
-gnome-accessibility-themes
 gnome-disk-utility
 gnome-font-viewer
 gnome-mines
@@ -44,7 +43,6 @@ gucharmap
 gvfs-backends
 gvfs-fuse
 heif-gdk-pixbuf
-hexchat
 hplip
 im-config
 indicator-messages
@@ -64,11 +62,10 @@ libxfce4ui-utils
 lightdm-gtk-greeter-settings
 mate-calc
 mate-polkit
-memtest86+
 menulibre
 mousepad
 mugshot
-network-manager-gnome
+network-manager-applet
 network-manager-openvpn-gnome
 network-manager-pptp-gnome
 numix-gtk-theme

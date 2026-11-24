@@ -1,3 +1,20 @@
+xubuntu-meta (2.273) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added firefox to desktop-recommends [riscv64]
+  * Added gimp to desktop-recommends [s390x]
+  * Added network-manager-applet to desktop-minimal-recommends, desktop-
+    recommends
+  * Removed gnome-accessibility-themes from desktop-recommends (LP: #2172658)
+  * Removed gtk2-engines-pixbuf from desktop, desktop-minimal
+  * Removed hexchat from desktop-recommends (LP: #2172657)
+  * Removed memtest86+ from desktop-minimal-recommends [amd64], desktop-
+    recommends [amd64]
+  * Removed network-manager-gnome from desktop-minimal-recommends,
+    desktop-recommends
+
+ -- Sean Davis <sean@bluesabre.org>  Mon, 23 Nov 2026 21:01:54 -0500
+
 xubuntu-meta (2.272) resolute; urgency=medium
 
   * Refreshed dependencies
