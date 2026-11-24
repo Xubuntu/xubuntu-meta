@@ -12,8 +12,13 @@ xubuntu-meta (2.273) UNRELEASED; urgency=medium
     recommends [amd64]
   * Removed network-manager-gnome from desktop-minimal-recommends,
     desktop-recommends
+  * d/control:
+    - Bump Standards-Version to 4.7.4
+    - Bump debhelper-compat to 14
+    - Remove redundant priority-optional field
+    - Remove redundant rules-requires-root field
 
- -- Sean Davis <sean@bluesabre.org>  Mon, 23 Nov 2026 21:01:54 -0500
+ -- Sean Davis <sean@bluesabre.org>  Mon, 23 Nov 2026 21:12:28 -0500
 
 xubuntu-meta (2.272) resolute; urgency=medium
 

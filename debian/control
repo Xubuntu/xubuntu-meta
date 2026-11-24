@@ -1,10 +1,8 @@
 Source: xubuntu-meta
 Section: metapackages
-Priority: optional
 Maintainer: Xubuntu Developers <xubuntu-devel@lists.ubuntu.com>
-Standards-Version: 4.6.2
-Build-Depends: debhelper-compat (= 13), germinate (>= 1.18)
-Rules-Requires-Root: no
+Standards-Version: 4.7.4
+Build-Depends: debhelper-compat (= 14), germinate (>= 1.18)
 
 Package: xubuntu-desktop
 Architecture: any
