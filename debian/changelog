@@ -1,4 +1,4 @@
-xubuntu-meta (2.273) UNRELEASED; urgency=medium
+xubuntu-meta (2.273) tenacious; urgency=medium
 
   * Refreshed dependencies
   * Added firefox to desktop-recommends [riscv64]
@@ -18,7 +18,7 @@ xubuntu-meta (2.273) UNRELEASED; urgency=medium
     - Remove redundant priority-optional field
     - Remove redundant rules-requires-root field
 
- -- Sean Davis <sean@bluesabre.org>  Mon, 23 Nov 2026 21:12:28 -0500
+ -- Sean Davis <sean@bluesabre.org>  Mon, 23 Nov 2026 21:14:28 -0500
 
 xubuntu-meta (2.272) resolute; urgency=medium
 
